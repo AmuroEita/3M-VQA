@@ -1,0 +1,704 @@
+id,caption
+1,"The CT scan of the head shows evidence of a significant intracranial hemorrhage. Given the patient's history of hemophilia A, fall, and symptoms of lethargy and vomiting, the initial and appropriate response would be to administer factor VIII replacement to manage the bleeding. Immediate consultation with a hematologist and neurosurgery may also be required."
+2,"The CT image shows possible pancreatic inflammation, suggested by changes in the pancreas area. This, combined with the elevated serum amylase and the symptoms, could indicate acute pancreatitis following the stone removal procedure. The patient's low blood pressure and tachycardia suggest possible shock or sepsis.
+
+The appropriate initial treatment in addition to intravenous fluids is likely pain management, which can involve administering analgesics. Monitoring for complications and supportive care in a critical care setting may also be necessary."
+3,"The MRI image shows bilateral kidneys with numerous cysts of varying sizes, which is indicative of polycystic kidney disease (PKD). This aligns with the clinical scenario of the patient and their family history of kidney issues. The modality used is a T2-weighted MRI with fat suppression, providing clear visualization of the cystic structures within the kidneys. The presence of multiple renal cysts suggests autosomal dominant polycystic kidney disease (ADPKD), considering the patient's age and family history.
+
+Regarding which statement is incorrect, common aspects of ADPKD include:
+
+1. Autosomal dominant inheritance pattern.
+2. Gradual increase in cyst number and size over time.
+3. Potential development of renal failure in mid-life or later.
+4. Association with extrarenal manifestations, such as liver cysts and cerebral aneurysms.
+
+Any statement conflicting with these typical features would be considered incorrect regarding ADPKD."
+4,"The May-Giemsa stained bone marrow smear shows numerous promyelocytes with some of them exhibiting Auer rods. This is indicative of acute promyelocytic leukemia (APL).
+
+For a patient with APL, the drug that should be administered is all-trans retinoic acid (ATRA), which is effective in inducing remission in this subtype of acute myeloid leukemia."
+5,"The image shows a laryngeal endoscopy of a 45-year-old male patient who is experiencing hoarseness, throat discomfort, and chronic cough. The image likely depicts the vocal cords, which appear to have an abnormality. Given the clinical history of hoarseness without apparent cause and the absence of smoking or drinking, this could suggest a benign lesion such as vocal cord nodules, polyps, or possibly a papilloma affecting the vocal cords. Further investigation would be needed to determine the exact cause."
+6,"The CT image shows an abdominal transverse section with a noticeable herniation through the umbilicus, consistent with an umbilical hernia. The contents of the hernia sac appear to include bowel loops. Given the patient's background of alcoholic liver cirrhosis, the ascites may contribute to the herniation. The hernia appears incarcerated, as suggested by the inability to manually reduce it and the patient's symptoms.
+
+Appropriate response to this patient involves urgent surgical consultation for evaluation and potential surgical repair, especially considering the risk of bowel strangulation or obstruction."
+7,"The peripheral blood smear image shows numerous schistocytes (fragmented red blood cells). This is indicative of microangiopathic hemolytic anemia, commonly associated with thrombotic thrombocytopenic purpura (TTP). 
+
+Given the clinical presentation and laboratory findings—anemia, thrombocytopenia, mildly elevated bilirubin, and high lactate dehydrogenase—the presence of schistocytes supports a diagnosis of TTP. The appropriate treatment for TTP is plasma exchange therapy, and corticosteroids can also be considered."
+8,"This audiogram shows a significant difference between the air conduction (circles) and bone conduction (crosses) thresholds in the right ear, indicating a sensorineural hearing loss. The left ear is represented with a relatively normal audiogram.
+
+Given the sudden onset of sensorineural hearing loss in the right ear with tinnitus, the appropriate treatment in this case is likely systemic steroids. This is a common initial treatment approach for sudden sensorineural hearing loss, aiming to reduce inflammation and improve hearing recovery."
+9,"The image shows a fetal heart rate tocograph. The recording indicates the fetal heart rate over time, with values primarily ranging from 120 to 160 bpm. There are sections of the recording where the heart rate increases, suggesting accelerations. Given the clinical context—abdominal pain, high blood pressure, hard abdomen, cervical dilation, and vaginal bleeding—this could suggest a potential obstetric emergency, such as placental abruption or preeclampsia. Immediate evaluation and likely delivery are appropriate responses."
+10,"The image shows a karyotype with trisomy 21, indicating Down syndrome. This is suggested by the presence of three copies of chromosome 21.
+
+Based on the description provided in the question, the patient has characteristics consistent with Down syndrome, such as facial abnormalities and hypotonia. 
+
+In the future, this patient is likely to experience:
+
+1. Developmental delay
+2. Intellectual disability
+3. Potential heart defects
+4. Increased risk for certain medical conditions such as thyroid problems and leukemia
+
+Regular medical check-ups and supportive therapies can help manage these potential issues effectively."
+11,"The Gram-stained sputum specimen shows numerous Gram-positive cocci, which appear in clusters. This suggests the presence of Staphylococcus species, potentially Staphylococcus aureus. Given the clinical scenario of worsening sputum production and signs of infection, an empirical antibiotic treatment such as vancomycin may be appropriate, especially if methicillin-resistant Staphylococcus aureus (MRSA) is a concern, while awaiting further identification and susceptibility testing."
+12,"The image shows the left tympanic membrane, which appears to be bulging and erythematous. This is consistent with signs of a middle ear effusion, suggesting possible otitis media with effusion or acute otitis media. Given the clinical history of recent ear pain and decreased hearing, a useful test to confirm the diagnosis would be tympanometry, as it can assess the presence of fluid in the middle ear and evaluate the mobility of the tympanic membrane."
+13,"The image shows the back of an 8-year-old girl with a widespread rash characterized by redness, small bumps, and possible excoriations due to scratching. The distribution of the rash on other parts of the body, along with elevated eosinophils and IgE levels, suggests atopic dermatitis. 
+
+Complications to be cautious about in atopic dermatitis include:
+
+1. Skin infections due to scratching.
+2. Exacerbation of asthma or allergic rhinitis.
+3. Sleep disturbances due to itching.
+4. Psychological impacts due to chronic itching and visible rash. 
+
+Monitoring for these complications is important in managing the condition effectively."
+14,"The image shows the left side of an elderly male patient's head with a prominent purplish-red lesion. The lesion appears enlarged and slightly raised, with signs of bleeding. The skin surrounding the lesion does not show scale formation. This presentation could be consistent with conditions like a vascular lesion (e.g., Kaposi's sarcoma) or another form of neoplastic growth, particularly in the context of anticoagulant use and the noted skin changes."
+15,"The image is a diffusion-weighted MRI of the brain, typically used to identify areas of acute ischemia, such as those caused by a stroke. Bright areas in the diffusion-weighted image suggest regions where there may be restricted diffusion, often indicating recent infarcts or ischemia. In the context of the 64-year-old male with left hemiplegia and impaired consciousness, this imaging likely shows acute ischemic changes.
+
+Given the patient's irregular pulse rate, the most likely ECG diagnosis in this scenario is atrial fibrillation, which can lead to embolic strokes resulting in such MRI findings."
+16,"The transvaginal ultrasound image shows the cervical area with the presence of a hyperechoic rim and a hypoechoic center, indicating potential issues such as a shortened cervix, funneling, or cervical incompetence. In the context of the 28-year-old pregnant female presenting with abdominal pain and bleeding, it is critical to assess the cervical length and structure.
+
+Given these observations and the symptoms reported, the first step would be to monitor for signs of preterm labor or cervical insufficiency. Immediate actions might include further evaluation of cervical length and possibly considering interventions like cervical cerclage or administration of tocolytics, depending on the clinical findings and doctor's assessment."
+17,"The CT scan images of the head show general cerebral edema with loss of normal gray-white matter differentiation, which is indicative of significant brain injury. The cerebellar tonsils appear to be slightly compressed, suggesting possible downward herniation.
+
+In the context of the presented scenario, to determine brain death, the following clinical examinations and tests are necessary (apart from imaging findings):
+
+1. **Clinical Brain Examination:**
+   - Absence of brainstem reflexes (e.g., pupillary light reflex, corneal reflex, oculocephalic reflex).
+   - Absence of motor responses to painful stimuli.
+   - Apnea test to confirm that there is no spontaneous breathing.
+
+2. **Confirmatory Tests:**
+   - Electroencephalogram (EEG) showing no electrical activity.
+   - Transcranial Doppler ultrasound or cerebral angiography demonstrating lack of blood flow to the brain.
+
+The clinical condition presented and the CT images support the suspicion of brain death, but the confirmatory clinical tests are essential for diagnosis."
+18,"The image shows a three-dimensional CT reconstruction of an infant's cranium from various angles. It highlights multiple cranial sutures:
+
+1. **Crown View (前面像)**: 
+   - Displays the frontal (1) and metopic (2) sutures.
+
+2. **Lateral View (左側面像)**: 
+   - Frontal (1), squamosal (3), and lambdoid (4) sutures are visible.
+   
+3. **Posterior View (後面像)**: 
+   - Shows the lambdoid (4) and sagittal (5) sutures.
+
+4. **Top View (上面像)**: 
+   - Shows the coronal (1), sagittal (5), and lambdoid (4) sutures.
+
+The metopic suture (2) typically disappears by adulthood as it fuses during early childhood."
+19,"The image shows a graph illustrating the prevalence of disease Y across different cohorts with birth years 1940, 1950, 1960, and 1970. The y-axis represents the prevalence per 1,000 people, while the x-axis displays the age at measurement in years (ranging from 20 to 80).
+
+- Each cohort is represented by a different symbol: diamonds for 1940, crosses for 1950, squares for 1960, and circles for 1970.
+- The graph seems to show changes in disease prevalence across these cohorts, suggesting trends over time.
+
+To accurately determine which statements are true regarding the prevalence of disease Y, one would need to examine changes in prevalence across ages for each cohort. Choices about the data would typically relate to whether prevalence increases, decreases, or remains stable with age or across different birth cohorts."
+20,"The diagram illustrates the relationship between the loading amount of toxic substances and the probability of toxicity. The curve indicates the probability of toxicity occurrence on the vertical axis, likely labeled with a percentage, and the loading amount on the horizontal axis. To calculate the acceptable daily intake (ADI), the focus is typically on the no observed adverse effect level (NOAEL), which would correspond to a point on the graph where there is no measurable adverse effect, often located at or below the 50% toxicity probability mark, such as point ③ in this diagram."
+21,"The biomedical image from the lower gastrointestinal endoscopy shows a section of the sigmoid colon with irregular, ulcerated, and raised lesions typical of adenocarcinoma. The pathology confirmed it as well-differentiated adenocarcinoma. 
+
+Given the presence of adenocarcinoma and considering the patient's symptoms and history, the next step would typically involve staging the cancer. This can include imaging studies such as a CT scan of the abdomen and pelvis to check for local spread or distant metastasis, and possibly an MRI or PET scan for further assessment. A consultation with an oncologist or a colorectal surgeon for treatment planning—which might involve surgery, chemotherapy, or radiation—would also be appropriate."
+22,"The biomedical images are radiographs of the pelvic region taken using the Martius and Guthmann methods. These images are likely used to assess the maternal pelvis dimensions in relation to the fetal head position. 
+
+Given the clinical data: 
+
+- A 36-year-old primigravida at 37 weeks presented with a sensation of water breaking, confirmed as amniotic fluid leakage.
+- Cervical dilation progressed slowly from 2 cm to 3 cm over the course of the day.
+- The fetal head is in the pelvis (SP +1 cm to SP +2 cm), with the greater fontanel in the 1 o'clock position, consistent with ongoing labor with cephalic presentation.
+
+Diagnosis: The case suggests a normal labor progression, possibly with cephalopelvic disproportion considerations due to the slow dilation progress. The pelvic measurements are likely being evaluated for adequacy for vaginal delivery, considering the patient's shorter stature."
+23,"The CT images show axial slices of the abdomen and pelvis. The images suggest a possible enlargement or inflammation in the right kidney area, along with signs of hydronephrosis. This is consistent with the clinical presentation of back pain, fever, and urinary abnormalities, suggesting acute pyelonephritis or a urinary tract infection with possible obstruction.
+
+Given the hypotension and elevated heart rate, the first action should be to stabilize the patient by addressing the potential for sepsis. Immediate administration of intravenous fluids and broad-spectrum antibiotics is critical."
+24,"The image shows a Gram stain of a blood culture. The bacteria appear as small, rod-shaped (bacilli) and are Gram-negative, as indicated by their pink coloration. This suggests an infection with Gram-negative bacilli, likely Escherichia coli, which commonly causes urinary tract infections and sepsis, fitting the clinical presentation of back pain and fever."
+25,"The CT images show the abdominal region. There is evidence of inflammation indicated by thickening of the intestinal wall and possible signs of fluid accumulation in the right lower quadrant. Given the patient's symptoms of lower right abdominal pain, history of appendectomy, and elevated white blood cell count with neutrophilia, the findings are suggestive of a condition affecting the ileocecal region. The most likely diagnosis in this context is a condition affecting the intestines such as terminal ileitis or a similar inflammatory process, such as Crohn’s disease."
+26,"The biomedical image shows a depiction of an eye examination using a penlight and an occlusion test. Here's a breakdown:
+
+1. **Initial State:** The patient is instructed to look at the penlight directly. The corneal reflex is centered in both eyes.
+
+2. **Occlusion Test:** The right eye is covered with an occluding plate. 
+
+3. **After Occlusion Removal:** 
+   - When the occlusion is lifted, a movement is observed in the right eye, indicating that it was not aligned properly and adjusted when uncovered. The diagram shows the right eye moving slightly up to correct its position, suggesting a misalignment when it was uncovered.
+
+This pattern suggests a condition known as **phoria**, specifically an esophoria or similar, where the eye tends to misalign when one eye is covered but regains alignment when uncovered. This condition can cause the symptoms of double vision experienced by the patient, particularly during activities like prolonged driving."
+27,"The image shows significant swelling and redness in the scrotal area, with black discoloration that may indicate necrosis. Given the patient's symptoms and history, this presentation is highly suggestive of Fournier's gangrene, a rapidly progressing necrotizing fasciitis of the perineum.
+
+In this scenario, the first test to perform is an urgent surgical consultation for possible debridement, but before that, imaging such as a CT scan may be used to assess the extent of the infection and gas formation in soft tissues. However, immediate surgical intervention is critical and may proceed based on clinical evaluation."
+28,"The head CT scan shows a hyperdense area suggestive of bleeding, likely indicating an intracranial hemorrhage. Combined with the clinical findings of bulging fontanelle, delayed light reflexes, and significant liver enlargement, the patient likely has coagulopathy (supported by the elevated PT-INR) that could be secondary to a vitamin K deficiency or liver dysfunction.
+
+Immediate action should include:
+
+1. Stabilizing the airway, breathing, and circulation.
+2. Administering vitamin K to address potential deficiency.
+3. Considering the administration of fresh frozen plasma to correct coagulopathy.
+
+These steps are critical to manage the potential intracranial bleed and stabilize the patient’s condition."
+29,"The mammography image shows a dense, irregular mass in the right breast, consistent with the description provided. The appearance of the mass suggests it is irregular in shape and has spiculated margins, which are suggestive of a malignant tumor, such as breast cancer. The lack of tenderness and poor mobility further support this as a likely diagnosis. The absence of nipple discharge is also noted.
+
+Given these observations and the characteristics of the mass, it is highly likely that the mass is a malignant breast tumor."
+30,"The CT images display changes in the thoracic region related to treatment for squamous cell carcinoma of the esophagus. 
+
+1. **Pre-treatment (Top Image)**: You can see the tumor impacting the esophagus, potentially leading to esophageal obstruction.
+
+2. **Post-treatment Mediastinum (Middle Image)**: After treatment, there may be changes such as narrowing or obstruction of the esophagus or fistula formation.
+
+3. **Post-treatment Lung Fields (Bottom Image)**: This image might show lung infiltrates, indicative of aspiration pneumonia due to esophageal fistula or other treatment-related changes.
+
+The patient's recurrent pneumonia is likely caused by aspiration due to an esophageal stricture or fistula formation following the treatment, allowing food or liquid to enter the respiratory tract."
+31,"The abdominal contrast-enhanced CT image shows a cross-sectional view of the abdomen with both kidneys visible. There appears to be a mass on the left kidney, characterized by a solid lesion, which can be seen on the left side of the image. The mass is well-defined, suggesting it might be distinct from the surrounding renal tissue.
+
+Given the context of the case—considering the presence of a kidney mass, the patient’s stable vital signs, and normal laboratory findings aside from occult blood in urine—the appropriate treatment would depend on the nature and assessment of the mass. Options generally include active surveillance, surgical removal (such as partial nephrectomy), or other oncological interventions depending on the specific diagnosis such as a renal cell carcinoma or other types of renal masses. Further consultation with an oncologist or urologist would likely be recommended to determine the best course of action."
+32,"The image shows the anterior neck region of a 55-year-old male, displaying notable swelling. This is consistent with a diffusely enlarged thyroid gland, as observed in the patient's case. The question describes symptoms and lab findings indicating increased tenderness in the right thyroid lobe and lab results with low TSH and elevated FT4 levels, along with a high CRP level. These findings strongly suggest subacute thyroiditis (de Quervain's thyroiditis) as the most likely condition."
+33,"The images show the skin of a 53-year-old female patient's hands and fingers. There is visible erythema and rash present, particularly around the knuckles and finger joints, which may suggest Gottron's papules, commonly associated with dermatomyositis.
+
+Given the clinical findings, particularly the positive anti-MDA5 antibody, the patient is likely dealing with dermatomyositis, with potential complications including interstitial lung disease (ILD). This is suggested by the elevated KL-6 and SP-D levels, which are markers of lung involvement. Among these complications, we should be most concerned about interstitial lung disease due to its potential severity and impact on respiratory function."
+34,"The T2-weighted sagittal MRI image shows a large pelvic mass that appears to be non-homogeneous. The mass is located anterior to the uterus, which is retroflexed and appears normal in size. Given the elevated CA125 levels and the characteristics of the mass, further evaluation with a surgical approach, such as exploratory surgery or biopsy, would likely be considered first to ascertain the nature of the mass."
+35,"The chest contrast-enhanced CT image shows findings suggestive of a pulmonary embolism, given the clinical scenario of sudden epigastric discomfort, sweating, and subsequent hypoxia. Pulmonary embolism is a known postoperative complication. 
+
+Immediate management should include anticoagulation therapy."
+36,"The biomedical image shows CT scans of the chest in both coronal (upper image) and axial (lower image) views. The coronal view reveals a large mass in the mediastinum, which compresses the adjacent structures. In the axial view, there is clear evidence of obstruction, most likely involving the superior vena cava (SVC), which appears narrowed.
+
+The patient’s symptoms, including facial and upper extremity edema and distention of the chest wall veins, are consistent with superior vena cava syndrome. This is likely due to the stenosis or compression of the superior vena cava by the primary mediastinal seminoma identified in the biopsy."
+37,"The biomedical image shows a peripheral blood smear stained with May-Giemsa. The smear highlights atypical, large lymphocytes with irregular nuclear contours and abundant cytoplasm. These features suggest an increase in reactive lymphocytes, possibly indicative of a hematological malignancy such as leukemia or lymphoma.
+
+Given the patient's symptoms (skin erythema, malaise, high white blood cell count, elevated AST and LD levels) and family history of blood disease, one should be aware of potential complications related to hematological disorders. The particularly elevated lactate dehydrogenase (LD) suggests high cell turnover, often seen in aggressive conditions like leukemia.
+
+Complications to be aware of include:
+1. Risk of infection due to abnormal or immature white blood cells.
+2. Anemia or thrombocytopenia caused by bone marrow dysfunction.
+3. Potential for organ infiltration (e.g., liver, spleen) by abnormal cells leading to dysfunction.
+
+Prompt evaluation by a hematologist and possibly a bone marrow biopsy might be necessary for further diagnosis and management."
+38,"The biomedical image shows a May-Giemsa stained bone marrow blood smear. The smear reveals a large cell with abundant cytoplasm, irregular or indented nucleus, and the presence of Auer rods, which are needle-like inclusions. These are indicative of myeloid blasts commonly seen in acute myeloid leukemia (AML). The background features numerous red blood cells and some platelets. The cellular morphology and clinical presentation align with possible acute leukemia."
+39,"The image shows frontal and lateral views of a person's neck with five labeled lines indicating specific anatomical sites. For emergency airway management, the most appropriate site for puncture or incision is at the cricothyroid membrane. This is typically represented by site ③ in most anatomical diagrams because it is located between the thyroid and cricoid cartilages. This location is preferred for cricothyrotomy due to its relatively superficial and accessible position."
+40,"The CT images show the abdominal region with possible gallbladder inflammation. There may be signs of thickening of the gallbladder wall or pericholecystic fluid, suggesting acute cholecystitis. This is supported by the clinical presentation of right upper quadrant pain, fever, leukocytosis, and tenderness on examination. Elevated γ-GT may indicate biliary tract involvement."
+41,"The image shows the lower face of a young male with visible asymmetry, possibly indicating mild swelling in the left cheek area. Based on the clinical presentation:
+
+**At this point, the least likely finding might be:**
+
+A) Clear nasal passages, since rhinoscopy has shown purulent discharge on the left side consistent with possible sinusitis or infection.
+
+B) No swelling, as there is already evidence of cheek swelling in the photograph.
+
+C) Absence of pain or pressure in the sinus region, as the patient reports discomfort.
+
+D) Healthy appearing nasal mucosa, as purulent discharge suggests otherwise.
+
+The least likely finding is likely to be ""A"" or ""D"" given the presence of infection indicators."
+42,"The image shows a stool color card from a maternal and child health handbook, with a gradient of colors ranging from light to dark. At 1 month of age, if a child's stool color matches the lightest color (number 1), it could indicate a potential health issue, such as biliary atresia. This condition can cause pale, clay-colored stools due to the absence of bile.
+
+The card provides a visual reference for healthy versus concerning stool colors to aid in early detection of liver or bile duct issues in infants."
+43,"The image shows X-ray views of the lumbar spine. The history of claudication-type pain in the lower legs, which is relieved by sitting and exacerbated by walking, along with a normal ABI, suggests possible lumbar spinal stenosis. The X-ray may reveal degenerative changes or narrowing in the lumbar region.
+
+For diagnosis, more specific tests like MRI or CT of the lumbar spine are useful, as they can better visualize soft tissue structures including the spinal canal and any nerve root compression."
+44,"The image shows a child's torso with a rash characterized by multiple red spots, some of which appear to be vesicular (indicating fluid-filled blisters). Based on the description and appearance, this rash could suggest a condition like chickenpox (varicella).
+
+Regarding school attendance, if this is chickenpox, it is usually recommended to stay home and avoid school until all the spots have crusted over to prevent spreading the virus to others."
+45,"The image shows an audiogram from a 45-year-old female patient with bilateral hearing loss and tinnitus. The audiogram indicates hearing levels (in dB) across different frequencies (Hz), with lower values representing better hearing and higher values representing worse hearing.
+
+In this audiogram: 
+- The curves show a flat, moderate hearing loss across all frequencies tested (250 Hz to 8000 Hz), commonly around 60 to 70 dB.
+- Both air conduction (shown by circles) and bone conduction (shown by crosses) thresholds are similarly reduced, indicating a sensorineural hearing loss pattern.
+
+Given this diagnostic pattern and gradual worsening starting around age 25, the most likely diagnosis is otosclerosis, although this typically presents with a conductive pattern on audiograms. Other possible considerations might include genetic conditions leading to early-onset sensorineural hearing loss."
+46,"The image shows a close-up of a right ear with a laceration that appears to be bleeding. The wound is located on the outer edge of the ear, with noticeable blood around the area. There is no visible debris or contamination. Given the need to clean the wound before closure, an antiseptic such as povidone-iodine or chlorhexidine can be used to disinfect the area, provided there are no contraindications or allergies."
+47,"The image shows both hands of a 40-year-old male with some fingers appearing pale or white, indicative of Raynaud's phenomenon. This condition is often characterized by numbness and coldness in fingers and can be triggered by cold temperatures or stress. The symptoms suggest vasospasm or reduced blood flow to the fingers.
+
+Given this scenario, the patient may benefit from lifestyle modifications to keep warm, avoid triggers, and possibly medications such as calcium channel blockers to improve blood flow and reduce vasospasm. It's important for the patient to follow up with a healthcare provider for proper management and treatment of Raynaud's phenomenon."
+48,"The ultrasound images show a dilated bile duct, which suggests an obstruction in the liver's biliary system. The clinical findings—yellowing of the skin (jaundice), elevated bilirubin levels (especially direct), and increased ALP and γ-GT levels—support the presence of cholestasis. Possible pathologies include obstructive jaundice due to a bile duct stone (choledocholithiasis) or a mass causing bile duct compression, such as a pancreatic head tumor or cholangiocarcinoma."
+49,"The image shows a cardiotocograph (CTG) displaying the fetal heart rate (FHR) and uterine contractions. 
+
+On the left, the FHR is charted with beats per minute ranging from 120 to 160 bpm. The trace appears to be within a normal range, without notable decelerations or increases, indicating fetal well-being.
+
+On the right, uterine contractions are depicted, showcasing consistent patterns. Contractions have a regular frequency and duration, consistent with active labor.
+
+Given the clinical information, the appropriate response is to continue monitoring the patient during labor, as no abnormalities are noted in the CTG."
+50,"The CT image shows a transverse section of the chest, highlighting the lungs and surrounding structures. In the left lung, there is a visible lesion consistent with the clinical description of adenocarcinoma. Given the context of radiotherapy for lung cancer treatment, possible complications associated with this treatment include:
+
+- Radiation pneumonitis: Inflammation of the lung tissue following radiation exposure.
+- Fibrosis: Long-term scarring of lung tissue due to radiation.
+- Esophagitis: Inflammation of the esophagus.
+- Fatigue and skin changes in the treated area.
+
+These are common concerns when choosing radiotherapy for lung cancer."
+51,"The biomedical image shows coronary angiography with two different views of the coronary arteries. The arrows indicate a stenosis lesion in the left anterior descending artery (LAD), showing a 50-75% narrowing. 
+
+In a patient with a history of chest discomfort and the presence of LAD stenosis, the appropriate test to assess the presence of myocardial ischemia would be myocardial perfusion imaging (MPI) such as a nuclear stress test, or stress echocardiography. These tests evaluate blood flow to the heart muscle during rest and stress, helping to determine if the stenosis is causing significant ischemia."
+52,"The X-ray shows the abdominal area. Given the patient's symptoms—severe pain from the left side of the abdomen to the back, the presence of occult blood, and the knocking pain in the left costovertebral angle—it is likely indicative of nephrolithiasis (kidney stones). 
+
+To prevent recurrence of kidney stones, appropriate measures include:
+
+1. Staying well-hydrated by drinking plenty of fluids.
+2. Reducing dietary sodium intake.
+3. Avoiding excessive intake of foods high in oxalate or animal protein, depending on the stone composition.
+4. Considering medication to manage underlying metabolic conditions if necessary.
+
+A proper dietary and hydration regimen is key to reducing recurrence."
+53,"The image shows five different airway devices. Based on the patient's condition—a 42-year-old male with severe difficulty breathing following a factory explosion and suspected inhalation injury from burnt nasal hair and soot in the airway—a definitive airway should be secured. 
+
+Device ④ is an endotracheal tube, which is the most appropriate choice for securing the airway in this scenario due to its ability to provide a protected airway and facilitate mechanical ventilation, essential in managing the patient's respiratory distress and inhalation injury."
+54,"The endoscopic images show a large polypoid lesion located in the colon. The lesion appears elevated with an irregular surface and a reddish color, which may suggest a neoplastic process such as a colorectal adenoma or carcinoma."
+55,"The images are from a lower gastrointestinal endoscopy, likely showing the removal of a lesion, such as a polyp, from the colon. The presence of dark, possibly coagulated blood and tissue manipulation with a tool suggests that a polypectomy or endoscopic mucosal resection was performed. This procedure aligns with the patient's history of a positive fecal occult blood test and family history of colon cancer."
+56,"The image shows the anterior segment of a left eye with signs of inflammation. There is conjunctival injection (redness of the eye), and the cornea has a visible, whitish, opaque infiltrate. This presentation, combined with the context provided of recent contact lens use and worsening eye pain, suggests microbial keratitis, likely an infection of the cornea. This condition can occur after contact lens wear, especially if lenses are worn improperly or infrequently cleaned. The appearance is consistent with symptoms of a corneal ulcer, which often causes decreased visual acuity and significant discomfort."
+57,"The biomedical image is an axial CT scan of the chest, showing a depression of the sternum. This is consistent with the clinical description of a chest deformity known as pectus excavatum. Pectus excavatum is a condition where the breastbone is sunken into the chest, often referred to as a ""funnel chest."" The rest of the chest structures, such as the lungs and heart, appear within normal limits on this scan."
+58,"The 3D contrast-enhanced CT images reveal significant findings in the aortic arch and its branches. There is evidence of thickening and possible stenosis of the aorta, particularly affecting the major branches. This corresponds with the clinical presentation of varying blood pressure in the limbs and the presence of vascular murmurs. 
+
+These findings are suggestive of Takayasu arteritis, a type of large vessel vasculitis that commonly affects young females and can cause symptoms such as fever, malaise, and diminished or absent pulses in the upper extremities due to vessel narrowing or occlusion."
+59,"The electrocardiogram (ECG) shows the chest leads V1 through V6. Given the patient's history of having a permanent pacemaker implanted, the ECG is likely demonstrating paced rhythm. A paced rhythm typically shows pacemaker spikes followed by wide QRS complexes, indicating ventricular pacing. This is consistent with the patient’s history and the pacemaker settings described in the scenario."
+60,"The image shows an area of depigmented skin on the waist, indicative of vitiligo. This condition is characterized by the development of well-demarcated, depigmented patches on the skin. Given the context of multiple identical rashes without scales, pain, or itching, and the patient's medical history, vitiligo is a likely diagnosis."
+61,"The image shows a chest drain collection chamber marked with volume measurements in milliliters. The drainage level appears to be close to 200 milliliters.
+
+Given the context of a sudden increase in chest drainage exceeding 2 liters after meals in a patient with recent lung surgery, the appearance and volume of the fluid should be evaluated. An appropriate response would be to suspect a possible chyle leak or chylothorax if the fluid appears milky, which would warrant analysis of the fluid triglyceride levels and dietary modifications, such as a low-fat diet, or further medical or surgical interventions depending on the diagnosis."
+62,"The CT image shows the chest area with a possible enlargement in the anterior mediastinum, which could suggest a thymoma. The symptoms described (drooping eyelids, double vision, nasal regurgitation) are indicative of myasthenia gravis, often associated with thymus abnormalities like thymoma.
+
+In this context, an abnormal value in the patient's blood test might be elevated anti-acetylcholine receptor antibodies, which are common in cases of myasthenia gravis."
+63,"The CT image of the chest shows bilateral hyperlucent lungs, which suggest air trapping. There is a central trachea with an absence of significant lung parenchyma abnormalities such as consolidations, masses, or pleural effusions.
+
+Given the clinical presentation and the CT findings, the most likely respiratory sound associated with this condition is wheezing. This is often heard in conditions like asthma or other obstructive airway diseases due to narrowed airways."
+64,"The provided endoscopic image shows inflammation of the colonic mucosa with erythema, friability, and ulcerations. These findings are consistent with ischemic colitis or possibly infectious colitis. Given the clinical presentation of abdominal pain, bloody diarrhea, and increased white blood cells, ischemic colitis is a likely consideration, particularly in an older patient. However, considering her clinical history and lack of travel, infections or autoimmune conditions could also be possible."
+65,"The chest X-ray shows a significant opacity in the right lower thoracic region, suggesting pleural effusion. The right lung field is obscured compared to the left lung, indicating fluid accumulation. The patient's occupational history as a demolition worker, which involves exposure to asbestos, is suspected to be related to the disease. Asbestos exposure can lead to pleural diseases, such as pleural effusion and mesothelioma, consistent with the findings."
+66,"The cerebral blood flow SPECT image indicates reduced perfusion in specific brain regions. This pattern often correlates with dementia, such as Alzheimer's disease, characterized by deficits in memory and orientation as described in the patient. Given these findings and the clinical presentation, it would be appropriate to apply for social support services, which may include cognitive rehabilitation programs, home care support, or referral to a specialist such as a neurologist for further evaluation and management."
+67,"The CT image shows a large, heterogeneous mass in the midline of the upper abdomen, which is consistent with the clinical suspicion of gastric cancer. The mass appears to be causing significant gastric distension, likely due to pyloric stenosis.
+
+Given the patient's nutritional status and the diagnosis, total parenteral nutrition (TPN) would be the appropriate nutritional method before surgery. This would provide necessary nutrients intravenously, bypassing the gastrointestinal tract, which is compromised by the obstruction."
+68,"The biomedical image consists of pre-operative and post-operative chest X-rays. 
+
+- **Pre-operative X-ray**: Shows a shadow suggesting a mass near the mediastinum, consistent with the invasive thymoma description. 
+- **Post-operative X-ray**: There is an apparent elevation of the left hemidiaphragm compared to the pre-operative image.
+
+The elevated hemidiaphragm post-surgery could indicate phrenic nerve injury or paralysis, which would explain the patient's difficulty in taking a deep breath. This is a possible complication after thymectomy, particularly if the tumor was invasive or near the phrenic nerve."
+69,"The image shows both lower limbs of a 40-year-old male with a skin condition. The rash appears as raised, well-demarcated, reddish-purple plaques with some scaling. This presentation, along with the acute onset and itching, suggests a condition like psoriasis or possibly an allergic reaction such as contact dermatitis.
+
+Given the context, the unlikely causes for this type of rash might include:
+
+1. Meningococcemia, which typically presents with petechiae or purpura.
+2. Herpes zoster, which is usually vesicular and follows a dermatomal distribution.
+3. Fixed drug eruption, which usually includes distinct, solitary plaques.
+
+The appearance is more consistent with inflammatory or immune-mediated skin conditions rather than infections or isolated drug reactions."
+70,"The image is a microscopic photograph that shows a parasitic mite, likely *Sarcoptes scabiei*. This mite is responsible for causing scabies, which aligns with the symptoms described: severe itching, red papules, and scratch marks on various body parts including the palms. The presence of the mite, with its round body and legs, is consistent with a scabies diagnosis."
+71,"The color Doppler echocardiogram shows a mass lesion (indicated by an arrow) near the ventricular septal defect. This suggests the presence of vegetation on or near the septal defect. Given the patient's symptoms and history, including fever, chills, a new or changing heart murmur, and evidence of a mass lesion on the echocardiogram, the most likely diagnosis is infective endocarditis. This condition aligns with the clinical presentation and echocardiographic findings."
+72,"The biomedical image shows a piece of equipment likely used for examining gastric contents, consisting of a pipette, a glass slide, and a cover slip. This setup is typically used for a gastric aspirate test to check for the presence of substances such as gastric acid, which in this case returned ""zero."" 
+
+Given the scenario of a premature infant exhibiting respiratory distress and no gastric content detected, the result indicates possible esophageal atresia with tracheoesophageal fistula. An appropriate response would be to perform further diagnostic imaging, such as an X-ray with a nasogastric tube insertion, to confirm the diagnosis and plan for surgical intervention."
+73,"The CT images likely show a hernia in the right inguinal region, corresponding with the patient's symptoms of a painful bulge and the clinical finding of a tense, tender mass. The bowel loops visible on the CT might suggest incarceration or obstruction, given the distension and increased bowel sounds. The patient's elevated white blood cell count and CRP, along with increased lactate dehydrogenase (LD), could indicate inflammation or ischemia. Her medical history and lab findings such as elevated creatinine also point toward potential complications related to the hernia or other underlying conditions."
+74,"The image presents two bar graphs displaying the rate of people with complaints per 1,000 individuals, sorted by sex and symptoms, as part of the Basic Survey of Living Conditions conducted in 2016 and 2019.
+
+1. **Top Graph (Females)**:
+   - Displays various symptoms and their corresponding complaint rates for 2016 and 2019.
+   - The symptom labeled ""A"" shows a rate of approximately 80 complaints per 1,000 people in both years.
+
+2. **Bottom Graph (Males)**:
+   - Also shows complaint rates for different symptoms in 2016 and 2019.
+   - The symptom labeled ""A"" corresponds to a rate of around 60 complaints per 1,000 people in both years.
+
+To identify symptom “A,” compare this data with specific symptom descriptions in supplementary information."
+75,"The biomedical image depicts a close-up of the right side of a patient's face, showing noticeable swelling and erythema. The right cheek appears more edematous compared to the left, consistent with the physical examination findings of swelling, edematous erythema with induration, and tenderness in that area.
+
+Given the presentation of fever, facial swelling, and erythema with tenderness and no nasal symptoms, a possible pathogenic microorganism could be *Streptococcus pyogenes*, which is commonly associated with cellulitis. Cellulitis is a bacterial skin infection characterized by pain, redness, and swelling, often causing systemic symptoms like fever."
+76,"Based on the description given, we need to match the family information with the appropriate family tree from the options provided.
+
+- The patient is a male and has a wife (circle) and three children: two sons (squares) and a daughter (circle). He lives with his wife and two younger children.
+- His father died of stomach cancer at the age of 72.
+- His mother died of a stroke at the age of 60.
+- He has an older sister and a younger brother.
+
+Looking at the family tree diagrams:
+
+1. **Option ①** shows:
+   - A deceased father (stomach cancer at 72) and mother (stroke at 60).
+   - The patient (square with arrow) has three children.
+   - Siblings include an older sister (circle) and a younger brother (square).
+   - He resides with his wife and two younger children.
+
+Option ① matches the described family structure accurately."
+77,"The CT image depicts an abdominal cross-section showing kidney structures. There is an area suggestive of inflammation or infection, possibly indicating pyelonephritis. Given the clinical context of symptoms (fever, malaise, nausea), elevated white blood cell count, presence of Gram-negative bacilli in blood cultures, and the patient's use of SGLT2 inhibitors, there may be a urinary tract infection leading to pyelonephritis.
+
+An appropriate additional treatment could include:
+
+- Continuing and/or adjusting antibiotics based on culture sensitivity.
+- Considering fluid resuscitation and supportive care.
+- Evaluating for potential additional interventions, such as drainage, if there is an abscess formation.
+
+Further nephrology or infectious disease consultation may be needed based on the clinical progression."
+78,"The graph shows changes in mortality rates (per 100,000 population) by major causes of death in Japan from 1947 to 2019. It has several lines representing different causes of death, with the y-axis indicating mortality rate and the x-axis showing years. Line A, highlighted by the arrow, illustrates a particular cause of death, which starts low in 1947, decreases, and then rises sharply after 2000, reaching a higher rate by 2019 compared to other causes."
+79,"The image shows two X-ray views of the left femur. 
+
+On the left, the X-ray at the time of admission displays a clear fracture of the femoral shaft with displacement. 
+
+On the right, the X-ray taken 8 weeks post-surgery shows the femur with internal fixation hardware in place (likely rods or plates). The alignment appears corrected, and there are signs of bone healing at the fracture site, with some callus formation. The fixation appears stable, and there are no visible complications at the fracture site."
+80,"The image shows a fetal heart rate tocogram. The graph illustrates fluctuations in fetal heart rate, with a notable period of bradycardia. Given the context, the most immediate step should be interventions to alleviate potential causes of the bradycardia. One common action is to reposition the mother, such as turning her onto her side, to improve uteroplacental blood flow and possibly alter fetal heart rate patterns. Additionally, stopping the oxytocin infusion to reduce uterine contractions may be considered to alleviate stress on the fetus. Immediate assessment and interventions are essential to ensure fetal well-being."
+81,"The image shows a partogram of a patient's labor progress. It is divided into two sections. 
+
+The top section tracks uterine contractions over time (7:00 to 13:00). The y-axis on the left represents the duration of contractions in seconds, with the number of contractions per 10 minutes on the right. Solid circles indicate the contraction duration and open squares show the frequency of contractions. 
+
+- From 7:00 to around 12:00, the contraction duration increases, reaching a peak and stabilizing thereafter.
+- The frequency of contractions also increases initially and then stabilizes after 10:00.
+
+The bottom section of the partogram tracks cervical dilation and fetal head descent:
+
+- The y-axis on the left represents fetal head descent in centimeters, with 0 indicating engagement.
+- The open circles represent cervical dilation (measured in centimeters on the right y-axis), showing a steady increase from 3 cm at 7:00 to around 9 cm by 10:00, maintaining this dilation through to 13:00.
+- The filled squares represent fetal head descent, starting above 0 cm and progressing slightly.
+
+The data suggests that labor is progressing with increasing cervical dilation and descent of the fetal head, although there is moderate variability in fetal heart rate. Monitoring and potentially preparing for delivery would be appropriate."
+82,"The CT images show findings consistent with bilateral hydronephrosis and ureteral dilatation, likely due to a mass in the bladder causing obstruction. Given the patient's clinical presentation, the immediate necessary treatment would likely be to relieve the urinary obstruction. This can be done by inserting a urinary catheter, performing a cystoscopy for further examination and possible mass removal, or considering a percutaneous nephrostomy if the obstruction cannot be relieved by catheterization. This is crucial to restore renal function and address the patient's decreased urine output and renal impairment."
+83,"The transvaginal ultrasound image shows the lower uterine segment and cervix. In the context of the clinical scenario—sudden genital bleeding in a 34-week pregnant woman—the image could be used to evaluate the position of the placenta relative to the cervix.
+
+In such cases, the ultrasound may be assessing for placenta previa, where the placenta covers the cervix and could be responsible for the bleeding. The absence of abnormalities in the fetal heart rate and normal uterine contraction patterns further suggest that the bleeding might be related to placental issues like previa, rather than fetal distress."
+84,"The CT scan shows a hyperdense area in the right hemisphere, suggesting a possible intracerebral hemorrhage. Given the patient's symptoms of unconsciousness, high blood pressure, and unequal pupils, these findings indicate a likely cerebral hemorrhage with elevated intracranial pressure.
+
+Immediate action should include:
+
+1. Stabilizing vital signs.
+2. Ensuring airway protection.
+3. Lowering blood pressure, if indicated, to prevent further bleeding.
+4. Consulting neurology or neurosurgery urgently for potential surgical intervention. 
+
+Prompt and appropriate management is essential in this situation."
+85,"The CT scan of the head shows an intracerebral hemorrhage, indicated by a hyperdense (white) area suggestive of bleeding. There appears to be a significant accumulation, which could correlate with the patient's symptoms of unconsciousness and neurological signs. The scan reveals midline shift and compression of the brain structures, which aligns with the need for potential surgical intervention like a craniotomy.
+
+Regarding the blood type test described, the patient seems to have a blood group AB with Rh(D) positive (as both anti-A and anti-B serum show agglutination, and anti-Rho (D) serum agglutinates). For transfusion, AB-positive concentrated red blood cells are suitable as they match the patient's blood type."
+86,"The image is a horizontal bar chart showing the proportion (%) of causes of death due to unforeseen accidents by age group in 2019. Each age group (from 0 years to 80 years and above) is represented with separate bars. 
+
+The section labeled ""A"" in each bar indicates the proportion of deaths due to unforeseen accidents for that age group:
+
+- In the ""0歳"" (0 years) group, ""A"" takes up the majority of the bar, indicating a high proportion of deaths by unforeseen accidents.
+- In the ""1∼4歳"" (1 to 4 years) and ""5∼9歳"" (5 to 9 years) groups, ""A"" also occupies a significant portion.
+- The proportion generally decreases as age increases, with lower sections of ""A"" in older age groups like ""65∼79歳"" (65 to 79 years) and ""80歳以上"" (80 years and above).
+
+The pattern shows a higher impact of unforeseen accidents on younger age groups, with ""A"" being most prominent among children and decreasing with age."
+87,"The T2-weighted sagittal MRI of the pelvis reveals a large cystic mass in the pelvic region. Given the patient's symptoms, such as lower abdominal pain, infertility, elevated CA125 levels, and the findings on pelvic examination, the appearance of this mass is consistent with an endometrioma, also known as a ""chocolate cyst."" 
+
+In this clinical scenario, appropriate treatment options often include surgical intervention, such as laparoscopic surgery, to remove the endometrioma and address any associated endometriosis, which can help alleviate pain and potentially improve fertility."
+88,"The image shows a pair of hands with features that might suggest enlargement or thickening, which can be associated with conditions like acromegaly. The combination of the patient's symptoms—headache, snoring, deeper voice, and changes in shoe and ring sizes—also points towards this condition.
+
+For diagnosing acromegaly, tools such as measurement of growth hormone levels, IGF-1 levels, and imaging studies like MRI to assess the pituitary gland are useful. Based on the information provided:
+
+- **Which of the following is not useful for diagnosing this patient?**
+
+Considering the symptoms and signs, evaluations unrelated to growth hormone or pituitary assessment, like routine complete blood counts or basic metabolic panels, would not be directly useful for diagnosing acromegaly."
+89,"The chest X-ray images suggest cardiopulmonary involvement. The patient’s symptoms and clinical history are consistent with features of systemic sclerosis (scleroderma), which can lead to pulmonary arterial hypertension (PAH) as a possible cause of the shortness of breath. The elevated brain natriuretic peptide (BNP) level supports this possibility. The X-ray does not show distinct signs of pulmonary fibrosis, such as reticular or nodular patterns, making PAH a more likely cause."
+90,"The image shows a kidney biopsy with PAS staining, highlighting the structure of the glomeruli and renal tubules. The pathology is consistent with crescentic glomerulonephritis, characterized by crescent formation within Bowman's space. Given the high MPO-ANCA levels, renal dysfunction, interstitial lung disease, and presence of red blood cell casts in the urine, these findings are most indicative of microscopic polyangiitis (MPA)."
+91,"The X-ray image shows a fracture of the left humerus, specifically a mid-shaft fracture. The symptoms described—unable to dorsiflex the left wrist joint and hypoesthesia in the dorsum of the left hand—suggest involvement of the radial nerve. This nerve runs in close proximity to the mid-shaft of the humerus, making it vulnerable to injury in fractures of this type."
+92,"The endoscopic image shows the duodenal bulb, which appears to have mucosal abnormalities that may resemble inflammation or ulcers. This could suggest the presence of a duodenal ulcer.
+
+Given the symptoms and the endoscopic findings, the next test that should be performed is a test for Helicobacter pylori infection, such as a urea breath test, stool antigen test, or biopsy during endoscopy for rapid urease testing or histology. This helps determine if H. pylori infection is contributing to the ulcer, guiding further treatment."
+93,"The CT image shows a cross-sectional view of the thorax at the level of the lungs. Notable features include:
+
+- Presence of tree-in-bud patterns, which are often seen in infections or inflammatory conditions.
+- Nodular opacities are visible in both lung fields, suggesting potential granulomas.
+- No pleural effusion or significant lymphadenopathy is observed.
+
+Given the clinical context of a positive anti-MAC antibody test and symptoms, these findings may suggest a Mycobacterium avium complex (MAC) infection affecting the lungs."
+94,"The growth chart shows the height and weight progression of a boy from birth to 3 years old. The red dots represent the height measurements, while the blue dots indicate the weight measurements. The height follows a trajectory just below the average line but within normal limits. The weight, however, shows a marked increase above the normal range, particularly noticeable after 1 year of age, reaching above the +2 standard deviation line by age 3.
+
+Given the clinical findings of obesity with specific fat distribution (face, neck, trunk, back), thin limbs, hirsutism, and skin striations, combined with biochemical results showing very low ACTH levels and high cortisol levels, the most likely underlying disease is an adrenal tumor causing Cushing's syndrome."
+95,"The image shows a skin rash with blisters located from the right buttock to the popliteal fossa. The rash is characterized by clustered vesicles on an erythematous base. Given the description and appearance, the rash is consistent with Herpes Zoster (shingles).
+
+For treatment, an antiviral medication such as acyclovir, valacyclovir, or famciclovir should be administered to address the Herpes Zoster infection."
+96,"The EEG image shows generalized 3 Hz spike-and-wave discharges, which are characteristic of absence seizures. These discharges occur in bursts and are often associated with a brief period of impaired consciousness or staring spells. During this time, the patient may stop their movements and speech, as described in the scenario. This aligns with the symptoms of absence seizures in the 7-year-old girl."
+97,"Based on the clinical presentation and the provided data, the patient likely has myxedema coma, a severe form of hypothyroidism. Key findings supporting this include the extremely high TSH and low FT4 levels, bradycardia, hypothermia, edema, and altered mental status.
+
+The chest X-ray does not show signs of cardiomegaly or heart failure, which may be unexpected given the presence of bradycardia and low blood pressure. For a patient with severe hypothyroidism, one might expect pericardial effusion, which could show as an enlarged cardiac silhouette, but the image does not indicate this.
+
+The incorrect test finding may relate to the expectation of cardiomegaly or effusion in line with this diagnosis, which is not shown here. Thus, the absence of these findings on the X-ray may be considered unusual given the clinical situation."
+98,"The image shows a Gram-stained sputum specimen. There are numerous neutrophils, which are indicative of an inflammatory response or infection. The presence of gram-positive cocci in pairs or chains is also visible, suggesting a bacterial infection. Based on these characteristics, the infection is likely caused by Streptococcus pneumoniae, a common cause of community-acquired pneumonia.
+
+For this patient, amoxicillin or an advanced macrolide like azithromycin could be appropriate due to their efficacy against Streptococcus pneumoniae, particularly in the context of COPD exacerbations. Further suggestions are often tailored based on local resistance patterns and patient history."
+99,"The image shows a rash on the dorsum of the foot, characterized by multiple small, red spots and patches. This presentation, along with the clinical history of ankle pain, abdominal pain, and a normal temperature, suggests a likely case of Henoch-Schönlein purpura (HSP). In this condition, one of the most likely additional findings could be kidney involvement, such as hematuria (blood in the urine)."
+100,"The CT coronal image of the abdomen shows bilateral kidney enlargement with multiple cysts, which is suggestive of autosomal dominant polycystic kidney disease (ADPKD). Given the family history of hemodialysis and subarachnoid hemorrhage, there is a concern for associated complications, such as intracranial aneurysms.
+
+To determine the course of treatment for this patient, it is necessary to conduct:
+1. **Genetic testing** to confirm the diagnosis of ADPKD.
+2. **Brain imaging** (e.g., MRI or CT angiography) to check for the presence of intracranial aneurysms, given the family history of subarachnoid hemorrhage.
+3. **Renal function monitoring** through regular blood tests to assess kidney function progression.
+
+These tests can help guide management decisions and address potential complications."
+101,"The device used for tracheal intubation is shown in image E. It is a laryngoscope, which is typically used to aid the placement of a tracheal tube by providing a view of the vocal cords.
+
+In the provided biomedical image:
+
+- **Image E** shows a laryngoscope handle with a blade attached, commonly used in tracheal intubation procedures. The handle is cylindrical with a ridged grip for easy handling.
+- **Images A, B, C, and D** show other surgical instruments not typically used for tracheal intubation."
+102,"The image shows an electrocardiogram (ECG) waveform, likely indicating an abnormal heart rhythm. The ECG is printed at a standard speed of 25 mm/sec. In the context of a patient experiencing syncope, some common immediate treatments might include:
+
+1. **Atropine**: If the ECG shows bradycardia or heart block.
+2. **Electrical Cardioversion**: If there's a life-threatening arrhythmia like ventricular tachycardia.
+3. **Epinephrine or Vasopressors**: If the patient is in cardiac arrest or hypotensive.
+
+The specific treatment would depend on the exact rhythm disturbance observed in the ECG."
+103,"The conceptual diagram illustrates dietary intake reference indicators. The graph shows:
+
+- A bell-shaped curve representing the distribution of nutrient intake.
+- Different sections labeled A, B, C, D, and E on the intake axis.
+
+The estimated daily intake that will meet most people's needs is typically labeled as ""C,"" which represents the Recommended Dietary Allowance (RDA) or Adequate Intake (AI), depending on context. This is the intake level proposed to meet the nutritional requirements of nearly all (97-98%) healthy individuals in a specific life stage and gender group. 
+
+In this diagram, point C is indicated by one of the red dots on the curve."
+104,"The MRI image provided is a T2-weighted sagittal view of the pelvis. It shows an enlarged uterus with an elastic hard mass observed in the lower part. This is consistent with the presence of a uterine fibroid (leiomyoma), which is likely causing the patient's symptoms of heavy menstrual bleeding and anemia.
+
+Given the clinical scenario of severe anemia (Hb 4.5 g/dL) and hemodynamic instability (blood pressure 80/42 mmHg, heart rate 120/min), the immediate treatment following oxygen administration, intravenous access, and ECG monitoring should be blood transfusion. This will address the patient's acute anemia and stabilize her condition."
+105,"The biomedical image depicts the anterior view of a human torso with a highlighted area on the left side of the abdomen, corresponding to the question description of a herpes zoster rash. This region aligns with a unilateral, dermatomal distribution pattern typical for herpes zoster. The shaded area suggests involvement of the T9 or T10 dermatome, which is common for shingles, especially on the torso."
+106,"The pelvic X-ray shows the bony structures of the pelvis and proximal femur. Considering the clinical scenario—a 77-year-old female with sudden inability to stand due to right hip pain after collapsing—it is likely a fracture is present. 
+
+The X-ray should be examined for any fracture lines, particularly in the femoral neck or intertrochanteric region, which are common in the elderly and can correlate with hip pain after a fall. In this scenario, the most likely finding is a hip fracture, possibly a femoral neck or intertrochanteric fracture."
+107,"The image is a three-dimensional CT angiography (3D-CTA) of the lower limbs, showing the blood vessels from the pelvis down to the legs. There is a notable lack of blood flow in the left (marked 左) popliteal and dorsalis pedis arteries, consistent with insufficient blood supply. This is likely due to peripheral artery disease, which is consistent with the patient's symptoms of rest pain and a non-healing ulcer on the sole of his left foot. The patient's history includes risk factors such as long-term smoking, hypertension, and diabetes.
+
+Given the condition and the angiography findings, it would be inappropriate to claim that the blood flow in the left lower limb is normal or adequate without any concern. The appropriate discussions with the patient should focus on the impaired blood flow, the risks of continued smoking, potential treatments or interventions such as revascularization, and managing the underlying conditions like diabetes and hypertension."
+108,"The FLAIR MRI images show different cross-sections of the brain. In the context of identifying Wernicke's aphasia, we would look for lesions or abnormalities in the left posterior part of the superior temporal gyrus. 
+
+- **Image A**: Shows a view of the brain that may include the temporal lobes.
+- **Image B**: Similar view but with a more detailed focus, possibly in the temporal region.
+- **Image C**: Shows a view of the lateral ventricles and cortical regions.
+- **Image D**: Displays structures around the lateral ventricles, including the thalamus and basal ganglia.
+- **Image E**: Provides an inferior axial or coronal view.
+
+To identify Wernicke's aphasia, observe for high signal intensity or lesions in the left temporal region (typically more posterior and superior) in images with a clear view of the left hemisphere."
+109,"The image shows the lower extremities of a patient, highlighting significant swelling in the left leg compared to the right. The left leg appears uniformly enlarged, especially around the ankle and foot. There is a noticeable difference in size between the two legs. Given the patient's history of surgery for endometrial cancer and the physical examination findings, this presentation is most consistent with lymphedema. The lack of pitting upon pressing the anterior surface of the left tibia supports this diagnosis."
+110,"The image shows an FDG-PET scan of a 63-year-old male patient with a diagnosis of squamous cell carcinoma of the lung, clinical stage IIIA. The scan shows areas of increased FDG uptake, indicated by the bright regions, particularly in the left upper lung field, consistent with metabolic activity typical of malignancy.
+
+Regarding the significance of combining anticancer drugs with radiotherapy compared to radiotherapy alone for this patient, chemoradiation therapy can enhance the effectiveness of treatment. Anticancer drugs can sensitize the tumor to radiation, potentially improving local control of the disease and targeting microscopic metastatic cells, thus increasing overall survival rates. This combined approach is often more effective than radiotherapy alone for certain stages and types of cancer, including stage IIIA lung cancer."
+111,"The image shows two chest X-rays: one from the current visit and one from five years ago. 
+
+- In the current X-ray, there appears to be widening of the mediastinum, which could suggest an abnormality like an aortic aneurysm or mass.
+
+- The X-ray from five years ago does not show this widening, indicating that the change is recent.
+
+Given the patient’s history of hoarseness and smoking, along with the observation on the X-ray, it would be appropriate to perform a CT scan of the chest next to better evaluate the mediastinal structures and rule out any masses or aneurysms."
+112,"The ultrasound image provided indicates typical signs associated with acute appendicitis, such as a non-compressible, blind-ended tubular structure in the right lower abdomen. Given this finding, the physical examination would likely reveal:
+
+1. Tenderness at McBurney's point (located one-third of the way from the anterior superior iliac spine to the umbilicus on the right side).
+2. Rebound tenderness, indicating peritoneal irritation.
+3. Rovsing's sign (pain in the right lower quadrant with palpation of the left lower quadrant).
+4. Possible low-grade fever and elevated white blood cell count, corroborated by the lab findings.
+
+Overall, the presentation and imaging findings suggest acute appendicitis."
+113,"The image appears to be a report detailing urinalysis results. It shows findings for proteinuria, with the early morning urine showing no protein (-) and occasional urine showing a significant amount of protein (3+). There is no occult blood present in either sample.
+
+Given this situation and the question, the appropriate lifestyle guidance would be to suggest avoiding vigorous exercise or intense physical activity, such as participation in sports like basketball, which may exacerbate proteinuria. It might also be advisable for the patient to have follow-up monitoring for protein levels in the urine to ensure there's no underlying pathology like orthostatic proteinuria."
+114,"The electrocardiogram (ECG) shown appears to depict a flat line, which indicates asystole, a condition where there is no cardiac electrical activity. This aligns with the clinical scenario where the patient became unresponsive and stopped spontaneous breathing, and the carotid artery was not palpable."
+115,"The CT scan of the head shows areas of high density, consistent with subarachnoid hemorrhage. The pattern suggests bleeding around the basal cisterns and possibly involving the ventricles. 
+
+Given the clinical scenario of sudden onset headache, loss of consciousness, and the CT findings, the patient likely has a subarachnoid hemorrhage, commonly caused by a ruptured cerebral aneurysm.
+
+In the context of treatments, incorrect options could include those not typical for managing subarachnoid hemorrhage, such as:
+
+1. Avoiding blood pressure control - Controlling blood pressure is important to prevent rebleeding.
+2. Not considering neurosurgical intervention or endovascular therapy - These are standard treatments depending on the cause and location of the bleed.
+3. Ignoring the need for supportive care in ICU - Monitoring and supportive care to manage complications and stabilize the patient is critical.
+
+Therapies that could be inappropriate might involve the use of anticoagulants, which would be contraindicated in this scenario."
+116,"The chest contrast-enhanced CT image shows a filling defect in the pulmonary arteries, which is indicative of a pulmonary embolism. Given the clinical presentation of sudden chest pain, difficulty breathing, and the patient's history of oral contraceptive use, the most appropriate treatment for a pulmonary embolism is anticoagulation therapy, typically with heparin or a low molecular weight heparin, followed by oral anticoagulants. Immediate treatment would be essential due to the patient's hemodynamic instability and hypoxia."
+117,"The bone marrow blood smear image shows a cluster of large, round cells with high nucleus-to-cytoplasm ratios and homogeneous, dark-stained nuclei. These cells are indicative of blasts. Based on the clinical presentation of fever, leg pain, anemia, purpura, thrombocytopenia, and lymphocytosis, along with this bone marrow finding, the most likely disease is Acute Lymphoblastic Leukemia (ALL)."
+118,"The photograph shows the torso and upper limb of a child with an extensive rash. The rash appears erythematous with multiple red papules and vesicles, some of which are crusted. The description alongside the image, mentioning fever, itching, blisters, and a recent spread of the rash, is consistent with a viral exanthem such as chickenpox (varicella), particularly given the presence of vesicles and scabs. Other possibilities include eczema herpeticum, considering the history of atopic dermatitis, but the absence of a strawberry tongue reduces the likelihood of Kawasaki disease."
+119,"The fundus photograph of the left eye shows a pale retina with a characteristic ""cherry red spot"" at the fovea. This presentation is typical of central retinal artery occlusion (CRAO). The pale retina is due to ischemia, and the cherry red spot occurs because the fovea has a thin layer that allows the underlying choroidal blood supply to be visualized.
+
+Given the patient's sudden vision loss, history of heavy smoking, and high blood pressure, CRAO is the most likely diagnosis."
+120,"The image is a 99mTc-MIBI parathyroid scintigraphy scan, which shows increased uptake in the area near the lower pole of the thyroid, consistent with a hyperactive parathyroid gland. This finding, along with the elevated calcium and parathyroid hormone (PTH) levels in the blood biochemical findings, suggests the presence of a parathyroid adenoma causing primary hyperparathyroidism. This condition often correlates with symptoms such as repeated kidney stones and abdominal issues, as seen in the patient."
+121,"The ultrasound image depicts the gallbladder, where there appears to be a small, round echogenic structure within, likely suggesting a gallstone. The gallbladder walls appear normal, and there is no evidence of thickening or pericholecystic fluid, indicating the absence of acute inflammation such as cholecystitis. Given the clinical context of an asymptomatic 52-year-old female with no significant symptoms or abnormal lab findings, the likely appropriate treatment strategy would be conservative management with observation, as she is currently asymptomatic. Regular monitoring and follow-up are advisable to check for any potential future symptoms or complications."
+122,"The MRI image shows a T2-weighted sagittal view of the pelvis. There is a large, well-defined, hyperintense mass in the uterine region, suggestive of a fibroid (leiomyoma) or possibly adenomyosis. The uterus appears enlarged, consistent with the patient's symptoms of excessive menstruation and lower abdominal pain. Elevated CA125 levels and the history provided may also suggest a differential diagnosis of endometriosis. The combination of clinical and imaging findings is consistent with the likelihood of uterine fibroids or adenomyosis."
+123,"The image is a fat-suppressed T1-weighted MRI scan of the neck, displaying two lesions below the ears, consistent with the patient's description of masses. These lesions appear hyperintense, suggesting they might contain fluid or fatty tissue. Given the history of recurrent swelling and soft masses, the diagnosis could be bilateral parotid gland tumors, likely pleomorphic adenomas. These tumors are often benign and can grow over time with periods of regression."
+124,"The fundus photograph of the left eye shows signs consistent with a retinal detachment. You can see an elevated, crescent-shaped area which suggests a retinal tear or detachment. This type of presentation aligns with the patient’s symptoms of floaters and photopsia, which are common in retinal detachment. The patient's high myopia (-8D) increases the risk of this condition."
+125,"The image shows the right eye of a 43-year-old female with diffuse redness of the conjunctiva. The redness appears to be in the scleral region, suggesting a subconjunctival hemorrhage. This condition is often harmless and causes no symptoms apart from the visible red patch, aligning with the lack of trauma, surgery, or discharge in the patient's history."
+126,"The biomedical image shows a foreign body, specifically a pill packet, located in the stomach as identified through upper gastrointestinal endoscopy. This likely caused the patient's chest discomfort when taking medication. 
+
+An appropriate response to prevent recurrence would be to advise the patient to be more cautious when taking medications, such as ensuring that pills are taken out of their packaging before ingestion, drinking adequate water, and possibly using a pill organizer or asking for assistance due to impaired vision or dexterity."
+127,"The image is a T2-weighted sagittal MRI of the pelvis showing the uterus. In the context of the patient's case:
+
+- The patient is a 53-year-old female with postmenopausal bleeding, anemia, and elevated CA125 levels.
+- Endometrial cytology and histology indicate endometrioid carcinoma.
+- CT and MRI show no lymph node enlargement or distant metastasis.
+
+The most suitable treatment for this stage of endometrial carcinoma, given the localized findings, is typically surgical intervention. This usually involves a total hysterectomy with bilateral salpingo-oophorectomy (removal of the uterus, ovaries, and fallopian tubes). Further treatment may depend on surgical findings and staging, and could include radiation or chemotherapy if necessary."
+128,"The May-Giemsa stained peripheral blood smear shows red blood cells with a ring form, characteristic of Plasmodium species, indicating malaria. The clinical presentation and history of recent travel to Africa are consistent with a diagnosis of malaria. The patient’s fever pattern and symptoms, such as chills and headache, align with this diagnosis."
+129,"The electrocardiogram (ECG) image shows a regular, narrow complex tachycardia, which is consistent with supraventricular tachycardia (SVT). In this clinical scenario, the administration of adenosine triphosphate (ATP) is appropriate for treatment.
+
+**Appropriate method of administration of adenosine:**
+
+1. **Rapid Intravenous Push**: Adenosine should be administered as a rapid IV push, typically through a large proximal vein (e.g., antecubital fossa), followed immediately by a saline flush.
+2. **Dosage**: The initial dose is usually 6 mg, followed by saline flush. If the tachycardia does not convert, a 12 mg dose can be administered in the same manner.
+
+This method ensures the rapid placement of the drug into the circulation to achieve the desired effect of slowing or terminating the tachycardia."
+130,"The image shows a right coronary angiogram. The coronary artery exhibits an aneurysmal dilation, characteristic of a coronary artery aneurysm or dilatation. The presence of this abnormality, along with the clinical history, suggests the possibility of Kawasaki disease as a cause of coronary artery lesions, especially considering the patient's past hospitalization at age 3 with fever and rash, which are typical symptoms of the disease."
+131,"The image is an angiogram of the left lower limb, showing the blood vessels in the area. The patient details and symptoms indicate peripheral artery disease (PAD), likely due to significant smoking history and cardiovascular risk factors like diabetes and hypertension. The decreased ABI on the left side also supports this.
+
+For a patient with PAD, appropriate instructions generally include:
+
+1. Smoking cessation.
+2. Management of blood pressure and blood glucose.
+3. Regular physical activity, as tolerated.
+4. Keeping the legs below heart level to improve circulation.
+   
+The instruction that would **not** be appropriate is:
+- **Maintaining prolonged periods of immobility or keeping the left leg elevated for extended periods**, as this can worsen circulation issues in PAD."
+132,"The CT image shows a transverse section of the abdomen, revealing free air under the diaphragm, consistent with pneumoperitoneum. This suggests gastrointestinal perforation, likely a perforated peptic ulcer given the patient's history and clinical presentation. The abdominal rigidity and elevated white blood cell count further support this diagnosis. 
+
+Immediate surgical intervention is necessary due to the risk of peritonitis and sepsis."
+133,"The biomedical image is a portion of a maternal and child health handbook showing sequential prenatal checkup data.
+
+Key observations from the image:
+- **Blood Pressure Trends**: The blood pressure readings are increasing, with the latest recorded at 124/72 mmHg.
+- **Weight Gain**: The patient’s weight has increased progressively from 54.3 kg to 65.2 kg.
+- **Urine Protein and Sugar**: Urinalysis shows occasional presence of both protein (++ and +) and glucose (+++), especially in the later stages of the checkups.
+- **Edema**: Mild edema is noted later in the gestation period.
+- **Fundal Height and Abdomen Circumference**: Both have consistently increased, as expected, tracking normal fetal growth.
+
+Given the presence of proteinuria, glucosuria, and edema, this could suggest a gestational hypertensive condition such as preeclampsia or gestational diabetes, given elevated glucose levels as well. However, regular monitoring and evaluation by healthcare providers are essential for accurate assessment and management."
+134,"The image appears to be a cardiotocograph (CTG) showing fetal heart rate (FHR) and uterine contractions. The graph plots time against fetal heart rate and contraction intensity. Key observations might include:
+
+1. **Fetal Heart Rate (FHR):** Should be within normal range (usually 110-160 bpm). Look for variability and any accelerations or decelerations.
+2. **Contractions:** The frequency and intensity of contractions are shown, with regular contractions every 5 minutes, as noted.
+
+Given the clinical context:
+- The cervix is fully dilated.
+- The fetal head is engaged at +4 cm, indicating descent into the birth canal.
+- The lesser fontanelle at 0:00 position suggests proper head positioning.
+
+An appropriate response would involve continuous monitoring of the fetal heart rate and managing the second stage of labor. If the fetal heart rate is reassuring, the labor can proceed naturally with preparations for delivery. If there are concerns with the fetal heart rate or labor progresses slowly, further interventions, such as assisted delivery, may be considered. Regular assessment and support for the mother during this stage are essential."
+135,"The image is a schematic diagram of a chest with five numbered locations. These numbers appear to represent areas where specific physical assessments can be conducted.
+
+In severe cases of chronic obstructive pulmonary disease (COPD), the apical heartbeat, often known as the point of maximal impulse (PMI), may be displaced. It typically shifts inferolaterally due to hyperinflation of the lungs, so it may be felt lower and more laterally than the normal position.
+
+In this diagram, location ⑤ is most likely where the apical heartbeat would be found in severe COPD cases, as it represents a position that is more inferior and lateral compared to the normal PMI location."
+136,"The slit-lamp micrograph of the right eye shows a mid-dilated pupil and corneal edema, which are indicative of acute angle-closure glaucoma. This condition is a medical emergency due to the increased intraocular pressure leading to severe eye pain and vision impairment. Immediate ophthalmologic intervention is crucial, often involving medication to lower intraocular pressure and possibly surgical procedures such as laser peripheral iridotomy."
+137,"The image shows a sutured wound on the forehead of a 54-year-old female. The stitches appear secure, indicating proper closure of the open wound.
+
+Before going home, the following instructions are generally advisable for patients with a sutured facial wound:
+
+1. **Keep the Area Clean and Dry**: Avoid getting the wound wet for at least 24-48 hours, or follow the healthcare provider's specific instructions.
+
+2. **Follow Up for Suture Removal**: Facial sutures typically need removal in about 5-7 days. Ensure a follow-up appointment is made.
+
+3. **Watch for Signs of Infection**: Advise to return to the clinic or ER if there are any signs of infection, such as increased redness, swelling, pus, or fever.
+
+4. **Avoid Alcohol**: Since alcohol was involved in the incident, it might be advised to avoid alcohol to reduce the risk of repeating similar accidents or affecting wound healing.
+
+5. **Pain Management**: Take prescribed pain medication as needed and avoid anti-inflammatory drugs like aspirin unless advised, as they can increase bleeding risk.
+
+6. **Avoid Strenuous Activities**: Until healing is adequate to avoid trauma to the area. 
+
+Ensure the patient understands these instructions to promote optimal recovery."
+138,"The CT images of the head show a collection of hyperdense material that is causing a midline shift, likely indicating a subdural hematoma. The symptoms and history, including the fall from a bicycle and declining level of consciousness, support this diagnosis. The presence of left hemiplegia also aligns with this finding, as the right-sided hemorrhage could be compressing areas of the brain responsible for motor function on the left side."
+139,"The laparoscopic image shows the liver prominently. Visible structures include the liver surface and surrounding tissues. However, specific structures such as the gallbladder, stomach, or intestines are not visible in this image."
+140,"The biomedical image is a bar graph comparing lung volumes and capacities between healthy subjects and patients with advanced COPD. The y-axis is labeled with percentages, indicating the proportion of lung capacity.
+
+- For healthy subjects (健常者), several lung volume components are indicated:
+  1. Overall lung capacity
+  2. Tidal volume and additional volumes above residual volume
+
+- For patients with advanced COPD (進行したCOPD), there are similar components labeled, with noticeable changes:
+  3. Increased residual volume
+  4. Decreased overall functional lung capacity compared to healthy individuals
+  5. Overall lung capacity
+
+The residual air capacity (③) is larger in patients with advanced COPD. This volume is indicated as the lower dark-shaded portion of the bar for COPD patients, reflecting an increase in residual volume due to air trapping, which is characteristic of COPD."
+141,"The schematic diagram represents airway pressure on a ventilator monitor screen. The solid line shows the pressure changes over time during mechanical ventilation. 
+
+Dotted line labels:
+1. **①** – Represents a horizontal segment during expiration.
+2. **②** – Represents the pressure difference from the peak of the curve to the baseline (peak inspiratory pressure).
+3. **③** – Represents the pressure difference from the baseline to the low point (likely PEEP - Positive End-Expiratory Pressure).
+4. **④** – Represents a horizontal segment during inspiration.
+5. **⑤** – Represents the total cycle time.
+
+For preventing alveolar collapse, maintaining adequate PEEP (dotted line ③) is crucial, as it keeps the alveoli open at the end of expiration."
+142,"The coronal CT image suggests traumatic injury to the right kidney area. The patient's symptoms include significant hypotension, anemia, right abdominal tenderness, and hematuria, consistent with internal bleeding from renal trauma.
+
+Given the ongoing hypotension despite fluid resuscitation and embolization, the appropriate next step in treatment might be surgical intervention. This could involve exploratory laparotomy for potential repair or nephrectomy, depending on the severity of the renal injury and associated bleeding."
+143,"The image shows a person's lower face with notable acneiform skin changes, including multiple papules and pustules on the cheeks and chin. 
+
+Despite the visible skin condition, the question is primarily about the labor process of a 34-year-old primiparous female. Based on the labor details, the appropriate response involves monitoring labor progression, ensuring continued monitoring of fetal heart rate, and preparing for delivery as the cervix is fully dilated, the membranes have ruptured, and the fetal head is well-descended."
+144,"The chest X-ray shows a significant right-sided pneumothorax, characterized by the absence of lung markings on the right side and the visible edge of the collapsed lung. This condition explains the patient's difficulty in breathing and decreased oxygen saturation.
+
+After chest drainage, a possible complication to be monitored is the re-expansion pulmonary edema, which can occur if the lung re-expands too quickly. Additionally, infection, bleeding, and recurrence of the pneumothorax are other complications to consider. Regular monitoring and follow-up imaging are essential to ensure proper recovery and management of any complications."
+145,"The transvaginal ultrasound image shows the internal cervical os, as indicated by the arrow. Given the clinical scenario of a 32-year-old pregnant woman at 35 weeks and 1 day with vaginal bleeding and the ultrasound image, the most likely concern is placenta previa or another placental issue, as the bleeding source appears to be related to the cervical region.
+
+In such a case, the appropriate response could include:
+
+1. Monitoring of maternal vital signs and fetal condition.
+2. Preparation for possible delivery, considering the gestational age and bleeding.
+3. Avoiding digital vaginal examination to prevent further bleeding.
+4. Considering corticosteroids for fetal lung maturity if premature delivery is anticipated.
+
+The decision will depend on the stability of the mother and fetus, the amount and persistence of bleeding, and hospital protocols. Immediate consultation with an obstetrician is essential for appropriate management."
+146,"The MRCP image shows a dilated pancreatic duct with multiple small, cystic lesions in the pancreas, which could suggest intraductal papillary mucinous neoplasm (IPMN). The pancreatic duct dilatation noted on the ultrasound could be due to these changes. Given the patient's age and history, IPMN is a possible diagnosis that should be considered and further evaluated."
+147,"The image shows a 12-lead electrocardiogram (ECG) for a 64-year-old male patient with a history of diabetes, myocardial infarction, and chronic heart failure. The ECG is likely showing a regular rhythm with possible signs of previous myocardial damage, given the clinical context.
+
+To improve the prognosis in a patient with heart failure and the given medication regimen, sodium-glucose cotransporter-2 (SGLT2) inhibitors (such as dapagliflozin or empagliflozin) can be considered. These have been shown to have beneficial effects on heart failure outcomes, including reducing hospitalization and mortality."
+148,"The FLAIR MRI image of the head shows hyperintensity in the temporal lobes. This finding, combined with the clinical signs of fever, headache, and confusion, along with cerebrospinal fluid analysis showing elevated protein and mononuclear cells, suggests herpes simplex encephalitis. 
+
+Given this suspicion, the first action should be to start empirical antiviral treatment with intravenous acyclovir."
+149,"The image shows a fetal heart rate tocogram. The graph measures fetal heart rate (FHR) over time in beats per minute (bpm). The baseline heart rate appears to be around 140 bpm with some variability, which is normal. There are no clear signs of distress such as decelerations or tachycardia.
+
+Given the clinical scenario of a 32-week pregnant woman with preterm premature rupture of membranes (PPROM) and some cervical dilation, the appropriate response would be to:
+
+- Monitor the mother for signs of labor or infection.
+- Administer corticosteroids to enhance fetal lung maturity.
+- Consider antibiotics to prevent infection.
+- Prepare for potential preterm delivery if labor progresses or there are signs of fetal/maternal distress.
+
+Close monitoring of the fetal heart rate and maternal condition is essential."
+150,"The image is a contrast-enhanced chest CT scan showing a section through the thorax. There appears to be an abnormal mass or lesion on the anterior aspect of the mediastinum. Given the patient’s age and findings, the mass is most likely a thymoma, which is commonly found in the anterior mediastinum in adults and often presents as an asymptomatic finding on imaging."
+151,"The ultrasound image shows multiple enlarged ovarian follicles, which can be consistent with ovarian hyperstimulation syndrome (OHSS). This is supported by the clinical scenario of recent in vitro fertilization with ovulation-inducing drugs, resulting in abdominal pain, difficulty breathing, and distended abdomen.
+
+The first treatment should focus on stabilizing the patient and addressing the symptoms of OHSS, specifically:
+
+1. **Fluid Management**: Administer intravenous fluids carefully to prevent dehydration and manage electrolyte imbalances.
+2. **Monitoring**: Close monitoring of vital signs, urine output, and laboratory tests to assess the severity and progression of OHSS.
+3. **Pain Management**: Provide analgesics as needed for abdominal pain.
+
+Further treatment may depend on the severity of the condition and the patient's response to initial management."
+152,"The colposcopy image shows the cervix after the application of acetic acid. There are well-defined areas that appear white, known as acetowhite epithelium, which are indicative of abnormal changes. This appearance is often associated with cervical intraepithelial neoplasia (CIN) or HPV-related changes. Given the patient's age and smoking history, the findings suggest the possibility of CIN, which is a precursor to cervical cancer. A biopsy would be necessary for definitive diagnosis."
+153,"The histology image from the myocardial biopsy shows granulomatous inflammation with multinucleated giant cells and non-caseating granulomas. These findings are consistent with cardiac sarcoidosis.
+
+Considering the patient's symptoms of AV block, shortness of breath, uveitis history, and elevated BNP levels, along with the histological findings, the diagnosis is likely cardiac sarcoidosis."
+154,"The images show a comparison of the eyes of a 56-year-old male patient, both open and closed. The patient has a history of right acoustic neuroma removal one month ago and presents with right eye pain and redness.
+
+In the image where the eyes are open, the right eye appears red and irritated, suggestive of exposure-related changes. When the eyes are closed, the right eye does not fully close and the cornea is still visible, indicating lagophthalmos (incomplete eyelid closure).
+
+Diagnosis: The symptoms and the images are suggestive of exposure keratitis, likely due to facial nerve palsy related to the recent acoustic neuroma surgery. This palsy can lead to inability to fully close the eyelid, causing the cornea to be exposed and irritated."
+155,"The image shows the tongue of a patient with significant atrophy and fasciculations. Given the clinical history of progressive muscle weakness, speech difficulties, dysphagia, and a family history of similar symptoms, the most likely diagnosis is Kennedy's disease, also known as Spinal and Bulbar Muscular Atrophy (SBMA)."
+156,"The image shows an inflamed and swollen region, likely in the oropharyngeal area. There is a noticeable asymmetry on one side of the soft palate with swelling and possible displacement of the uvula. These features suggest the presence of a peritonsillar abscess, commonly associated with difficulty in opening the mouth (trismus), pain, and fever. The clinical presentation and image are indicative of peritonsillar abscess."
+157,"The abdominal contrast-enhanced CT image shows evidence of severe acute pancreatitis. There is likely fluid collection or necrotic tissue around the pancreas, which may indicate the presence of a pancreatic pseudocyst or infected pancreatic necrosis. Given the patient's history of pancreatitis, ongoing fever, abdominal pain, and elevated CRP, this is consistent with an infected pancreatic necrosis or an abscess."
+158,"The image depicts a rash on the face of an 8-year-old girl, consistent with the clinical presentation described, including a rash on her face and trunk. The rapid test for group A beta streptococcus is positive, suggesting scarlet fever. 
+
+Complication to be aware of: Acute rheumatic fever can develop following streptococcal infections, including scarlet fever. It is important to monitor for signs of this complication post-infection."
+159,"The image is a 99mTcO4 scintigram, often used to diagnose Meckel's diverticulum. The scan shows an area of increased uptake in the lower abdomen, which suggests the presence of ectopic gastric mucosa. Based on the clinical presentation and imaging findings, the diagnosis is likely Meckel's diverticulum."
+160,"The image shows an otoscopic view of a tympanic membrane. The tympanic membrane appears red and bulging, which are signs consistent with acute otitis media (AOM). The symptoms of fever, earache, and a recent history of a runny nose further support this diagnosis.
+
+Appropriate treatment for acute otitis media typically includes analgesics for pain relief and, in many cases, antibiotics such as amoxicillin, especially if the patient has significant symptoms or risk factors. Monitoring might also be considered if symptoms are mild."
+161,"The image depicts a partogram supplement illustrating the rotation of a baby's head during labor. It shows a circle representing a top-down view of the baby's head with a diamond shape indicating the anterior fontanelle (大泉門). The '0時' and '6時' labels represent clock positions (12 o'clock and 6 o'clock positions, respectively). The sagittal suture (矢状縫合) is aligned from the front to back, indicating the orientation of the baby's head at the time it invaginates into the pelvis."
+162,"The image shows the lower part of a person's face, focusing on a lesion on the tip of the nose. The lesion appears as a raised, possibly ulcerated area. Given the context that the patient has had a gradually growing skin rash over 20 years, the pathological diagnosis of squamous cell carcinoma, and the age of the patient, the most likely etiology for the condition is prolonged sun exposure, which is a common risk factor for squamous cell carcinoma on sun-exposed areas such as the nose."
+163,"The fundus photograph shows swelling of the optic disc with blurred disc margins and elevation, consistent with papilledema. This appearance suggests increased intracranial pressure as a likely cause, possibly leading to the patient's symptoms of headaches and blurred vision."
+164,"The biomedical image is a growth chart showing the height (身長) and weight (体重) of the 10-month-old boy over time. The red dots represent his measurements at various ages, plotted against standard deviation (SD) curves for comparison.
+
+- **Height (身長):** His height of 70 cm is around the average or slightly above for his age.
+- **Weight (体重):** At 9,100 g, his weight is on the lower side but still within the typical range, slightly below the average curve.
+
+Given this information, it is important to reassure the mother that her child's growth patterns are within the standard range, though on the lower end for weight. An appropriate response policy might include advising the continuation of breastfeeding while gradually introducing a variety of baby foods to meet nutritional needs and monitor weight gain. Encouraging patience and offering different textures and flavors may help the child accept solid foods. If concerns persist, regular follow-up with a healthcare provider is recommended to ensure healthy development."
+165,"The image shows a Gram stain of synovial fluid, revealing clusters of Gram-positive cocci, likely indicative of a bacterial infection, such as Staphylococcus species.
+
+Given this finding, appropriate tests to add at this point include:
+
+1. **Blood Cultures**: To identify any systemic infection.
+2. **Synovial Fluid Culture and Sensitivities**: To determine the specific bacteria and appropriate antibiotic treatment.
+3. **Echocardiography**: To rule out endocarditis in case of Staphylococcus aureus.
+4. **Repeat Laboratory Tests**: Including white blood cell count, CRP, and procalcitonin to monitor infection status.
+5. **Imaging**: Such as X-ray or MRI, to assess the knee joint further if osteomyelitis or joint damage is suspected."
+166,"The image shows a Gram stain of synovial fluid with clusters of Gram-positive cocci. This appearance is consistent with Staphylococcus species, likely Staphylococcus aureus.
+
+Given the clinical scenario of a postoperative infection with fever, pain, and elevated inflammatory markers, and the presence of Gram-positive cocci in clusters, the recommended initial antibiotic treatment would be vancomycin to cover for methicillin-resistant Staphylococcus aureus (MRSA) until culture and sensitivity results are available."
+167,"The Gram stain image of the synovial fluid shows clusters of Gram-positive cocci, which are characteristic of *Staphylococcus* species, possibly *Staphylococcus aureus*. In this clinical scenario of postoperative infection with fever and elevated inflammatory markers, it would be appropriate to start antibiotics effective against *Staphylococcus*, including methicillin-resistant strains.
+
+**Antibiotic Recommendation**: Vancomycin should be started to cover potential methicillin-resistant *Staphylococcus aureus* (MRSA), especially given the patient's systemic signs of infection and recent surgical intervention."
+168,"The ECG shows a significant ST elevation in V2 and V3, with concurrent ST segment depression in leads I and aVL, which is indicative of an anterior ST-elevation myocardial infarction (STEMI). The patient's symptoms and vital signs, including hypotension, tachycardia, and coarse crackles, suggest cardiogenic shock, possibly due to acute heart failure or pulmonary edema.
+
+Given these findings, the highest priority response for the trainee doctor should be to stabilize the patient's condition. Immediate actions could include:
+
+1. Ensure adequate oxygenation and ventilation, despite difficulty measuring SpO2.
+2. Administer IV fluids cautiously to maintain blood pressure.
+3. Prepare for possible advanced cardiac support, such as inotropic support.
+4. Consider urgent revascularization options, like percutaneous coronary intervention (PCI), if available.
+
+The critical focus should be on rapid stabilization and addressing the acute myocardial infarction."
