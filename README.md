@@ -10,20 +10,24 @@ M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA 
    ```sh
    git clone https://github.com/AmuroEita/M3-VQA.git && cd M3-VQA
    ```
-3. Install required Python packages
+3. Use git lfs fetch the faiss index files
+   ```sh
+   git lfs pull
+   ```
+4. Install required Python packages
    ```sh
    pip install -r requirements.txt
    ```
-4. Enter your GPT API in `utils/GPT-API.txt`
+5. Enter your GPT API in `utils/GPT-API.txt`
    ```js
    echo "${Your GPT API Key}" > utils/GPT-API.txt
 
    ```
-5. Prepare the datasets 
+6. Prepare the datasets 
    ```sh
    cd data && python download_data.py
    ```
-6. Download the model via hugging face
+7. Download the model via hugging face
    ```sh
    huggingface-cli login
    huggingface-cli download --resume-download unsloth/Llama-3.2-11B-Vision-Instruct --local-dir Llama-3.2-11B-Vision-Instruct
