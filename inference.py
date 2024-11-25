@@ -11,7 +11,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, logging, MllamaFor
 from sentence_transformers import SentenceTransformer
 from vdb import load_faiss_index, search_faiss_index
 from caption import load_caption
-from gpt import get_option
+from rag.gpt import get_option
 
 question_prompt1 = """
 Diagnostic Procedure: 
@@ -101,7 +101,6 @@ if __name__ == "__main__":
     metadata_file = "metadata2.pkl"
     
     if os.path.exists(index_file) and os.path.exists(metadata_file):
-        # 如果文件存在，则加载索引和元数据
         index, metadata = load_faiss_index(index_file, metadata_file)
         sentences = metadata["sentences"]
         sentence_to_file_map = metadata["sentence_to_file_map"]
