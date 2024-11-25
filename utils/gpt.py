@@ -1,7 +1,8 @@
 import openai
 
-# Your Open API Key
 openai.api_key = ''
+with open('GPT-API.txt', 'r', encoding='utf-8') as file:
+    openai.api_key = file.readline().strip()
 
 client = openai.OpenAI(api_key=openai.api_key)
 

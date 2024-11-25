@@ -9,9 +9,9 @@ import pandas as pd
 from google.cloud import translate_v2 as translate
 from transformers import AutoModelForCausalLM, AutoTokenizer, logging, MllamaForConditionalGeneration, AutoProcessor
 from sentence_transformers import SentenceTransformer
-from vdb import load_faiss_index, search_faiss_index
+from rag.vdb import load_faiss_index, search_faiss_index
 from caption import load_caption
-from rag.gpt import get_option
+from utils.gpt import get_option
 
 question_prompt1 = """
 Diagnostic Procedure: 
@@ -204,7 +204,7 @@ if __name__ == "__main__":
         correct_rate = correct_cnt / len(index_list)
         file_idx += 1
         
-        with open('result_all.txt', 'a') as file:
+        with open('results/result.txt', 'a') as file:
             file.write(f'\n{df_name} : {correct_rate}, ({correct_cnt}/{len(index_list)})')
             
     
