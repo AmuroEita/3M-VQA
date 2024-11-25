@@ -1,4 +1,4 @@
-# Med-VQA
+# M3-VQA
 M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA leverages translation for multilingual inputs, retrieval augmented generation (RAG) for knowledge grounding, and in-context learning (ICL) with Chain-of-Thought prompting for accurate reasoning. 
 
 ## Getting Started
