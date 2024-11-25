@@ -1,14 +1,26 @@
+import os
+import re
 import time
+import torch
 from PIL import Image
 import base64
 from io import BytesIO
 import pandas as pd
 from google.cloud import translate_v2 as translate
-from transformers import AutoModelForCausalLM, AutoTokenizer, logging
+from transformers import AutoModelForCausalLM, AutoTokenizer, logging, MllamaForConditionalGeneration, AutoProcessor
+from sentence_transformers import SentenceTransformer
+from vdb import load_faiss_index, search_faiss_index
+from caption import load_caption
+from gpt import get_option
 
-question_prompt = """Background Knowledge: 
+question_prompt1 = """
 Diagnostic Procedure: 
-Identify the main diagnosis or condition. 
+Identify the main diagnosis or condition. """
+
+question_prompt2 = """
+Background Knowledge: """
+
+question_prompt3 = """
 Use differential diagnosis and clinical guidelines to eliminate clearly wrong options. 
 Choose the most appropriate answer based on the remaining options. 
 Given the background knowledge above and standard diagnostic practices, analyze the following multiple-choice question STEP BY STEP following the below instruction: 
@@ -18,6 +30,9 @@ Evaluate Each Option: For each choice, consider if it aligns with medical facts 
 If Background Knowledge is Insufficient: Use elimination and reasoning to narrow down the choices. 
 Final Decision: Choose the correct answer and justify your selection. 
 Finally provided your answer at the end of the whole process with only the option letter (eg. A) so that I can collect your answer."""
+
+question_prompt4 = """
+Image Caption: """
 
 def trans_base64_image(encoded_string, width=None, height=None):
     image_data = base64.b64decode(encoded_string)
@@ -42,32 +57,61 @@ def translate_text(text, target_language="en"):
     return result["translatedText"]
 
 
-def get_answer(img, text, model, tokenizer):
-    text_inputs = tokenizer(text, return_tensors="pt", padding=True).to("cuda")
+def get_answer(image, text, model, processor):
+    messages = [
+        {"role": "user", "content": [
+            {"type": "image"},
+            {"type": "text", "text": text}
+        ]}
+    ]
 
-    inputs = {
-        "input_ids": text_inputs["input_ids"],            
-        "attention_mask": text_inputs["attention_mask"],  
-        "vision_inputs": img,                 
-    }
+    input_text = processor.apply_chat_template(messages, add_generation_prompt=True)
+    inputs = processor(
+        image,
+        input_text,
+        add_special_tokens=False,
+        return_tensors="pt"
+    ).to(model.device)
     
-    outputs = model.generate(**inputs, max_length=300)
-    generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    print(generated_text + "\n\n")
-    return generated_text
+    output = model.generate(**inputs, max_new_tokens=1200)
+    print(processor.decode(output[0]))
+    return processor.decode(output[0])
+
+
+def extract_abcd_or_default(text):
+    pattern = r"([A-D])(?=[^A-Z]*<\|eot_id\|>)"
+    match = re.search(pattern, text)
+    return match.group(1) if match else 'Z'
 
 
 if __name__ == "__main__": 
     
-    model_path = "Llama-3.2-3B-Instruct-uncensored-GGUF"
+    model_path = "Llama-3.2-90B-Vision-Instruct"
     logging.set_verbosity_debug() 
-    tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
-    model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True).to("cuda")
+    
+    model = MllamaForConditionalGeneration.from_pretrained(
+        model_path,
+        torch_dtype=torch.bfloat16,
+        device_map="auto",
+    )
+    processor = AutoProcessor.from_pretrained(model_path)
     print(f"{model_path} loaded ")
+    
+    index_file = "faiss_index2.index"
+    metadata_file = "metadata2.pkl"
+    
+    if os.path.exists(index_file) and os.path.exists(metadata_file):
+        # 如果文件存在，则加载索引和元数据
+        index, metadata = load_faiss_index(index_file, metadata_file)
+        sentences = metadata["sentences"]
+        sentence_to_file_map = metadata["sentence_to_file_map"]
+        st_model = SentenceTransformer("all-MiniLM-L6-v2")
     
     client = translate.Client()
   
     temp_img = "temp_image.jpg"
+    
+    captions = load_caption()
     
     tsv_files = [
         "data/brazil_local_processed.tsv",
@@ -81,6 +125,7 @@ if __name__ == "__main__":
         print(file_path)
         datasets[file_path] = pd.read_csv(file_path, sep='\t')
     
+    file_idx = 0
     for df_name, df in datasets.items():
 
         index_list = df.index.tolist()
@@ -107,7 +152,7 @@ if __name__ == "__main__":
             row = df[df["index"] == idx].iloc[0]
             
             question = translate_text(row["question"])
-            question_text = f"{question_prompt} Question {idx}: {question} \n"
+            question_text = f"{question_prompt3} Question {idx}: {question} \n"
             
             options = ['A', 'B', 'C', 'D']
             correct_opt = ""
@@ -119,7 +164,6 @@ if __name__ == "__main__":
                     opt = translate_text(row[option])
                     question_text += f"{option}. {opt} \n"
                     correct_opt = option
-                    correct_opt = option
                 else:
                     opt = translate_text(row[option])
                     question_text += f"{option}. {opt} \n"
@@ -129,13 +173,37 @@ if __name__ == "__main__":
                
             img = Image.open(image_file)
             
+            results = search_faiss_index(question, index, st_model, sentences, sentence_to_file_map)
+            
+            rag_text = question_prompt2
+            for result in results:
+                rag_text += result['sentence']
+                
+            input = question_prompt1 + question_prompt4 + captions[file_idx][idx] + rag_text + question_text
+            
             print(f"Start inference on question {idx} .... in dataset {df_name}")
             start_time = time.time()
-            get_answer(img, question, model, tokenizer)
+            res = get_answer(img, input, model, processor)
             end_time = time.time()
-            print(f"End inference on question {idx} .... in dataset {df_name}")
+            
+            opt = extract_abcd_or_default(res)
+            if opt == "Z":
+                opt = get_option(res)
+            
+            if opt == "Z":
+                with open("need_confirm.txt", "a", encoding="utf-8") as file:
+                    file.write(f"\n {idx} in {df_name}, correct option {correct_opt}")
+                    file.write("\n" + res)
+                    file.write("\n **************************************************")
+            
+            print(f"End inference on question {idx} .... in dataset {df_name}," 
+                  f"answer is {opt}, correct answer is {correct_opt}")
+            
+            if opt == correct_opt:
+                correct_cnt += 1
             
         correct_rate = correct_cnt / len(index_list)
+        file_idx += 1
         
         with open('result_all.txt', 'a') as file:
             file.write(f'\n{df_name} : {correct_rate}, ({correct_cnt}/{len(index_list)})')
