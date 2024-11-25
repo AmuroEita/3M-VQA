@@ -5,7 +5,7 @@ M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA 
 
 ### Prerequisites
 
-1. Get a free API Key for Google Translate at [https://cloud.google.com/translate/docs/reference/rest/](https://cloud.google.com/translate/docs/reference/rest/)
+1. Get a free API Key for Google Translate and configure locally, please refer to [https://cloud.google.com/translate/docs/reference/rest/](https://cloud.google.com/translate/docs/reference/rest/)
 2. Clone the repo
    ```sh
    git clone https://github.com/AmuroEita/M3-VQA.git && cd M3-VQA
