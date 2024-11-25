@@ -11,7 +11,7 @@ from rag.vdb import load_faiss_index, search_faiss_index
 from sentence_transformers import SentenceTransformer
 from inference import question_prompt1, question_prompt2, question_prompt3, question_prompt4, extract_abcd_or_default, get_answer
 from transformers import MllamaForConditionalGeneration, AutoProcessor
-from gpt import get_option
+from utils.gpt import get_option
 from google.cloud import translate_v2 as translate
 
 client = translate.Client()
@@ -23,8 +23,8 @@ datasets_map = {
     'data/spain_local_processed.tsv': 3
 }
 
-index_file = "faiss_index2.index"
-metadata_file = "metadata2.pkl"
+index_file = "faiss_index.index"
+metadata_file = "metadata.pkl"
 
 question_text = question_prompt1 + question_prompt4
 ds_name = ""
@@ -39,6 +39,7 @@ model = MllamaForConditionalGeneration.from_pretrained(
 processor = AutoProcessor.from_pretrained(model_path)
 print(f"{model_path} loaded ")
 
+index, metadata = None, None
 if os.path.exists(index_file) and os.path.exists(metadata_file):
     index, metadata = load_faiss_index(index_file, metadata_file)
     sentences = metadata["sentences"]

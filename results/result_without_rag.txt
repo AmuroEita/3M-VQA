@@ -1,0 +1,4 @@
+data/brazil_local_processed.tsv : 0.3146067415730337, (28/89)
+data/israel_local_processed.tsv : 0.20967741935483872, (39/186)
+data/japan_local_processed.tsv : 0.25595238095238093, (43/168)
+data/spain_local_processed.tsv : 0.304, (38/125)

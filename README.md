@@ -21,7 +21,7 @@ M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA 
    ```
 5. Prepare the datasets 
    ```sh
-   cd data && sh download.sh
+   cd data && python download_data.py
    ```
 6. Download the model via hugging face
    ```sh

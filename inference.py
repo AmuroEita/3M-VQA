@@ -10,7 +10,7 @@ from google.cloud import translate_v2 as translate
 from transformers import AutoModelForCausalLM, AutoTokenizer, logging, MllamaForConditionalGeneration, AutoProcessor
 from sentence_transformers import SentenceTransformer
 from rag.vdb import load_faiss_index, search_faiss_index
-from caption import load_caption
+from caption.load_caption import load_caption
 from utils.gpt import get_option
 
 question_prompt1 = """
@@ -86,7 +86,7 @@ def extract_abcd_or_default(text):
 
 if __name__ == "__main__": 
     
-    model_path = "Llama-3.2-90B-Vision-Instruct"
+    model_path = "Llama-3.2-11B-Vision-Instruct"
     logging.set_verbosity_debug() 
     
     model = MllamaForConditionalGeneration.from_pretrained(
@@ -97,9 +97,10 @@ if __name__ == "__main__":
     processor = AutoProcessor.from_pretrained(model_path)
     print(f"{model_path} loaded ")
     
-    index_file = "faiss_index2.index"
-    metadata_file = "metadata2.pkl"
+    index_file = "faiss_index.index"
+    metadata_file = "metadata.pkl"
     
+    index, metadata = None, None
     if os.path.exists(index_file) and os.path.exists(metadata_file):
         index, metadata = load_faiss_index(index_file, metadata_file)
         sentences = metadata["sentences"]
