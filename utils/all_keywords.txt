@@ -1,0 +1,1383 @@
+paracoccidioidomycosis
+yeast-like
+rudder-shaped budding
+itraconazole
+atrial fibrillation
+synchronized shock
+tinea corporis
+potassium hydroxide
+erythematous lesion
+nystatin cream
+fluconazole
+glomerular basement membrane
+linear IgG deposition
+glomerular damage
+epithelial crescents
+renal biopsy
+secondary arrest
+dilation
+oxytocin
+left atrial hypertrophy
+chest x-ray findings
+mitral valve stenosis
+pulmonary hypertension
+diastolic murmur
+shaken baby syndrome
+infant head injury
+history tbi
+leg edema
+falling crib
+lung_cancer
+weight_loss
+cough_blood
+chronic_smoker
+chest_xray
+Non-reassuring cardiotocography pattern
+41 weeks pregnant
+Cervical examination findings
+Fetal presentation high and mobile
+Amniotic fluid normal
+fetal
+decelerations
+type
+II
+labor
+pulmonary embolism
+deep vein thrombosis
+smoking
+severe dyspnea
+rickets
+enlargement
+epiphyses
+children
+vitamin_d_deficiency
+ventricular tachycardia
+myocardial infarction
+right ventricular infarction
+pericardiocentesis
+heart failure
+arrhythmia
+echocardiogram
+tricuspid insufficiency
+ejection fraction
+tuberculosis
+symptoms
+family
+history
+treatment
+community health agents
+stork network
+awareness workshop
+prenatal care
+pregnant women
+arterial_blood_gas
+hypoxemia
+pulmonary_ventilation
+chronic_obstructive_pulmonary_disease
+oxygen_therapy_indication
+prolonged active phase
+secondary arrest dilation
+oxytocin administration
+cesarean section
+primary arrest dilation
+herpes
+infant
+fever
+vesicular
+lesions
+anticoagulant
+stroke prevention
+cardioembolic
+TIA
+s condition and the question
+preeclampsia
+gestational hypertension
+fetal well-being
+proteinuria
+edema
+cardiotocography interpretation
+fetal heart rate monitoring
+preterm labor
+fetal heart rate pattern
+right bundle branch block
+right ventricular hypertrophy
+syncope
+dyspnea
+nail bed injury
+onychomycosis
+paronychia
+nail manipulation
+tinea unguium
+aids
+respiratory failure
+bronchopneumonia
+cardiopulmonary arrest
+secondary arrest of dilation
+forceps delivery
+bronchiolitis
+premature
+chest x-ray
+oxygen therapy
+infant mortality
+neonatal
+post-neonatal
+development
+evolution
+HIV
+co-infection
+antiretroviral
+eclampsia
+postpartum
+cardiac arrest
+hypertension
+gestation
+ankle injury treatment
+ankle fracture management
+conservative treatment ankle
+rest ice compression elevation
+non-steroidal anti-inflammatory drugs ankle
+acute coronary syndrome
+ST elevation myocardial infarction
+thrombolytic therapy
+antiarrhythmic drugs
+cardiogenic shock
+head injury
+unresponsive
+coma
+skull ct
+brain contusion
+congenital syphilis
+Brazil
+incidence rate
+cirrhosis
+liver
+abdominal
+tomography
+imaging
+hemostasis instruments
+quadrants 1 or 2
+tuberculosis incidence rate
+millennium development goals
+world health organization
+tuberculosis brazil
+tuberculosis cuba
+wide complex tachycardia
+rapid heart rate
+electrical cardioversion
+severe hyperkalemia
+torsades de pointes
+dialysis therapy
+cardiorespiratory arrest
+pulseless electrical activity
+dengue cases
+communicable diseases
+increase
+significant
+1990s
+distal radius fracture
+growth plate
+child
+wrist
+cast
+child obesity
+child bmi
+body mass index
+child overweight
+child nutritional status
+broca
+aphasia
+monoparesis
+stroke
+covid-19
+mortality
+poverty
+population
+capital
+blunt abdominal trauma
+liver injury
+non-operative treatment
+serial clinical-laboratory control
+stable patient
+ovarian cyst
+transvaginal ultrasound
+Blumberg sign
+functional cyst
+menstrual cycle
+lymphoma
+nodular sclerosis
+cervical adenomegaly
+biopsy giant multinucleated cells
+owl’s eyes appearance
+hepatitis
+transaminases
+ALT
+AST
+alcohol
+respiratory diseases
+circulatory system
+age groups
+60 years
+over
+intra-aortic balloon pump
+cephalic presentation
+longitudinal presentation
+occipito-right-posterior position
+conjunctivitis
+etiological agent
+ulcerated
+crusted edges
+swollen eyelids
+race
+ethnicity
+hospitalizations
+brazil
+bowel obstruction
+distension loops
+intestinal constipation
+colonic pseudo-obstruction
+competent ileocecal valve
+fetal presentation
+gestational age
+vaginal examination
+fetal presentation types
+subclavian central access complications
+complication deep venous access subclavian
+subclavian vein complications
+subclavian vein insertion complications
+pneumothorax subclavian
+cutaneous leishmaniasis
+n-methylglucamine antimoniate
+family dynamics
+palliative care
+advanced prostate cancer
+depression elderly
+therapeutic project
+primary health care
+unified health system
+accessibility management
+decentralization hierarchy
+long queues
+transient tachypnea newborn
+late preterm tachypnea
+newborn respiratory distress
+chest radiograph transient tachypnea
+meconium aspiration syndrome vs transient tachypnea
+cardiac catheterization complications
+post-procedure arrhythmia
+cardiac monitoring
+double bubble sign
+newborn meconium ileus
+intestinal obstruction
+abdominal radiograph
+meconium ileus diagnosis
+uterine height
+pregnancy presentation
+cephalic position
+atrioventricular block
+left posterior fascicular block
+dextrocardia
+reversing connections
+anemia treatment
+blood surface
+picture 2
+verapamil
+brain CT scan
+coronary catheterization
+beta-blockers IV nitroglycerin
+Aspirin Clopidogrel
+rheumatoid_arthritis
+hemoptysis
+subcutaneous_nodules
+thrombophlebitis
+clubbing
+leukopenia
+anemia
+thrombocytopenia
+neutropenia
+elderly
+spleen
+early satiety
+weight loss
+ECG
+Amitriptyline overdose
+poisoning treatment
+sputum culture
+chronic cough
+purulent sputum
+positive sputum culture
+lung test
+sepsis
+septic shock
+Ventricular tachycardia
+Synchronized shock
+Sepsis
+hemodialysis patient
+skin lesion
+abdominal wall
+lanthanum carbonate
+COPD
+spirometry
+bronchodilators LABA LAMA
+chronic obstructive pulmonary disease
+thrombotic_thrombocytopenia_purpura
+ADAMTS13
+platelet_count
+hemolytic_uremic_syndrome
+idiopathic thrombocytopenic purpura
+treatment options
+recurrence rate
+von Willibrand Factor
+electrophysiological test
+potassium level
+glucose level
+ekg
+reactive
+arthritis
+arthralgia
+joint
+inflammation
+endocarditis
+ventricular fibrillation
+posterior reversible encephalopathy syndrome
+PRES
+BEVACIZUMAB toxicity
+FOLFOX BEVACIZUMAB
+cerebral edema
+exploratory
+effectiveness
+significance
+group
+breast cancer
+aromatase inhibitor
+multifocal
+tamoxifen
+rectal_cancer_neoadjuvant_treatment
+tnt_rectal_cancer
+XELOX_treatment
+capecitabine_radiation
+FOLFOX_treatment
+lung_cancer_metastasis
+pancreatic_cancer
+next_generation_sequencing
+metastasis_to_pancreas
+primary_tumors_lung_pancreas
+lung_cancer_staging
+pet_ct_scan
+nodal_staging
+mediastinoscopy
+lung_cancer_treatment_options
+s condition and test results).
+lymphadenopathy
+fatigue headache
+elderly traveler
+west nile virus
+fever headache
+troponin elevated
+ulcerative_colitis
+skin_lesions
+inflammatory_bowel_disease
+TNF-anti_treatment
+toxic_megacolon
+alcohol poisoning
+hypotension
+tachycardia
+tachypnea
+lactic
+acidosis
+fainting
+respiratory function test results
+74-year-old
+shortness of breath
+picture 8
+lung volume
+drug
+CKD
+skin
+finding
+sputum surface
+side effect
+rash
+leukocytosis
+band
+shock
+lymphangitis
+bullae
+disappeared
+fever higher than 39
+non-invasive ventilation
+acute copd exacerbation
+hypokalemia
+intravenous
+fluid
+replacement
+hypokalemia treatment
+intravenous fluid replacement
+kidney_transplant_rejection
+vesicular_rash
+acyclovir_treatment
+valgancyclovir_dose
+ganciclovir_dose
+DIC
+bleeding
+low hemoglobin
+asthma
+wheezing
+bronchodilators
+remission
+echocardiography
+physical examination
+heart murmur
+third heart sound
+jvd
+hyperlipidemia
+diabetes
+paradoxical pulse
+shortness breath
+low blood pressure
+ventricular
+hypertrophy
+dilated
+cardiomyopathy
+antibiotic treatment
+hospitalized intensive care
+community acquired pneumonia
+asthma patient
+productive cough
+aortic dissection
+systolic murmur
+paralysis
+acute renal failure
+hematuria
+microscopic view
+urine sediment
+rheumatoid arthritis
+rheumatoid arthritis fingers
+rheumatoid arthritis distal joints
+rheumatoid arthritis dip
+rheumatoid arthritis symptoms
+pulmonary edema
+paracetamol poisoning
+acetaminophen overdose
+acetylcysteine
+activated charcoal
+psoriasis
+peripheral arthritis
+lesion
+meningitis
+empiric
+ceftriaxone
+vancomycin
+hiv
+headache
+heart failure with reduced ejection fraction
+ECG rbbb
+atrial fibrillation rbbb
+chest_x-ray
+synchronized_shock
+treatment_considerations
+elderly_patient
+pneumonia
+resistant anasarca
+HFrEF
+furosemide
+spironolactone
+kidney function
+chest pressures
+fever cough
+stinks sputum
+hemodialysis missed dialysis
+post-PCI STEMI
+atrial fibrillation syncope
+gout
+chronic
+prophylaxis
+hypertensive crisis
+scleroderma renal crisis
+malignant hypertension
+find in picture 25
+synovitis
+swelling
+kidney failure
+giant cell arteritis
+hypertrophic cardiomyopathy
+chest pain atypical
+lupus
+chorea
+antiphospholipid
+syndrome
+cigarette smoker
+restrictive
+obstruction
+diffusion
+arrhythmia ECG
+ventricular tachycardia ECG
+ECG arrhythmia
+mediastinal
+Hodgkin
+staging
+hepatocellular carcinoma
+biopsy
+Neelsen Ziehl staining
+liver enzymes
+wandering arthritis
+tenosynovitis
+culture synovial fluid
+skin lesions culture
+blood culture
+chest ct
+DLCO
+eosinophilia
+hypertensive emergency
+mid systolic murmur
+ecg diagram
+patient
+picture 19
+LVH
+signs
+echocardiographic
+findings
+fever chills
+no response
+renal angiomyolipoma
+left
+kidney tumor
+3-month-old baby
+CT scan
+abdominal swelling
+ureter injury
+exploratory laparotomy
+multi-system injury
+urgent treatment
+not recommended
+case-control study
+research design
+epidemiological study
+nested case-control study
+cross-sectional study
+statistically significant artificial sweeteners bladder tumors
+positive relationship artificial sweeteners bladder tumors
+negative relationship artificial sweeteners bladder tumors
+Mommsen 1983 study
+artificial sweeteners bladder tumors
+stomach cancer sensitivity specificity
+stomach cancer screening test results
+blood test sensitivity specificity
+stomach cancer early detection
+greek population stomach cancer test
+positive predictive value
+negative predictive value
+adolescence body mass index
+cardiovascular mortality
+cohort study
+nejm 2016
+adolescents
+exposure variable
+outcome variable
+retrospective cohort study
+historical follow-up study
+pairing
+layering
+direct
+regulation
+indirect
+juvenile diabetes
+cardiovascular diseases
+risk
+hospitalization
+death
+control group average
+test statistic
+P-value
+increase significance
+gender
+median
+mode
+statistics
+epidemiology
+cancer
+incidence
+table
+country A
+country B
+incidence rates
+age
+confounder
+odds ratio
+nhl-b lymphoma
+hepatitis c
+infection
+general population
+risk difference
+study
+viral hepatitis
+relationship
+age-standardized mortality rate
+standard population
+age-standardized incidence rates
+thyroid cancer
+thyroid cancer fatality rate
+lethality rate thyroid cancer
+decrease fatality rate thyroid cancer
+increase fatality rate thyroid cancer
+years follow-up thyroid cancer
+thyroid_cancer
+screening
+rates
+early_detection
+inter-examiner reliability
+radiology specialists
+chest radiographs
+heart shadow enlargement
+agreement rate
+multi-center study
+cohort
+case-control
+Proportion of babies who were born alive and died in their first year per 10,000 live births
+live
+births
+infant mortality rate
+pregnancy week
+year 2000-2011
+birth
+deceased babies
+meat and rice
+attack rate
+statistically significant
+intestinal illness
+schistosoma
+haematuria
+africa
+urine
+sediment
+plasmodium falciparum
+malaria parasite
+febrile illness
+malaria blood smear
+malaria parasite image
+gram_negative_bacteria_neck_abscess
+larger_colonies_picture
+bacterium_culture
+gram stain sputum
+steroid treatment
+aspiration pneumonia
+aspergillus species
+right upper lobe stenosis
+giemsa stain leukocytes
+blood stain Giemsa
+picnic Tennessee
+ehrlichia
+babesia
+trematode liver cyst
+shepherd liver disease
+sheep-associated liver disease
+parasite definitive host carnivore
+trematode life cycle
+gram-positive
+anaerobic
+Prevotella asaccharolytica
+head surgery complications
+unconscious patient
+subdural hematoma
+postoperative complications
+loss
+consciousness
+brain
+bilateral subdural hematoma
+brain atrophy
+intracerebral hematoma
+epidural hematoma
+encephalitis
+mild neck stiffness
+LP opening pressure
+lymphocytes
+Babinski sign
+essential
+tremor
+polyneuropathy
+diagnosis
+subarachnoid hemorrhage
+cerebellar syndrome
+cognitive slowness
+brain MRI
+sensory impairment
+s gyrus is involved in processing auditory information. Unilateral damage to the right Heschl
+s gyrus. Therefore, the most effective multi-word keyword for searching this information on Wikipedia would be
+s gyrus auditory processing
+unilateral damage Heschl
+natalizumab
+multiple sclerosis
+JC virus
+cognitive difficulties
+exacerbation treatment
+thiamine deficiency
+beri beri
+wernicke korsakoff syndrome
+spinal cord injury
+urinary obstruction
+urogenital system damage
+paraparesis
+detrusor
+posterior reversible leukoencephalopathy syndrome
+brain edema hyponatremia
+encephalopathy hyperammonemia
+cerebral metastases ovarian cancer
+anti-yo paraneoplastic syndrome
+trigeminal neuropathy
+gradual onset numbness
+right chin lower lip
+idiopathic neuropathy
+facial numbness
+melanocytes
+pathology
+picture
+diffuse
+proliferation
+intravitreal injection
+treatment retinal finding child
+conjunctiva lesion
+typical age
+corneal dystrophy
+special staining
+histological finding
+lesion picture
+causing lesion
+cycloplegic_refraction
+hyperopia
+addition
+glasses
+strabismus
+test
+duction
+forced
+pupil dilation test
+squint angle measurement
+cyclopentolate drops
+near squint test
+refractive error test
+nystagmus
+anti-arrhythmic drugs
+double vision
+nausea
+child trauma
+teprotumumab
+mechanism
+action
+anti
+igf1-r
+monoclonal
+antibody
+hemophilia_a
+lethargic
+vomiting
+infant_fall
+coagulopathy
+abdominal pain post endoscopic lithotomy
+acute pancreatitis
+post-cholecystectomy syndrome
+autosomal dominant disorder
+chronic kidney disease
+hepatic cysts
+cerebral aneurysms
+neonatal period
+leukemia
+acute
+promyelocytic
+all-trans retinoic acid
+laryngeal
+endoscopy
+hoarseness
+no smoking
+platelet transfusion
+systolic ejection murmur
+antibiotics
+tinnitus
+hearing loss
+placental abruption management
+hypertensive disorder pregnancy treatment
+abdominal pain pregnancy emergency
+fetal distress pregnancy management
+obstetric emergency response
+chromosome_abnormality
+facial_abnormalities
+newborn_complications
+single_palmar_creases
+hypotonia
+auditory brainstem response
+speech audiometry
+pure tone audiometry
+impedance audiometry
+tympanometry
+eosinophilic
+allergic
+senile purpura
+anticoagulants
+purple-red spot
+rash head
+irregular pulse
+ECG diagnosis
+supraventricular tachycardia
+pregnant bleeding
+genital bleeding pregnancy
+emergency cesarean section
+cervical cerclage
+brain death
+determination
+electroencephalography
+EEG
+criteria
+sutures
+disappear
+adulthood
+prevalence disease Y
+birth cohorts
+age prevalence
+year birth
+cohort analysis
+no-observed-adverse-effect level
+acceptable daily intake
+colonoscopy
+bloody stools
+well-differentiated adenocarcinoma
+colon cancer
+premature rupture of membranes
+PROM
+antepartum hemorrhage
+membranes rupture
+fetal distress
+abdominal pain
+fever vomiting
+laboratory findings
+urine findings
+positive
+Gram staining
+Candida albicans
+Enterococcus faecalis
+appendicitis
+right lower abdomen
+tenderness
+rebound tenderness
+scrotal_inflammation
+diabetic_complications
+sudden loss of consciousness in infants
+bulging anterior fontanelle
+elevated liver enzymes
+elevated bilirubin
+esophageal
+complication
+dermatomyositis
+erythema
+autoimmune
+tumor markers
+abdominal distension
+CA19-9
+CA125
+pregnancy history
+postoperative
+superior vena cava
+stenosis
+acute myeloid leukemia
+peripheral blood smear
+May-Giemsa stain
+leukemia complications
+abnormal blood counts
+cricothyroid membrane
+emergency airway management
+secure airway
+compromised routes
+conventional routes
+grilled meat
+sinusitis
+purulent nasal discharge
+left cheek pain
+middle nasal meatus
+Physiological jaundice of the newborn
+biliary atresia
+Vitamin K deficiency
+Breast milk jaundice
+Lactose intolerance
+stool color No. 1
+newborn
+jaundice
+compartment pressure measurement
+Nerve conduction study
+Muscle biopsy
+Head MRI
+Lumbar spine MRI
+school
+attendance
+general condition
+Raynaud\
+hyperbilirubinemia
+ALP
+fetal descent
+cervix dilation
+labor progression
+obstetric management
+Lung adenocarcinoma complications
+Radiation therapy complications
+Lung cancer radiation therapy side effects
+Adenocarcinoma radiation therapy complications
+Radiation therapy lung cancer complications
+exercise
+thallium
+myocardial
+scintigraphy
+recurrent nephrolithiasis
+prevention
+diet
+uric acid
+kidney stones
+airway management
+endotracheal tube
+intubation
+secured airway
+cricothyroidotomy
+lower
+gastrointestinal
+location
+endoscopic
+contact_lenses
+bloodshot_eyes
+eye_pain
+decreased_vision
+anterior_segment
+pectus excavatum
+dove chest
+deformed thorax
+chest deformity
+thoracic deformity
+electrocardiogram findings
+pacemaker
+ventricular pacing
+atopic dermatitis
+skin rash
+spreading rash
+no scales
+no itching
+chest
+drainage
+lung
+chest CT scan
+wheezes
+respiratory
+bloody_stools
+diarrhea
+abdominal_pain
+lower_gastrointestinal
+occupational_disease
+asbestosis
+demolition_worker
+construction_site
+mesothelioma
+Alzheimer
+disease
+assessment
+gastric cancer nutrition
+pyloric stenosis enteral nutrition
+nasogastric tube nutrition
+enteral nutrition
+gastrointestinal dysfunction nutrition
+phrenic nerve paralysis
+thymectomy complications
+diaphragm dysfunction
+post-thymectomy syndrome
+postoperative diaphragmatic paralysis
+extremities rash
+drug reaction
+insect bites
+dermatofasciitis
+pruritus
+papules
+ventricular septal defect
+bilateral diffuse infiltrative shadows
+echocardiogram mass lesion
+gastric lavage
+indomethacin administration
+intratracheal pulmonary surfactant
+abdominal bulge
+bloody stool
+femoral neck fractures
+right lower abdominal
+tender bulge
+palpitations
+symptom
+national survey living conditions
+2016 2019
+intrahepatic lesions
+systemic corticosteroids
+puncture drainage
+radiofrequency ablation
+intravenous antibiotics
+japan
+major
+causes
+femoral shaft fracture
+healing
+8 weeks
+callus
+fetal bradycardia
+induction of labor
+fetal heart rate
+cervix dilated
+premature labor
+cephalopelvic disproportion
+ruptured membranes
+bladder mass
+bilateral hydronephrosis
+ureteral dilation
+acute kidney injury
+altered mental status
+petechiae
+blood transfusion
+AB positive
+Rho (D) positive
+cross-match test
+agglutination
+unintentional injuries
+2019
+cause of death
+age group
+supplementary volume no 2
+liver biopsy
+histological lesion
+morbidly obese
+bariatric surgery
+steatosis
+eosinophilic esophagitis
+dysphagia
+food impaction
+biopsies
+muscle biopsy
+inflammatory infiltrate
+myositis
+ragged-red fibers
+perifascicular atrophy
+hepatocarcinoma cirrhotic liver
+cholangiocarcinoma normal liver
+liver tumor
+hepatocarcinoma normal liver
+metastatic liver tumor cirrhotic liver
+lamotrigine
+DRESS
+supraclavicular mass
+elevated LDH
+PET-CT
+metastatic lung cancer
+termination pregnancy
+fibrous dysplasia
+deforming malar bone tumor
+external orbital involvement
+child fibrous dysplasia
+young boy fibrous dysplasia
+rectus sheath hematoma
+abdominal pain INR elevated
+left lower quadrant
+atrial fibrillation oral anticoagulant
+sarcoidosis symptoms
+sarcoidosis chest x-ray
+persistent dry cough
+low-grade fever
+erratic joint pain
+mesenteric ischemia
+abdominal CT
+acute abdomen
+urgent imaging
+ischemic heart disease
+subacromial bursitis
+shoulder pain
+arm movement
+rest pain
+night pain
+renal lesion
+tuberous sclerosis
+lumbar puncture
+acute disseminated encephalomyelitis
+ADEM
+closed fracture
+anteroposterior projection x-ray
+dipper pattern
+normotension
+abpm
+ambulatory blood pressure monitoring
+non-dipper
+pleuritic chest pain
+left hemithorax
+antiglomerular basement membrane antibodies
+s history of end-stage Alzheimer
+chest X-ray
+tachycardia chemotherapy
+dyspnea tachycardia
+chemotherapy complications
+malignant arrhythmia
+loss vision
+upper visual field
+like curtain
+myopic patient
+retinal detachment
+vocal nodules
+voice overuse
+vocal cord lesions
+benign growths
+early childhood education teacher
+gastric lesion
+c-KIT positive
+DOG1 positive
+gastrointestinal stromal tumor
+pyoderma gangrenosum
+perianal skin lesion
+histology
+direct immunofluorescence
+blasts
+elongated rod-shaped granulations
+alcoholic hepatitis
+liver disease
+chronic alcohol abuse
+steatohepatitis
+inclusion body myositis
+rimmed vacuoles
+anti-cN1A antibodies
+perivascular inflammatory infiltrate
+basal cell carcinoma
+papular lesion
+bleeds easily
+grows slowly
+erythematous plaques
+white scaling
+scalp trunk
+knees elbows
+fingernails involvement
+lung cancer
+hilar adenopathy
+pulmonary neoplasm
+right upper lobe nodule
+18F-FDG PET-CT
+graves
+basedow
+hyperthyroidism
+anti-tsh
+receptor antibodies
+aortic rupture
+intramural hematoma
+penetrating ulcer
+acute aortic syndrome
+langerhans cell histiocytosis
+frontal mass
+painful
+no trauma
+ultrasound
+CT
+contrast
+immunosuppression
+chest CT
+aplasia
+autosomal dominant polycystic kidney disease
+multiple renal cysts
+ADPKD
+CURB-65
+risk score
+pneumococcus
+mycoplasma
+slipped capital femoral epiphysis
+perthes disease
+hip epiphysis
+traumatic epiphysiolysis
+child hip injury
+hip fracture
+treatment choice
+elderly patient
+nonoperative treatment
+surgical treatment
+high grade undifferentiated pleomorphic sarcoma
+right thigh mass
+therapeutic approach
+amputation
+marginal surgery
+dizziness
+sweating
+abnormality
+electrocardiogram
+fetal extraction
+postpartum woman
+ultrasound diagnosis
+small fetus
+metabolic alkalosis
+pleural
+subpleural
+micronodules
+cystic medial necrosis
+marfan syndrome
+sudden death
+young male
+adenocarcinoma ductal
+serous cystadenoma
+mucinous cystic neoplasm
+autoimmune pancreatitis
+acinar cell carcinoma
+severe steatosis
+second biopsy
+severity steatosis
+disease progression
+mycosis fungoides
+atypical lymphocytes
+epidermotropism
+intraepidermal microabscesses
+meckel
+pet ct findings
+radiological findings
+temporal arteritis
+hypertensive
+retinopathy
+macular
+star
+right transglottic carcinoma
+metastatic adenopathy
+laryngoscopy image
+cervical mass
+odynophagia
+chest pain
+central chest pain
+pulmonary
+embolism
+CT angiography
+intraparenchymal hematoma
+cerebral venous sinus thrombosis
+gallbladder
+abdominopelvic CT
+acute cholecystitis
+epigastric pain
+diabetic gastroparesis
+oral intolerance
+foul-smelling vomiting
+blood glucose 110 mg/dl
+CRP 6.3 mg/L
+abdominal CT scan
+skin lesions
+purplish papules
+interphalangeal joints
+characteristic
+right ventricle involvement
+sudden cardiac death
+autosomal dominant inheritance
+generation skip
+respiratory polygraphy
+62-year-old man
+5 minutes
+apnea
+obstructive
+glenohumeral arthroplasty
+hemiarthroplasty
+proximal humerus fracture
+caldwell hanging brachial cast
+long trochanteric nail
+electrophysiological study
+implantable cardioverter-defibrillator
+ICD implantation
+Valsalva maneuver
+left parasternal border
+dyspnea on exertion
+bronchiectasis
+cavities
+right flank pain
+gallbladder inflammation
+cystic duct obstruction
+endometrial hyperplasia
+risk factors
+blood smear examination
+schistocytes
+primary
+perianal
+hydatid
+cyst
+calcified
+hyaline membrane disease
+preterm newborn
+ulcerative
+colitis
+inflammatory
+bowel
+asymptomatic erythematous scaly lesions
+palms soles
+frontal fibrosing alopecia
+alopecia
+hair loss
+baldness
+women
+bone scan
+Ewing sarcoma
+metastases
+local invasion
+costal tumor
+right iliac fossa pain
+neutrophils
+CT scan abdomen
+pancreatic calcifications
+chronic pancreatitis
+diffuse pancreatic calcifications
+tumor invasion
+renal cyst
+spondylosis
+degenerative
+spine
+leiomyoma
+submucosal
+tumor
+mandibular fracture
+lefort type
+bicycle accident
+facial trauma
+computed tomography
+seborrheic dermatitis
+actinic keratosis
+molluscum contagiosum
+velvety papules
+asymptomatic
+ipsilateral axilla
+infiltrating ductal carcinoma
+triple-negative
+idiopathic intracranial hypertension
+IIH
+pseudotumor cerebri
+benign intracranial hypertension
+hearing loss tinnitus
+right-sided
+vestibular schwannoma
+rm with contrast
+gastrostomy tube
+migration impaction
+percutaneous endoscopic gastrostomy
+Stanford type A
+sinus rhythm
+atrial rhythm
+irregular ventricular rate
+bifascicular block
+left anterosuperior hemiblock
+ST segment elevation
+myocardial ischemia
+inferior leads
+left bundle branch block
+gallbladder polyps
+therapeutic decision
+cholecystectomy
+leukocytosis left shift
+distal pancreatectomy
+abdominal pain vomiting
+residual pancreatic tissue
+renal artery stenosis
+enalapril
+drop eGFR
+vasoconstriction efferent arteriole
+anal
+hemorrhoids
+prolonged
+bowel movements
+lower limb motor disorder
+syringomyelia
+trauma
+infections
+Chiari malformation
+hip dislocation
+acetabulum fracture
+posterior wall
+posterior dislocation
+percutaneous closed reduction
+casting

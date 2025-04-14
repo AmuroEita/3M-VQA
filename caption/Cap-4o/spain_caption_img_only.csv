@@ -1,0 +1,317 @@
+id,caption
+1,"The image shows a histological section with numerous clear, round spaces of varying sizes, characteristic of fatty change or steatosis. This is typically seen in liver tissue affected by fatty liver disease. The surrounding tissue is stained pink, indicating cellular and tissue structures, with some presence of nuclei stained darkly. This kind of appearance suggests an accumulation of lipid droplets within the cells."
+2,"The image shows a histological section stained with a pink and purple stain, likely hematoxylin and eosin (H&E). It displays a sample of tissue with numerous cells. The darker nuclei are stained purple, while the cytoplasm has a pink hue. In addition to the regular cells, there are clusters of smaller, darker-stained cells, possibly indicating an inflammatory infiltrate, such as neutrophils, which could suggest an infection or inflammatory process in the tissue."
+3,"The image appears to show a histological section stained with hematoxylin and eosin (H&E). The tissue likely includes muscle fibers, given the appearance of elongated, polygonal cells with peripheral nuclei. The spaces between fibers may show increased amounts of connective tissue with infiltrates of inflammatory cells, suggesting a possible pathological condition such as myositis. The black dots likely represent nuclei of the connective tissue and inflammatory cells."
+4,"The biomedical image shows a macroscopic view of a liver on the left side, and a histological section of liver tissue on the right. The macroscopic image displays a section of a liver with a nodular surface, suggesting possible fibrosis or cirrhosis. The histological section, stained with hematoxylin and eosin (H&E), reveals dense fibrous tissue with disrupted architecture, consistent with cirrhosis. The liver tissue shows nodular regeneration with fibrous septa and small bile ducts, typical features of chronic liver disease."
+5,"The image shows an open mouth with several distinct red spots on the hard palate. The surrounding oral tissue appears normal, except for these red lesions, which could indicate some form of oral pathology. The teeth and gums are also visible."
+6,"The image shows a man with noticeable redness on his face, particularly around the nose and cheeks, possibly indicating a rash or inflammation. His eyes are covered, so the focus is on the facial skin, which appears irritated or sunburned."
+7,"The image shows a renal scintigraphy, which is a nuclear medicine scan for the kidneys. It includes three images:
+
+1. **O.P.D (Left Image):** This possibly represents an anterior view showing the distribution of a radiotracer in the kidneys.
+2. **O.P.I (Right Image):** Likely another anterior view showing the kidneys with tracer uptake.
+3. **POSTERIOR (Bottom Image):** A posterior view highlighting both kidneys, indicating the differential uptake.
+
+The text indicates the percentage of function for each kidney:
+
+- **RIÑÓN IZQUIERDO (Left Kidney):** 70.9%
+- **RIÑÓN DERECHO (Right Kidney):** 29.1%
+
+This suggests a higher function in the left kidney compared to the right. The color scale on the side provides an intensity legend for radiotracer uptake."
+8,"The image consists of a composite of three medical imaging sections. 
+
+1. **Left Image:** A full-body PET scan showing areas of increased metabolic activity, particularly notable in the thoracic region and upper abdomen, suggesting possible areas of abnormal uptake.
+
+2. **Top Right Image:** An axial PET/CT slice of the pelvic region displaying enhanced metabolic activity on one side near the spine, suggesting focused uptake.
+
+3. **Bottom Right Image:** An axial PET/CT slice of the upper abdomen showing enhanced uptake in the liver area, indicating areas of increased metabolic activity.
+
+These images are likely used for diagnostic purposes, to identify abnormal metabolic functions, such as those seen in oncology for tumor detection."
+9,"The image is an abdominal ultrasound showing the liver and potentially the gallbladder. It includes measurements with two dimensions marked (14.30 cm and 7.50 cm), suggesting it is evaluating structures such as the liver size or a mass. The image shows various levels of echogenicity typical for liver tissue and possibly bile ducts or blood vessels."
+10,"The image is an axial CT scan of the skull, likely focusing on the paranasal sinuses and nasal cavity. You can see the bony structures of the skull, including the maxillary sinuses and ethmoid air cells. The scan appears to be assessing the sinuses for any abnormalities such as blockages or infections. The structures are shown in various shades of gray, indicating different tissue densities."
+11,"The image is a CT scan of an abdomen showing an axial view. It features the vertebral column centrally, surrounded by various abdominal organs and structures. You can see the bowel with gas pockets and different densities corresponding to soft tissue, fat, and possibly fluid. There are no evident abnormalities without clinical context, but the scan seems to represent a typical cross-section of the abdominal cavity."
+12,"The image is a CT scan of the abdominal and pelvic region. It shows the cross-sectional anatomy, including the bony structures of the pelvis and part of the lumbar spine. The dense areas in the periphery of the image are the pelvic bones, while various soft tissues and organs are visible within the abdominal cavity, including portions of the intestines and possibly other abdominal organs."
+13,"The biomedical image is a chest X-ray showing a frontal view of the thoracic cavity. The structures visible include the ribs, spine, and both lung fields. The heart and diaphragm are visible as well. Notably, there is a distinct foreign object in the right lung field, which resembles a small, rounded metallic object."
+14,"This image is a chest X-ray showing the thoracic cavity, including the lungs, heart, and other structures. The ribs can be seen encircling the lungs, with the spine positioned in the center. The heart shadow appears towards the center-left of the image. The lungs appear clear without obvious signs of consolidation or masses. The diaphragm is visible towards the bottom of the image. Overall, it appears to be a standard frontal chest X-ray."
+15,"The image is an abdominal X-ray. It shows a frontal view of the abdomen, including the pelvis. The skeletal structures such as the spine, ribs, and pelvis are visible. The X-ray may also display the outlines of the intestines and other organs within the abdominal cavity. There is no specific abnormality or lesion mentioned in the image description."
+16,"The image is a radiograph (X-ray) of a shoulder. It shows the bony structures of the shoulder joint, including the humerus, scapula, and clavicle. The ""D"" indicates the right side of the body. The bones appear to be intact without any obvious fractures or dislocations. The image provides a clear view of the articulation between the humeral head and the glenoid cavity of the scapula."
+17,"This image is an electrocardiogram (ECG) tracing. It shows the electrical activity of the heart across multiple leads. Noteworthy features include:
+
+1. **P Waves**: The presence of small, rounded waves preceding each QRS complex, indicating atrial depolarization.
+2. **QRS Complexes**: Dominant negative deflections in some leads (V1 to V3), which may suggest abnormalities such as myocardial infarction or conduction blocks.
+3. **T Waves**: Inversion may be observed in some leads, which could indicate ischemic changes.
+4. **ST Segments**: Abnormalities like elevation or depression are not visibly prominent here.
+5. **Rhythm**: The tracing appears regular, suggesting a consistent heart rhythm.
+
+This ECG should be interpreted further in a clinical context by a healthcare professional."
+18,"The image is a coronal MRI scan of the brain. It shows various anatomical structures, including the brain tissue, ventricles, and possibly parts of the skull. The image dimensions and scanning information are detailed on the side, indicating slice thickness, and other technical parameters such as TR (repetition time), TE (echo time), and FoV (field of view). There is also a smaller cross-sectional image in the corner showing a different view of the brain."
+19,"The image is an axial CT scan showing the abdominal region. Visible structures include the vertebral column at the center, the kidneys on both sides, and various soft tissue densities that represent the abdominal organs and structures. The image appears to be a cross-section of the lower thoracic or upper lumbar area. There are also regions that likely correspond to the intestines filled with varying densities, indicating gas and fluid."
+20,"The image consists of two brain MRI scans:
+
+1. **Left Image**: An axial T2-weighted MRI showing the brain. There are multiple hyperintense lesions, which are areas that appear white, distributed in the white matter. These are typically associated with conditions like multiple sclerosis.
+
+2. **Right Image**: An axial T1-weighted MRI with contrast, likely focused on the orbits. The symmetrical enhancement of the optic nerves or surrounding structures can be seen, which may suggest lesions or inflammation in this area.
+
+These findings can be suggestive of a demyelinating disease such as multiple sclerosis, especially if correlated with clinical symptoms."
+21,"The image includes two medical scans of the abdominal area.
+
+On the left is a CT scan showing a detailed cross-section of the abdomen. Various organs and structures can be seen, including the spine, kidneys, and bowel. The contrast likely highlights blood vessels and certain tissues, providing detailed differentiation between soft tissues.
+
+On the right is an X-ray of the abdomen. The skeletal structure of the spine and pelvis is clearly visible, and there is a notable presence of a large, gas-filled structure, likely indicating bowel loops or abnormal gas collection.
+
+Additional markers or symbols (such as asterisks) may point out specific areas of interest or abnormalities seen in the images."
+22,"The image appears to be an X-ray of a leg showing a fractured tibia. The bone is broken with visible displacement, and the sharp edges of the break are clearly visible. The fracture seems to be mid-shaft, with multiple fracture lines, indicating a possible comminuted fracture. The fibula, seen parallel to the tibia, is not clearly damaged in this view."
+23,"This biomedical image is a graph showing blood pressure and heart rate over time, measured in mmHg and bpm. The x-axis represents time (Hora), with values from 12 to 11, indicating a 24-hour period. The y-axis shows blood pressure values from 50 to 160 mmHg.
+
+The graph has two main sections, one each for systolic and diastolic blood pressure, delineated by green shaded areas. The red triangles and lines appear to indicate abnormal peaks or outliers in blood pressure. Heart rate is also plotted, possibly as a faint line following the main blood pressure chart.
+
+The background is shaded in a light purple color from hour 23 to hour 9, possibly representing nighttime or sleeping hours."
+24,"The image is a chest X-ray displaying the thoracic cavity. It shows both lungs, the heart, ribs, and parts of the upper spine and shoulders. The lungs appear clear, and the heart is visible in the center. There are no obvious abnormalities like fractures, lesions, or masses. There is an ""R"" marker in the image, indicating the right side of the body for orientation."
+25,"This image shows a chest X-ray, which is a frontal view of the thoracic cavity. The following features are visible:
+
+- Lungs: The left lung appears denser, possibly indicating an area of increased opacity that could suggest consolidation or other pathology.
+- Heart: The size and shape are visible in the central region.
+- Ribs: The ribcage is also visible along with the clavicles.
+- Diaphragm: The diaphragm is generally visible at the base of the lungs.
+- Trachea: The trachea appears midline.
+
+This image may be used for assessing conditions like pneumonia, pleural effusion, or other thoracic abnormalities."
+26,"This is an ECG (electrocardiogram) tracing, which records the electrical activity of the heart. It includes standard leads I, II, III, aVR, aVL, aVF, and precordial leads V1 through V6. The tracing shows typical waveforms, including P waves, QRS complexes, and T waves, each representing different phases of the cardiac cycle. The ECG appears to be recorded on graph paper with a grid for measurement, commonly used for assessing heart rhythm, rate, and other cardiac conditions."
+27,"The image is an ophthalmic fundus photograph showing the retina. It features the optic disc, prominent blood vessels, and the macula. The coloration indicates possible areas of retinal pathology or variations in pigmentation. The image shows uneven distribution of color with some red and dark areas, suggesting possible issues such as retinal detachment or other retinal conditions."
+28,"The image shows a close-up view of the human vocal cords (vocal folds). The vocal cords appear healthy, with a glossy, moist surface. They are aligned in a V-shape and are a light pink color, indicating normal tissue. Blood vessels are visible beneath the surface, which is typical for this type of mucosal tissue. This type of image is often used in otolaryngology to assess vocal cord health."
+29,"The biomedical image shows two parts. The left side features a gross specimen of a cross-sectioned organ or tissue, appearing smooth and homogeneous. The right side is a histological section stained with hematoxylin and eosin, revealing elongated, spindle-shaped cells with a pink background, indicative of fibrous tissue. This pattern is characteristic of a leiomyoma, a common benign tumor of smooth muscle origin."
+30,"The image shows a histological section stained with hematoxylin and eosin (H&E), which highlights tissue and cellular structures. It features a skin biopsy with a clear presence of viral cytopathic effects. The arrows point to structures known as molluscum bodies or Henderson-Patterson bodies. These are seen as intracytoplasmic inclusions in the epidermis, commonly associated with molluscum contagiosum infection. The stratum corneum is visible at the top, with the dermis below."
+31,"The image shows a microscopic view of three large round cells with a purple coloration. These cells have a granular or mottled appearance, which is typical of certain types of hematological cells. The background shows smaller, less distinct cells or debris with varying shades of purple and blue. This kind of image might be used to examine blood cells or bone marrow samples, potentially identifying abnormal cells."
+32,"The image appears to be a histological section stained with hematoxylin and eosin (H&E), showing liver tissue with notable features of necrosis. The section is composed of hepatocytes with distinctive eosinophilic (pink) cytoplasm and basophilic (purple) nuclei. The architecture is disrupted, and there is abundant cellular debris and inflammatory cell infiltration, indicative of liver necrosis. Such patterns may suggest liver damage or conditions like hepatitis, but further clinical context would be required for a definitive diagnosis."
+33,"The biomedical image consists of two sections labeled A and B. 
+
+- **Section A**: Displays a hematoxylin and eosin (H&E) stain, which is commonly used in histology. The purple and pink hues indicate tissue architecture, potentially showing cellular and structural detail, such as the presence of tumor cells.
+
+- **Section B**: Shows an immunohistochemical stain, indicated by brown coloration. This often highlights specific protein expression within tissues, suggesting a likely identification of a particular antigen or marker associated with the cells.
+
+Together, these images could be used for diagnostic purposes, such as identifying a type of carcinoma or other pathological conditions by comparing morphology and protein expression."
+34,"The biomedical image shows a muscle biopsy with features characteristic of a muscular pathology. The image is stained with hematoxylin and eosin (H&E) and displays muscle fibers of varying sizes, with some appearing rounded and atrophied. There is increased connective tissue between the fibers and evidence of infiltrating inflammatory cells, suggesting possible myositis or muscular dystrophy. The variations in fiber size and inflammation are typical indicators of muscle disease."
+35,"The image shows the face of an older individual with a focused area on the nose. There is a noticeable raised, reddish lesion on the nose, resembling a nodule or growth. The surrounding skin appears to have some redness and there are other smaller red spots on the cheek. The image is suggestive of a dermatological condition, potentially a form of skin cancer like basal cell carcinoma."
+36,"The image shows the back of a person with widespread, red, scaly patches characteristic of a skin condition. The affected areas have raised, inflamed plaques with a silvery-white scale, typical of psoriasis."
+37,"The image appears to show positron emission tomography (PET) scans. On the left, there's a whole-body PET image, likely highlighting metabolic activity. Two slices from the thoracic region are on the right, showing increased radiotracer uptake in the left lung area, suggesting a hypermetabolic lesion or abnormality. This can be indicative of various conditions, including malignancies."
+38,"The image depicts a thyroid scintigraphy scan from Spain. It shows areas of varying radioisotope uptake within the thyroid gland, likely highlighting regions with different functional activity. The darker regions represent higher uptake of the tracer, indicating areas of increased thyroid activity, while the lighter areas show lower uptake."
+39,"The image shows a CT scan of the chest, specifically focusing on the aorta. It appears to be a sagittal view, displaying an enlarged aortic arch, which may indicate an aortic aneurysm. The vertebrae and other thoracic structures are visible around the aorta."
+40,"The biomedical image is a CT scan of the head, showing an axial view. The brain appears symmetrical, and there are no immediate signs of abnormalities such as significant masses or bleeding. The skull appears intact, and the ventricles and sulci look normal for this slice."
+41,"The image is a CT scan in the coronal view. It shows the abdominal region, highlighting various anatomical structures including the liver, kidneys, intestines, and portions of the spine and pelvis. Contrast agent appears to have been used, as indicated by enhanced areas. Gas shadows can be seen within the intestinal tract. There is a large, rounded mass visible in the pelvic area, which could represent a distended bladder or another structure."
+42,"The image is a CT scan of the chest that shows a cross-sectional view of the thorax. It includes both lungs, with the right and left sides labeled (R and L). On the left side of the image (right lung of the patient), there is an area that appears denser than the surrounding lung tissue, which may suggest the presence of a mass or lesion. The rest of the lung fields show normal aerated lung patterns. The surrounding structures, such as the ribs and vertebrae, are also visible. This type of imaging is often used to identify and evaluate lung abnormalities."
+43,"The biomedical image consists of two MRI scans labeled A and B. 
+
+- Image A shows an axial view of the abdomen. There are multiple large, rounded, hypodense areas scattered throughout both kidneys, suggesting the presence of numerous cysts.
+
+- Image B presents a coronal view, also highlighting multiple cystic lesions in both kidneys. These cysts vary in size and are distributed throughout the renal parenchyma.
+
+The appearance is consistent with polycystic kidney disease."
+44,"The image is a chest X-ray showing the thoracic area, including the lungs, heart, ribs, and diaphragm. The lungs appear clear with no obvious signs of infection, fluid, or masses. The heart is visible in the center, and the diaphragm can be seen at the bottom of the image. The skeletal structure, including the ribs and part of the spine, is also visible."
+45,"The biomedical image displays two X-ray images of the pelvis. Each image shows the pelvic bones and femurs. There is a large, opaque, crescent-shaped object visible on each X-ray, likely marking or obscuring a specific area of the pelvis. The positioning suggests they might be shielding or highlighting specific regions of interest in the pelvic area on the X-ray."
+46,"The image is an X-ray showing a fracture of the proximal femur, specifically a femoral neck fracture. The break is near the hip joint and represents a common type of hip fracture."
+47,"The biomedical image shows a comparison between two thighs. The left thigh (on the right side of the image) is noticeably larger and appears swollen compared to the right thigh. The skin on the enlarged thigh shows some discoloration and seems to be stretched. This may indicate a condition such as swelling, edema, or another underlying issue affecting the left thigh."
+48,"This is an ECG (electrocardiogram) tracing showing heart activity across multiple leads (labeled I, II, III, aVR, aVL, aVF, V1-V6). The tracing indicates rapid and irregular electrical activity, suggesting a condition like atrial fibrillation. Other features include the absence of distinct P waves and presence of variable R-R intervals. The amplitude and morphology of the QRS complexes vary across different leads."
+49,"The image is an electrocardiogram (ECG) from Spain. It shows the electrical activity of the heart across 12 leads, which include the standard limb leads (I, II, III, aVR, aVL, aVF) and the precordial leads (V1 to V6). The tracing provides measurements such as:
+
+- Heart Rate (FC): 74 beats per minute
+- PR interval: 138 ms
+- QRS duration: 101 ms
+- QT interval: 358 ms 
+- QTc interval: 398 ms
+
+The ECG appears to have a normal sinus rhythm with no apparent acute abnormalities indicated in the image description. The standard grid pattern is visible, which is used for measuring intervals and amplitudes."
+50,"The image shows a cardiotocograph (CTG) printout, used for fetal monitoring during pregnancy. It features:
+
+1. **Upper Graph:** Fetal heart rate (FHR) trace in beats per minute (bpm), showing fluctuations in the heart rate with periodic rises and falls.
+2. **Lower Graph:** Uterine activity, measured in kilopascals (kPa), which suggests contractions.
+3. **Gridlines:** Help quantify time and significant events, with annotations for timescale and other parameters.
+
+This tool is commonly used to assess fetal well-being and uterine contractions."
+51,"The image shows a CT scan displaying parts of the abdomen. It includes coronal and axial views, focusing on the kidneys and surrounding structures. The kidneys are visible with contrast highlighting the renal vasculature. An arrow is pointing to a specific area, possibly indicating a point of interest or abnormality, such as a mass or lesion. The scan is organized in sections, highlighting different cross-sections of the abdomen, which is common in diagnostic imaging for medical evaluation."
+52,"The image consists of two panels showing histopathological tissue samples stained with hematoxylin and eosin (H&E). 
+
+On the left panel, there are several well-formed granulomas, characterized by collections of epithelioid macrophages and lymphocytes. 
+
+The right panel shows a closer view of a granuloma, with multinucleated giant cells and a central necrotic region, indicating caseating necrosis. 
+
+These features are suggestive of granulomatous inflammation, potentially indicative of conditions like tuberculosis."
+53,"The image shows a histological section stained with hematoxylin and eosin (H&E). It appears to be a section of a vessel wall. The pink staining represents the presence of smooth muscle and connective tissue, typically found in the tunica media of blood vessels. The layers are organized, and the structure suggests a cross-section of a large blood vessel, possibly an artery. There is no evidence of pathology in this image."
+54,"The image consists of two parts:
+
+1. **Macroscopic Image**: The left side shows a gross pathological specimen of a cross-section of an organ, likely exhibiting a firm, whitish mass with infiltrative margins, possibly in the gastrointestinal tract. The external surface suggests it's in the stomach or colon.
+
+2. **Microscopic Image**: The right side shows a histological section stained with hematoxylin and eosin (H&E), revealing irregular, atypical glandular structures within a desmoplastic stroma, typical of an adenocarcinoma.
+
+Overall, the images seem to be illustrating a case of adenocarcinoma, likely affecting the stomach."
+55,"The image shows two histological slides labeled ""2014"" and ""2021,"" indicating a comparison over time.
+
+- **2014 Slide**: This section displays numerous large, clear vacuoles indicative of fat accumulation, typical of fatty liver (steatosis). The vacuoles push the cellular contents to the periphery, and there is a relatively open area around them.
+
+- **2021 Slide**: There are still areas with vacuoles, but there is increased fibrous tissue colored blue/green, suggesting fibrosis. The tissue structure is more complex with signs of inflammation or fibrosis progression, visible as additional connective tissue compared to 2014.
+
+Overall, the slides illustrate a progression from simple steatosis in 2014 to more advanced liver fibrosis by 2021."
+56,"The image shows a close-up of a scalp with a large, raised, dome-shaped lesion. The lesion appears to be pinkish-red with a crusty, possibly necrotic area on the top. It is situated on the forehead of an elderly individual with light-colored skin and white hair. The surrounding skin looks slightly erythematous and flaky. This could be indicative of a skin condition or tumor, such as a keratoacanthoma or squamous cell carcinoma."
+57,"The image shows a section of skin with several large, irregularly shaped, reddish patches. These patches appear to be raised and scaly, indicative of a skin condition. The distribution is symmetrical, covering the lower back and possibly extending beyond to other parts of the body. This presentation is characteristic of certain dermatological conditions such as psoriasis."
+58,"The biomedical image consists of six PET scan frames arranged in a 2x3 grid, showing yellow-to-red gradient images of bodily structures. Each frame highlights areas with different levels of radiotracer uptake, with darker red areas indicating higher uptake, suggesting active metabolic regions possibly related to disease processes or diagnostic observations."
+59,"The biomedical image appears to be a series of nuclear medicine scans, likely PET or SPECT images. The scans show three different views of the same area, focusing on a region with increased radiotracer uptake, visible as a dark area. This suggests a region of high metabolic activity, which could be indicative of a pathology such as a tumor or inflammation. The images are in grayscale, standard for such scans, allowing for the detection of areas with varying degrees of tracer concentration."
+60,"The image shows two PET/CT scans, one in the coronal plane (left) and one in the sagittal plane (right). These scans are used to visualize metabolic activity in the body, typically highlighting areas with higher uptake of a radiotracer, often indicating increased metabolic activity. The bright areas in the images suggest regions of higher metabolic activity, which could correspond to organs such as the brain, heart, liver, and kidneys, or indicate pathological changes like tumors."
+61,"The image appears to be an X-ray of a pelvic region, likely a cystourethrogram. This type of image is used to visualize the bladder and urethra. A contrast medium is present, allowing visibility of urinary structures. The image shows the flow of contrast through the urinary tract, highlighting features of the bladder and urethra."
+62,"The image appears to be a retinal photograph, showing the back of the eye in detail. It features the optic disc where the optic nerve connects to the eye. Blood vessels radiate from the optic disc. The coloration in the image includes yellow, red, and green hues indicating different layers and structures of the retina. There are numerous small, dark spots scattered across the retinal surface, possibly indicating areas of hemorrhage or pigmentary changes. This type of image is typically used in ophthalmology to assess the health of the retina and diagnose various eye conditions."
+63,"The image appears to show an endoscopic view of the larynx. There is a notable lesion or irregularity on the vocal cord, indicated by a red arrow. The surrounding tissue looks moist and pink, typical of mucosal surfaces in the throat. This could represent a pathological change or lesion that might warrant further investigation by a healthcare professional."
+64,"The image is a chest X-ray showing the thoracic cavity. The lungs are visible with their lobes outlined in the darker regions representing the air-filled spaces. The heart is centrally located, and you can see the bones of the ribcage, clavicles, and part of the spine. There are no obvious signs of abnormalities such as fractures, fluid accumulation, or masses. The diaphragm is also visible below the lungs."
+65,"The image is a chest X-ray showing a clear view of the lungs, heart, and surrounding bones. The lungs appear dark, representing normal air-filled spaces, and the bony structures such as the ribs, spine, and clavicles are visible. The heart is centrally located, and the diaphragm is visible at the bottom of the image. There are no evident abnormalities such as masses, infiltrates, or fractures."
+66,"This CT scan of the head shows a hyperdense area consistent with an intracerebral hemorrhage. There is significant midline shift and compression of the ventricular system, indicative of mass effect. The location suggests a possible stroke or traumatic injury."
+67,"The image is a CT scan of the abdomen showing a cross-sectional view. It features the liver occupying a large portion of the left side of the image, with homogeneous tissue density. To the right of the liver, the spleen is visible with slightly different tissue density. The scan includes the vertebral column centrally located and several ribs are visible around the periphery. No obvious lesions or abnormalities are apparent in this image."
+68,"The image is an axial CT scan of the abdomen. It shows a cross-sectional view, displaying various abdominal organs and structures. Key visible features include:
+
+1. The liver on the right side.
+2. The stomach and parts of the intestine.
+3. The vertebral column in the center.
+4. Both kidneys are visible.
+5. Soft tissues and possible contrast enhancement are present, indicating a diagnostic study for detailed visualization.
+
+The scan is used for evaluating abdominal issues, potentially identifying organ enlargement, lesions, or other abnormalities."
+69,"The image is a CT scan of the neck, showing an axial cross-section. Key features include:
+
+1. Bony structures: Part of the vertebra is visible in the lower part of the scan.
+2. Airway: The dark area in the center likely represents the airway.
+3. Soft Tissue: Surrounding soft tissue structures, including muscles and fatty tissue, are apparent.
+4. Dental structures: The bright white semicircular area at the top corresponds to the teeth.
+
+There may be lymph nodes or other soft tissue structures visible around the neck region."
+70,"This is an axial T2-weighted MRI image of the brain. It shows a large hyperintense lesion on the right side, affecting the white matter and likely causing midline shift towards the left. The lesion indicates the potential presence of an abnormal mass or tumor. The ventricles appear to be enlarged on the left side due to the pressure effect of the mass."
+71,"The image is a chest X-ray showing the thoracic cavity. The ribs, spine, and clavicles are visible. The lungs appear cloudy with areas of increased opacity, which may indicate fluid, infection, or other pathologies. The heart and diaphragm areas are also visible."
+72,"The image shows a pair of hands with noticeable skin changes. There are red, inflamed patches on the knuckles and surrounding areas of the fingers. The changes might suggest a dermatological condition, possibly related to autoimmune or inflammatory processes. The skin appears dry and possibly swollen in places."
+73,"The image is an electrocardiogram (ECG) tracing, showing the electrical activity of the heart. It includes the standard leads (I, II, III) and the augmented leads (aVR, aVL, aVF), as well as the precordial leads (V1 to V6). The tracing displays the characteristic wave patterns: P waves, QRS complexes, and T waves, although there appear to be some unusual patterns that might suggest abnormalities."
+74,"This is an electrocardiogram (ECG) image, showing multiple leads labeled I, II, III, aVR, aVL, aVF, and V1 to V6. The tracings depict the electrical activity of the heart, with various waves such as P, QRS complexes, and T waves visible across the leads. The ECG displays a regular rhythm, which can be analyzed to assess cardiac function and detect any abnormalities."
+75,"The image is a pedigree chart, representing a family genetic history. It shows three generations and uses the standard symbols: squares for males, circles for females. Filled symbols indicate individuals affected by a particular genetic trait, while unfilled symbols indicate unaffected individuals.
+
+- Generation I has two individuals (I:1 and I:2). The male (I:1) is affected.
+- Generation II has seven individuals (II:1 to II:7), with three affected individuals (II:1, II:2, and II:4).
+- Generation III has seven individuals (III:1 to III:7), with three affected individuals (III:1, III:3, and III:6).
+
+This pedigree chart likely indicates an autosomal dominant inheritance pattern due to the presence of affected individuals in consecutive generations and both males and females being affected."
+76,"This image is a polysomnography (sleep study) report from Spain. It contains multiple traces representing various physiological parameters over time, including:
+
+- Electroencephalogram (EEG) patterns for different stages of sleep.
+- Respiratory airflow and effort, likely indicating sleep apnea events.
+- Blood oxygen saturation levels (SpO2), shown in a waveform.
+- Possibly includes indications of heart rate or muscle activity.
+- Marked sleep stages and apnea events, depicted in different colors.
+
+The image shows multiple channels or graphs aligned vertically, typical of a sleep study conducted to diagnose sleep disorders."
+77,"This image appears to be an axial CT scan of the brain. It shows a cross-sectional view at the level of the brainstem. The structures visible include the cerebellum, portions of the temporal lobes, and the petrous ridges. The ventricles and surrounding brain tissue are also visible. The density and symmetry of these structures can be assessed for abnormalities."
+78,"The image is a CT scan of the brain showing a hyperdense area in the right hemisphere, which is indicative of intracerebral hemorrhage. The surrounding brain tissue appears less dense, and the midline structures are not visibly shifted. There is evident bleeding likely within the parenchyma."
+79,"The image is an X-ray of the shoulder joint. It shows a dislocation of the shoulder, with the head of the humerus displaced from its normal position in the glenoid cavity. The surrounding bones, including the scapula and clavicle, are visible for reference."
+80,"The biomedical image from Spain contains two ECG (electrocardiogram) recordings, labeled ""Sin dolor"" (without pain) at the top and ""Con dolor"" (with pain) at the bottom. 
+
+- The ""Sin dolor"" ECG shows a baseline recording without significant abnormalities.
+- The ""Con dolor"" ECG reveals changes, with notable ST-segment elevation evident in some leads, which may suggest myocardial ischemia or infarction during pain episodes. 
+
+The comparison of these two ECGs likely highlights cardiac changes occurring during pain."
+81,"This image is an electrocardiogram (ECG or EKG) from Spain. It shows standard 12-lead ECG readings, which include leads I, II, III, aVR, aVL, aVF, and chest leads V1 through V6. The ECG displays the electrical activity of the heart over a period of time, with characteristics such as P waves, QRS complexes, and T waves visible across the different lead readings. The standard measurements are indicated: 25 mm/s for paper speed, and 10 mm/mV for amplitude."
+82,"The biomedical image shows a close-up of a person's eyes. The individual has noticeable periorbital puffiness or edema below both eyes. The skin around the eyes appears slightly darker and the eyebrows are visible. The sclera and irises of the eyes are also visible, and the overall skin texture seems normal. The person’s gaze is directed upward."
+83,"The biomedical image is a CT scan of the chest. It shows the lungs with an abnormal appearance. In the right lung, there are multiple cystic spaces with air, suggestive of conditions such as cystic fibrosis or severe bronchiectasis. The left lung appears more consolidated with less air space, indicating potential fluid or infection. The overall structure of the thoracic cavity, including the spine and ribs, is also visible."
+84,"The image is an ultrasound scan showing a cross-section with hyperechoic (bright) and hypoechoic (dark) areas. It likely depicts anatomical structures such as soft tissues, possibly within the abdomen. Ultrasound images are commonly used to visualize organs and assess conditions, but specific interpretation would require medical expertise."
+85,"The image appears to be a CT scan of the pelvis. It shows a transverse section with various anatomical structures: the pelvic bones are visible on either side, and the large central area likely represents the bladder. Surrounding soft tissues and musculature are also visible. The radiodense circular structure on the right side within the pelvic cavity could suggest a calculus or a similar dense object."
+86,"The biomedical image from Spain depicts a field of red blood cells. Most of the cells appear to be of normal shape and size, but there are several cells that have a sickle shape, which is characteristic of sickle cell anemia. This condition leads to distorted red blood cells that can cause various health complications."
+87,"The image shows an area of skin with multiple red, inflamed nodules or boils, some with central openings or blackheads. The lesions appear to be located on the buttock region and are likely indicative of a dermatological condition. The skin around the lesions looks inflamed and irritated."
+88,"The image shows a cross-section of a human brain encased in a hard, brown surface, resembling a mold of the brain's outer appearance. The interior displays a network of yellowish, convoluted patterns that mimic the brain's natural folds and grooves. This suggests a medical preparation or anatomical model, highlighting the brain's structure and texture."
+89,"The image shows two sections of lung tissue stained with hematoxylin and eosin (H&E). The top image displays lung architecture with widespread inflammatory infiltrates and alveolar wall thickening. The bottom image is a closer view, highlighting dense inflammatory cell infiltrates, predominantly lymphocytes, in the alveolar spaces and interstitium, along with some thickening of alveolar septa. This appearance is consistent with interstitial pneumonia."
+90,"The image contains three distinct biomedical images:
+
+1. **Colonoscopy Image (Top Left):** This photo shows the mucosal surface of the colon with a rough, cobblestone appearance. It likely represents a colon affected by inflammatory bowel disease such as Crohn's disease.
+
+2. **Histology Image 1 (Top Right):** This is a microscopic image showing tissue with inflammation and possibly granuloma formation. The image is stained, likely using hematoxylin and eosin (H&E), highlighting cellular structures and possibly indicating chronic inflammation or granulomatous disease.
+
+3. **Histology Image 2 (Bottom):** Another microscopic image showing detailed tissue architecture with pronounced features such as crypt distortion and mucosal inflammation. It appears to be from a biopsy of the intestinal tract, potentially confirming an inflammatory or infectious process.
+
+Overall, these images likely depict findings associated with a gastrointestinal disorder, possibly Crohn's disease or ulcerative colitis."
+91,"The image shows the sole of a foot with multiple round, reddish-brown scaly lesions. Some of these lesions appear elevated and may have a crusty surface, suggesting possible skin irritation or a dermatological condition. The surrounding skin appears slightly erythematous, indicating inflammation."
+92,"The image shows the side of a person's head, focusing on the forehead and ear area. There is redness and a small wound on the forehead, possibly indicating an injury or skin condition. The skin appears smooth with some natural texture, and there is visible hair at the hairline. The ear is prominently shown, and the lighting emphasizes the skin's details."
+93,"The image consists of PET-CT scans, showing different views of the body. 
+
+- The left image is a full-body anterior view scan displaying differential metabolic activity. 
+- The top right image is an axial slice, showing cross-sectional metabolic activity.
+- The bottom right image is a coronal view highlighting various organs.
+
+These images depict varying levels of metabolic activity, with areas of increased uptake shown in brighter or redder regions, typical of PET-CT imaging which is often used for detecting cancer or other metabolic conditions."
+94,"This image is a full-body skeletal scintigraphy, commonly known as a bone scan, showing anterior and posterior views of a human skeleton. It displays areas of increased radiotracer uptake, which may indicate regions of bone metabolism or abnormalities such as fractures, infections, or tumors. Areas of higher intensity appear darker, suggesting possible sites of increased bone activity."
+95,"The image is a T1-weighted MRI scan of the brain, showing a coronal section. In the midline, there is the presence of a noticeable mass in the sellar region, which indicates a possible pituitary tumor, such as a pituitary adenoma. The surrounding brain structures, including the lateral ventricles, can be seen, and the mass appears to be hypointense compared to the brain tissue."
+96,"The image consists of two CT scan sections:
+
+1. **Image A**: An axial view of the abdomen showing bowel loops with a distinct arrow indicating an area of interest. The surrounding organs and structures are visible, and there is a focus on the lower abdomen and pelvis.
+
+2. **Image B**: A coronal view highlighting the abdominal structures, also with an arrow pointing to a specific region. The image provides a different perspective of the abdominal cavity, showcasing the arrangement of the intestines and related structures.
+
+Both images feature annotations to emphasize particular areas worth examining, likely for diagnostic purposes."
+97,"The image is an axial CT scan of the abdomen. It shows various abdominal structures, including the liver on the left side of the image, sections of the stomach and intestines, and the vertebra in the center. The pancreas and spleen are also visible. The image appears to capture organs and tissues with varying degrees of density, as is typical in CT imagery. There is no clear indication of abnormal masses or obvious pathology in this single slice."
+98,"The biomedical image is a sagittal CT scan showing the side view of the head and neck. It includes the skull, brain, nasal cavity, and cervical spine (vertebrae). The bones and soft tissues are clearly visible, allowing for the examination of the cranial and cervical structures."
+99,"The image is a coronal CT scan of the chest and upper abdomen. The scan shows anatomical structures including the lungs, heart, thoracic and abdominal aorta, vertebral column, and parts of the kidneys. The contrast highlights the vasculature and organs, allowing for clear differentiation. Based on the annotation, it appears to be used for diagnostic purposes, typical in evaluating thoracic or abdominal issues."
+100,"The image is a chest X-ray showing the thoracic cavity of a person. The X-ray depicts the ribs, spine, clavicles, and both lungs. The heart and diaphragm are visible, with the heart slightly to the left of the midline. The lungs appear clear, with no obvious signs of infiltrates or masses. The mediastinum and other thoracic structures appear normal."
+101,"The biomedical image consists of two panels showing different histological views. The left panel is a smear or cytology preparation stained with a basophilic dye, likely reflecting a liquid or aspirated sample with a high density of small, round, darkly stained cells. The background is lighter and less cellular.
+
+The right panel is a histological section stained with hematoxylin and eosin (H&E), showing a densely packed tissue with elongated, spindle-shaped cells. The cells are arranged in interwoven bundles or fascicles, typical of a fibrous or stromal pattern. The tissue appears highly cellular with minimal extracellular matrix. 
+
+Both images illustrate different aspects of cellular and tissue morphology commonly used in diagnostic pathology."
+102,"The image appears to be a 3D reconstruction from a CT scan, focusing on the cranial and cervical regions. It shows the skeletal structures including the cervical vertebrae and the base of the skull. Parts of the cranium and cervical spine are visible, with detailed depiction of the bone anatomy. Various anatomical features such as the vertebrae, possibly the atlas (C1) and axis (C2) vertebrae, can be seen clearly. This type of image is typically used in medical assessments to evaluate fractures, pathology, or anatomical variations."
+103,The image shows the top of a bald human head with several small lesions or spots. These appear to be red and scattered across the scalp. The skin looks shiny and slightly inflamed. This could potentially indicate a dermatological condition.
+104,"The image shows an area of human skin with clusters of raised, flesh-colored to pinkish lesions. These appear to be small, bumpy, and wart-like, typical of genital warts. The surrounding skin is slightly red and inflamed. This is a characteristic presentation of lesions caused by the human papillomavirus (HPV)."
+105,"The image consists of three panels showing PET/CT scans. The left panel is a coronal full-body scan highlighting areas of radiotracer uptake. The kidneys and bladder show physiological uptake, and there are notable dark areas in the thoracic region, suggesting possible pathological uptake. 
+
+The right two panels display axial PET/CT slices. The upper axial image shows a significant area of increased uptake near the lung/mediastinum area on the patient’s right side, while the lower image confirms this finding in another slice. This may indicate an abnormality, such as a tumor or infection, requiring further evaluation."
+106,"The image shows fundus photographs of both eyes. 
+
+- The left image labeled ""OD"" (oculus dexter, right eye) displays a normal fundus with a clear optic disc, visible retinal vessels, and a slightly darker area likely representing the macula.
+- The right image labeled ""OI"" (oculus sinister, left eye) shows signs of papilledema, indicated by a swollen optic disc with blurred margins and engorged blood vessels. The retinal vessels are more pronounced compared to the right eye. This can be indicative of increased intracranial pressure."
+107,"The image appears to be an axial MRI scan of the brain. It shows a large, well-defined mass in the posterior fossa region near the cerebellum. The mass is hyperintense, suggesting it may be a contrast-enhanced lesion. The surrounding brain structures, including the cerebellum and brainstem, as well as the orbits, are visible. This finding may indicate a significant pathological condition that warrants further clinical evaluation."
+108,"This image is a CT scan of the brain. It is an axial view showing transverse sections of the brain structures. The scan displays varying shades of gray, representing different densities of brain tissue, cerebrum, and possibly ventricles. The bright white outline signifies the skull. This type of image could be used to assess for abnormalities such as hemorrhage, edema, or other structural issues within the brain."
+109,"The image is a coronal CT scan of the abdomen and pelvis. It appears to show various abdominal organs, including the liver, kidneys, intestines, and components of the skeletal system such as the pelvic bones. The image is labeled with technical information and patient data, suggesting it was taken for diagnostic purposes. The contrast medium, evidenced by the label ""C-AcMNPAGUE,"" helps to enhance the visibility of structures."
+110,"This image is a CT scan of the chest, displaying a cross-sectional view of the lungs and surrounding structures. Several notable findings include:
+
+- There are bilateral ground-glass opacities predominantly in the peripheral and posterior regions of both lungs.
+- The heart and major vascular structures are visible centrally.
+- The level of the scan appears to be at the mid-thorax.
+- There are no obvious pleural effusions or pneumothorax.
+
+This pattern is often associated with various conditions, such as viral pneumonia, including COVID-19, or other interstitial lung diseases."
+111,"The image is a chest computed tomography (CT) scan in the axial view. It shows a cross-section of the thorax, including the lungs, heart, spine, and surrounding soft tissues. The lungs appear darker due to their air content, while denser structures like bones and the heart appear lighter. The image provides detailed anatomical information, essential for diagnosing various conditions."
+112,"This image is a medical ultrasound, specifically an echocardiogram of an adult. The bright area marked by the yellow arrow indicates a section of the heart, likely emphasizing a feature such as a valve. The outlined area within the heart suggests measurement or investigation of a particular structure, possibly assessing its size or function. Other markings include details on the probe settings, temperature, and patient information like heart rate (92 bpm). The image is oriented for cardiac analysis, displaying part of the heart's anatomy in grayscale."
+113,"The image is an electrocardiogram (ECG) tracing. It shows multiple leads (I, II, III, aVR, aVL, aVF, V1-V6) recording the electrical activity of the heart. The ECG grid has a standard format with a speed of 25 mm/s and a voltage of 10 mm/mV. The tracing displays regular rhythm patterns with identifiable P waves, QRS complexes, and T waves, which are examined for cardiac analysis."
+114,"The image is a split-screen ultrasound, with the left side showing a grayscale B-mode image of an abdominal structure, possibly the liver, with common bile duct visualization. There are two measurements labeled Dist A (9.2 mm) and Dist B (14.5 mm).
+
+The right side displays a contrast-enhanced ultrasound image, highlighting vascular structures or lesions with a speckled appearance."
+115,"The image is a CT scan, specifically an axial view of the pelvis. Key features include:
+
+1. **Pelvic Bones**: The ilium, ischium, and sacrum are visible in cross-section.
+2. **Soft Tissue Structures**: Various soft tissue densities can be seen, likely representing muscles and organs in this region.
+3. **Bowel**: The image has sections of the bowel, likely parts of the large intestine, identified by the circular structures with varying levels of density.
+4. **Contrast Enhancement**: The term ""CE"" indicates that contrast enhancement might have been used to improve visibility of structures.
+
+This scan would be used to assess any abnormalities or issues in the pelvic region."
+116,"The image shows a peripheral blood smear containing numerous red blood cells with an abnormal shape. These cells are teardrop-shaped, also known as ""dacrocytes."" The presence of a few small, dark purple-stained cells, indicative of white blood cells, is also noted. This type of blood cell morphology can be seen in conditions such as myelofibrosis or other myeloproliferative disorders."
+117,"This image is a coronal CT scan, likely of the abdomen. It shows the following anatomical features:
+
+- The spine is visible on the left side of the image.
+- The kidneys are present on both sides. The renal arteries can also be seen.
+- The large, dense structure in the middle appears to be the aorta.
+- Adjacent abdominal organs, such as the liver, are partially visible.
+
+The scan provides a good view of the abdominal vasculature and surrounding organs. If there are specific pathologies or findings you want analyzed, let me know!"
+118,"The image shows a close-up view of a mucous membrane with a small, visible ulcer or lesion. The surrounding tissue appears inflamed, indicated by the redness and swelling. The context suggests a medical examination, likely involving a skin or mucosal condition."
+119,"The image displays two diagnostic images: an X-ray on the left and ultrasound images on the right.
+
+1. **X-ray (Left):**
+   - Shows the abdomen, pelvis, and lumbar spine.
+   - The vertebrae, pelvis, and some intestinal gas patterns are visible.
+
+2. **Ultrasound (Right):**
+   - Two ultrasound images of the kidneys are labeled in Spanish.
+   - ""RIÑÓN IZQUIERDO"" indicates the left kidney.
+   - ""RIÑÓN DERECHO"" indicates the right kidney.
+   - The ultrasound images show the kidney's typical shape and internal structure."
+120,"The image is a sagittal MRI scan of the cervical spine. It shows the vertebrae, intervertebral discs, spinal cord, and surrounding soft tissue structures in the neck region. The scan is likely used to assess alignment, disc health, and spinal cord integrity."
+121,"The image is an X-ray of a human pelvis. It shows the pelvic bones, including the iliac crests, sacrum, and hip joints. The image provides a frontal view, which includes parts of the spine, the acetabular areas where the femoral heads sit, and the surrounding bony structures."
+122,"The biomedical image shows two different diagnostic imaging modalities of an elbow joint, likely after a total elbow arthroplasty (replacement). The left side displays an X-ray image, showing a metal prosthesis replacing the joint. The right side shows a CT scan highlighting the prosthesis with high radiodensity, confirming the presence of metallic components. The images together suggest a post-operative evaluation of elbow joint replacement."
+123,"The image shows a section of skin near the eye with a prominent, raised, red lesion. It appears to be inflamed and has an irregular surface with some areas that are lighter in color, possibly indicating pustular or ulcerated areas. The surrounding skin shows mild redness, suggesting inflammation or irritation."
+124,"The image shows an endoscopic view of the larynx. Visible are the vocal cords (vocal folds), which are the structures that vibrate to produce sound in the voice box. The surrounding tissues appear healthy and moist, typical of the laryngeal anatomy."
+125,"The image shows a hand with several notable features. There are purplish-red discolorations and what appear to be lesions or sores, particularly noticeable over the knuckles. The fingernails appear normal. The hand skin shows some areas of dryness or scaling. The presentation might suggest a possible skin condition or reaction."

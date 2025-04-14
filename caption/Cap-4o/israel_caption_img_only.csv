@@ -1,0 +1,753 @@
+id,caption
+1,"This image appears to be an electrocardiogram (ECG or EKG) tracing. It has multiple leads labeled as I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, and V6, which are standard in a 12-lead ECG. Each lead shows the electrical activity of the heart over time on a grid background that is used to measure amplitudes and intervals to assess cardiac function and detect abnormalities."
+2,"The image appears to be a microscopic view of a blood smear. It shows numerous red blood cells (erythrocytes) that are pale and have a ring-like or hollow appearance, indicative of hypochromia. There is also a presence of a single dark-stained leukocyte (white blood cell) visible among the red blood cells. The red blood cells show variation in shape and size, which may suggest anisocytosis or poikilocytosis. This could be characteristic of certain types of anemia, such as iron deficiency anemia."
+3,"This image shows an electrocardiogram (ECG) tracing featuring multiple leads with visible electrical activity of the heart. The tracing includes complex wave patterns characteristic of ventricular tachycardia or another arrhythmia, with rapid, irregular QRS complexes in several leads. These patterns indicate significant disturbances in the heart's electrical conduction system."
+4,"The image is an electrocardiogram (ECG) tracing showing the electrical activity of the heart. It displays 12 leads: I, II, III, aVR, aVL, aVF, and the precordial leads V1 through V6. The ECG has notable QRS complexes, T waves, and P waves, which provide information about the heart rhythm, conduction patterns, and potential abnormalities. The tracings suggest the presence of deep S waves in leads V1 and V2, and tall R waves in V5 and V6, indicative of left ventricular hypertrophy."
+5,"The image depicts a section of human skin, likely on the lower leg. Several raised, reddish-purple nodules are visible, suggesting inflammation or a dermatological condition. The surrounding area appears slightly erythematous. The nodules' distribution suggests a possible case of erythema nodosum or a similar condition affecting the subcutaneous tissue."
+6,"The biomedical image appears to be a blood smear stained with a dye, likely Wright-Giemsa, which highlights different components of blood. In this image, several large cells with prominent nuclei stained purple are visible. These are likely blasts, which are immature blood cells. Surrounding them are smaller, more numerous red blood cells (erythrocytes) that appear lighter in color. The presence of these immature cells, along with their morphology, could indicate a hematological condition, possibly a type of leukemia."
+7,"The image is a chest X-ray showing the thoracic cavity. The ribs, spine, and outline of the lungs are visible. The image appears to be from a patient with a noticeable asymmetry, suggesting possible pathology. The left side of the thorax (right side of the image) seems to show a more opaque area that could indicate fluid or a mass. The right side of the thorax (left side of the image) shows clear lung fields. The heart is centrally located and subject to evaluation. An ""L"" marker is placed on the image to designate the left side."
+8,"The image shows a 12-lead electrocardiogram (ECG) tracing. It displays the electrical activity of the heart from multiple angles, using leads I, II, III, aVR, aVL, aVF, and the precordial leads V1 to V6. Each lead depicts a series of P waves, QRS complexes, and T waves, which are used to assess the heart's rhythm and other cardiac conditions. The rhythm appears to be regular with each lead displaying distinct cardiac cycles."
+9,"The image is a chest X-ray showing the thoracic cavity. Visible features include the heart, lungs, and ribs. The X-ray appears to be focused on the lungs, which show a degree of opacification—potentially indicating issues like infection, inflammation, or other pulmonary conditions. The cardiac silhouette is visible in the central area, and the bony structures of the ribs appear as lighter arcs against the darker lung fields."
+10,"The biomedical image is a peripheral blood smear. It shows red blood cells (RBCs), which appear as pink, round, and biconcave discs. There are also several white blood cells (WBCs) present, which are larger and have purple-stained nuclei. Some of these WBCs appear to be neutrophils, identifiable by their multi-lobed nuclei. Additionally, there are some smaller, dark-stained cells indicating the presence of lymphocytes or perhaps basophils. The image provides a visual representation of the cellular components of blood."
+11,"This image shows an electrocardiogram (ECG/EKG) recording. The tracing represents the electrical activity of the heart over a period of time. It includes multiple leads, each reflecting different aspects of cardiac activity. The tracing shows an irregular rhythm with rapid, chaotic electrical activity, which may suggest ventricular fibrillation or a similar arrhythmia."
+12,"The image is a CT scan of the chest, showing a cross-sectional view of the thorax. The lungs are visible on either side, with the bronchi branching within them. The right lung (on the left side of the image due to the radiological view) appears to have areas of consolidation, suggesting possible lung infection such as pneumonia. The heart is visible in the center, and surrounding structures include the ribs and soft tissue. There is also some faint imagery of pulmonary vascular markings."
+13,"This biomedical image is an electrocardiogram (ECG) strip. It shows the electrical activity of the heart over time. The tracing displays a period of ventricular tachycardia, characterized by rapid, regular, wide QRS complexes that appear in succession. There are also normal beats before and after the tachycardic episode, visible as distinct P waves, QRS complexes, and T waves."
+14,"The image shows a lesion on the skin characterized by a dark, necrotic area with irregular borders. The surrounding skin appears erythematous, indicating inflammation. The lesion may suggest a gangrenous or necrotic condition, potentially requiring medical evaluation for underlying causes."
+15,"This image shows the results of a pulmonary function test (PFT) from Israel, specifically focusing on spirometry data. The following parameters are provided:
+
+1. **FVC (Forced Vital Capacity)**:
+   - Predicted: 2.75 L
+   - Pre-bronchodilator: 1.46 L (53% of predicted)
+   - Post-bronchodilator: 1.48 L (54% of predicted)
+
+2. **FEV1 (Forced Expiratory Volume in 1 second)**:
+   - Predicted: 2.07 L
+   - Pre-bronchodilator: 0.91 L (44% of predicted)
+   - Post-bronchodilator: 0.89 L (43% of predicted)
+
+3. **FEV1/FVC ratio**:
+   - Pre-bronchodilator: 0.62 (85% of predicted)
+   - Post-bronchodilator: 0.60 (82% of predicted)
+
+4. **FEF25-75% (Forced Expiratory Flow 25-75%)**:
+   - Pre-bronchodilator: 0.42 L/s (17% of predicted)
+   - Post-bronchodilator: 0.37 L/s (15% of predicted)
+
+5. **PEFR (Peak Expiratory Flow Rate)**:
+   - Pre-bronchodilator: 3.06 L/s (47% of predicted)
+   - Post-bronchodilator: 2.93 L/s (45% of predicted)
+
+6. **PIFR (Peak Inspiratory Flow Rate)** is listed with values, showing a slight increase post-bronchodilator.
+
+Two graphs are provided:
+- **FVC Flow vs. Volume**: Shows a flow-volume loop indicating obstructive patterns.
+- **FVC Volume vs. Time**: Depicts the volume exhaled over time, illustrating reduced flow.
+
+The test suggests impaired lung function, likely of an obstructive nature, given the low FEV1/FVC ratio and the minimal response to bronchodilators."
+16,"The image shows an electrocardiogram (ECG) recording with multiple leads (I, II, III, aVR, aVL, aVF, V1-V6). The tracing displays rapid, irregular heart action characterized by wide QRS complexes and a tachycardic rhythm. This pattern is indicative of ventricular tachycardia, a potentially life-threatening arrhythmia."
+17,"The image shows a blood smear under a microscope. It contains numerous red blood cells (erythrocytes) scattered across the field. There is a white blood cell (likely a neutrophil) visible with a lobulated nucleus, and an area with multiple small, dark-staining structures identified as platelet clumps. This is a typical representation of a peripheral blood smear used for examining blood cell morphology and identifying possible abnormalities."
+18,"The biomedical image shows red blood cells with a notable characteristic: many of the cells have a spiky or crenated appearance. This is typically seen in conditions associated with acanthocytosis or echinocytosis, where red blood cells exhibit abnormal shapes due to changes in the cell membrane."
+19,"The image is an electrocardiogram (ECG) displaying three leads: V3, V4, and V5. The ECG shows the electrical activity of the heart. The tracings demonstrate the typical wave patterns associated with each heartbeat, including the P waves, QRS complexes, and T waves. The image suggests typical monitoring of heart function, likely focusing on the anterior leads."
+20,"The image depicts a foot with polymelia, a rare congenital condition where there is an extra toe. The foot appears to have six toes, which is an anomaly from the typical five. The surrounding skin looks normal without any visible signs of injury or infection."
+21,"The image shows a human hand with fingers spread apart. The nails of the fingers appear to be rounded and bulbous, which is characteristic of nail clubbing. The hand is resting on a light-colored surface. Nail clubbing is often associated with various medical conditions affecting the heart and lungs."
+22,"The image consists of three MRI scans of the brain, presented in axial view:
+
+1. **Image (a):** T2-weighted MRI scan
+   - Shows hyperintensity in regions such as the temporal lobes.
+
+2. **Image (b):** FLAIR MRI scan
+   - Exhibits similar patterns to the T2-weighted image, focusing on the suppression of fluid signals to emphasize lesions.
+
+3. **Image (c):** Diffusion-weighted image (DWI)
+   - Highlights areas of diffusion restriction, which may appear hyperintense, indicating potential acute pathological changes, such as infarction.
+
+These images are typically used in diagnosing neurological conditions, such as infections, strokes, or tumors, due to their ability to differentiate tissues and abnormalities."
+23,"This image is a forest plot displaying hazard ratios for death versus control across various subgroups of patients in a clinical study. Here's a breakdown of the content:
+
+- **Subgroups**: The plot lists subgroups such as all patients, ECOG performance-status score, previous irinotecan use, region, number of previous regimens for metastatic disease, age, sex, number of organs involved, and microsatellite instability status.
+
+- **No. of Deaths/No. of Patients**: For each subgroup, the number of deaths out of the total number of patients is reported.
+
+- **Hazard Ratio for Death vs. Control (95% CI)**: The hazard ratios with their 95% confidence intervals are shown. Each subgroup has a point estimate of the hazard ratio depicted as a square on the plot, with lines representing the confidence interval.
+
+- **Interpretation**: Subgroups with hazard ratios less than 1 suggest a lower risk of death compared to the control group, while ratios above 1 suggest a higher risk. Confidence intervals crossing 1 imply non-significant differences.
+
+This plot is used to evaluate the effect of a treatment across various patient characteristics and clinical parameters."
+24,"The biomedical image shows a person with significant bruising and discoloration on the upper arm and shoulder area, extending towards the chest. The bruises appear dark purple and are consistent with subcutaneous bleeding or purpura. The skin around the area shows swelling and some redness, indicative of potential trauma or underlying medical condition."
+25,"The image shows an axial MR view of the pelvis, likely a T2-weighted MRI scan. There is a distinct dark circular structure indicated by a yellow arrow, suggesting an area of interest or abnormality, potentially indicating a lesion or mass. The surrounding tissues and anatomical structures such as bones and musculature are visible, helping to contextualize the location of the indicated area."
+26,"The image is a coronal CT scan of the lumbar spine. It clearly shows the vertebrae in the lower back region. The spinal curvature and the spacing between the vertebrae are visible, along with surrounding soft tissues and structures."
+27,"The biomedical report provides the following findings:
+
+- **Sensitivity Remark:** Sensitivity for detecting copy number alterations is reduced due to sample quality.
+
+- **Biomarker Findings:**
+  - Tumor Mutational Burden: 13 Mutations per Megabase (Muts/Mb).
+  - Microsatellite Status: MS-Stable.
+
+- **Genomic Findings:**
+  - **MET** exon 14 splice site mutation: 3028+1G>T.
+  - **RBM10** splice site mutation: 2100+1G>A.
+  - **TP53** mutation: E180K.
+  - Two disease-relevant genes with no reportable alterations: **BRCA1** and **BRCA2**."
+28,"The image shows a section of pancreatic tissue, specifically highlighting islet cells with amyloid deposits. The purple dye indicates cellular structures, while the dark areas represent amyloid deposits within the islets of Langerhans. This can be indicative of conditions like type 2 diabetes, where amyloid accumulation is common."
+29,"The image shows a woman with noticeable asymmetry in her eyes. The right eye (left from the viewer's perspective) appears swollen or droopy, potentially indicating a medical condition affecting the nerve or muscle around the eye."
+30,"The biomedical image consists of three axial CT scans of the chest. Each scan shows cross-sectional views of the thorax, including the heart, aorta, and surrounding structures. The images reveal the anatomy of the mediastinum, with clear visualization of the ascending aorta, pulmonary arteries, and lungs. The scans appear to be part of a diagnostic evaluation, possibly examining the heart and major blood vessels for abnormalities."
+31,"The image is a retinal fundus photograph. It shows the inner surface of the eye, including the optic disc, blood vessels, and retina. There are multiple dark red spots scattered throughout the retina, which could indicate retinal hemorrhages. The optic disc appears at the center-left, where the blood vessels converge. The image suggests possible pathology, likely related to conditions such as diabetic retinopathy."
+32,"The image shows both legs with multiple red, inflamed spots, suggestive of a skin condition. The lesions appear to be distributed over the lower legs, with varying sizes and degrees of redness. This presentation is consistent with a rash, possibly indicating a condition like erythema nodosum."
+33,"The biomedical image displays a table of laboratory values:
+
+- pH: 7.1
+- PaCO2: 23 mmHg
+- HCO3: 7 mEq/L
+- Na: 142 mEq/L
+- Cl: 105 mEq/L
+- Glucose: 300 mg/dL
+- Ethanol: 22 mMol/L
+- Lactate: 2.5 mMol/L
+- Osmolality: 359 mOsmol/L
+- Ketonemia: minimal"
+34,"The image shows a blood smear with numerous red blood cells (erythrocytes). Among them, there are white blood cells containing purple-stained intracellular inclusions. The inclusions appear to be schizonts, which are often associated with malarial infection, specifically Plasmodium species. This suggests that the image might relate to a case of malaria."
+35,"This is an electrocardiogram (ECG or EKG) recording. It provides a graphical representation of the electrical activity of the heart over a period of time. The ECG waveform is divided into several leads (I, II, III, aVR, aVL, aVF, V1-V6), each providing a unique view of the heart's electrical activity. This image includes waveforms with distinct P waves, QRS complexes, and T waves as typically seen in an ECG."
+36,"The image is a pulmonary function test report, specifically a plethysmograph, dated 20/05/21. It includes the following details:
+
+- Parameters: VC (Vital Capacity), IC (Inspiratory Capacity), ERV (Expiratory Reserve Volume), RV (Residual Volume), TLC (Total Lung Capacity), RV%TLC, FRCpleth (Functional Residual Capacity), FRC-He (Helium Dilution), SG tot (Specific Conductance), FVC (Forced Vital Capacity), FEV1 (Forced Expiratory Volume in one second), FEV1%FVC, MMEF 75/25 (Maximum Mid-Expiratory Flow), PEF (Peak Expiratory Flow), MEF 50/25 (Mid-Expiratory Flow), PIF (Peak Inspiratory Flow), MVV (Maximum Voluntary Ventilation), and FEF50%FIF50 (Forced Expiratory Flow 50%/Forced Inspiratory Flow 50%).
+
+- Predicted (Pred), actual (Act1), and post-test (Post) values along with percentage comparisons (%Act1/Pred, %Post/Pred, %Post/Act1) for each parameter.
+
+- Additional measurements: DLCO SB (Single-Breath Diffusing Capacity for Carbon Monoxide), DLCOc SB (Corrected DLCO SB), DLCO/VA (DLCO per unit alveolar volume), DLCOc/VA (Corrected DLCO/VA), VA (Alveolar Volume), VIN, and Hb (Hemoglobin concentration).
+
+These detailed measurements help assess the lung function and efficiency of gas exchange."
+37,"This image shows an electrocardiogram (ECG) tracing. The ECG displays a series of peaks and valleys representing the electrical activity of the heart. Key features include the P wave, QRS complex, and T wave, which are typical components of a cardiac cycle in an ECG reading. This ECG tracing appears to display a pattern consistent with atrial flutter, characterized by rapid, regular atrial contractions often depicted as ""sawtooth"" waves, especially in the lead shown."
+38,"The biomedical image shows a section of a person's skin displaying a marked area of discoloration and lesions. The skin appears red and inflamed, with several dark, necrotic patches suggesting tissue damage. A black outline surrounds part of the affected area, likely indicating a boundary of concern for medical evaluation. The lesions have a mottled appearance, and there is evidence of significant bruising or hemorrhage under the skin."
+39,"The image displays a microscopic view showing numerous red, rod-shaped bacteria against a blue background, typical of an acid-fast stain. This suggests the presence of Mycobacterium species, such as Mycobacterium tuberculosis, often seen in tuberculosis diagnoses."
+40,"The image shows a forearm with multiple red, inflamed spots or lesions. The spots are scattered across the skin, which appears to be affected by some dermatological condition, such as a rash or allergic reaction. The background setting seems to be a clinical environment, possibly indicating a medical examination."
+41,"The image shows a person's hand with apparent swelling and discoloration. The hand appears red and has significant edema, particularly in the fingers and palm. There may also be some blistering or raised areas, indicating possible inflammation or an allergic reaction."
+42,"The image is a chest X-ray showing a human thorax. Notable features include:
+
+- The left lung is mostly translucent, indicating it is filled with air.
+- The right lung appears denser, which could suggest fluid accumulation or a pathology present in that lung.
+- There is an ""L"" marker on the top right side of the image, indicating it is the left side of the body.
+- The cardiac silhouette appears shifted or obscured, potentially by the density in the right lung area.
+
+This image may indicate a pleural effusion or some consolidation in the right lung."
+43,"The image shows an electrocardiogram (ECG or EKG) reading. This ECG has multiple leads displayed, showing the electrical activity of the heart. The tracing includes several large, irregular, and rapid waves, suggesting a potentially abnormal rhythm like ventricular tachycardia or another type of arrhythmia. The background grid is used to measure time and voltage.
+
+"
+44,"The image shows a section of skin with a cluster of red, blister-like lesions. These lesions appear to follow a dermatomal pattern, which is often characteristic of conditions like herpes zoster (shingles). The surrounding skin appears normal, but the affected area is inflamed."
+45,"The image shows a blood smear with numerous white blood cells, specifically abnormal cells with large, irregularly shaped nuclei stained in purple. These cells are surrounded by numerous red blood cells, which appear as smaller, lighter-colored cells. The appearance of these large, irregular cells may suggest atypical or malignant cells, such as those seen in certain leukemias."
+46,"The image is a chest X-ray. It shows both lungs, the heart, and part of the diaphragm. The lung fields appear to have a diffuse pattern, which might indicate some level of interstitial markings. The heart is centrally located, and the diaphragm is visible below the lung fields. The ribs and clavicles are also outlined. There are no visible lesions or masses, but the overall image would need clinical correlation for interpretation."
+47,"The image shows an electrocardiogram (ECG or EKG) tracing. It displays features consistent with ventricular tachycardia (VT), such as a regular wide-complex tachycardia. The waveform shows rapid, broad QRS complexes without clear P waves, indicating abnormal and fast heart rhythms originating from the ventricles."
+48,"The image is an echocardiogram showing the heart. It appears to display a cross-section through the heart's chambers and valves. The cardiac structures and movement can be observed, and there is an ECG trace at the bottom indicating heart rhythm."
+49,"The image is an electrocardiogram (ECG or EKG) tracing. It includes multiple leads: I, II, III, aVR, aVL, aVF, and V1 to V6. Each lead records the electrical activity of the heart from different angles.
+
+The rhythm appears regular. The tracing shows P waves, QRS complexes, and T waves. There are waves visible across the leads that suggest analysis of the heart's conduction system, rhythm, and possible abnormalities. The pink grid paper is used for standard ECG recordings, where the vertical axis represents voltage and the horizontal axis represents time."
+50,"The image is an echocardiogram showing a four-chamber view of the heart. The following chambers are labeled:
+
+- RV: Right Ventricle
+- LV: Left Ventricle
+- RA: Right Atrium
+- LA: Left Atrium
+
+This type of imaging is used to assess the structure and function of the heart."
+51,"The image is an electrocardiogram (ECG or EKG) tracing, which records the electrical activity of the heart. It displays multiple leads including limb leads (I, II, III, aVR, aVL, aVF) and precordial leads (V1, V2, V3, V4, V5, V6). The tracing shows heartbeats across a grid with small and large squares, typically used for measuring time intervals and amplitude."
+52,"The biomedical image is a chest X-ray showing the lungs, heart, ribs, and spine. There are no apparent major abnormalities in the lung fields, and the heart appears normal in size. It's a typical frontal view radiograph of the thorax."
+53,"The biomedical image shows a pair of human legs with a notable lacy, reticular (net-like) rash pattern on the skin. This type of rash is often associated with a condition called livedo reticularis. The skin appears pale with purplish discoloration in a net-like pattern."
+54,"This image is of an electrocardiogram (ECG) tracing. It displays a series of repeating waveforms representing the electrical activity of the heart. The trace shows P waves, QRS complexes, and T waves, typical components of an ECG. The grid paper assists in measuring timing and amplitude of heartbeats."
+55,"The image is a CT scan of the thorax (chest), showing both lungs. The scan reveals bilateral ground-glass opacities, which appear as hazy areas in the lung fields, indicating a possible interstitial process. There is also the presence of reticular (net-like) patterns, suggesting fibrosis or interstitial lung disease. The heart and vertebral column are seen centrally. This appearance could be consistent with several conditions including pulmonary fibrosis or other interstitial lung diseases."
+56,"The image shows a human hand with multiple red, spotted lesions on the palm and fingers. These lesions vary in size and are scattered across the skin. The skin appears inflamed in the affected areas, suggesting a possible dermatological condition or reaction."
+57,"The biomedical image shows a sparse distribution of small, circular structures against a light background. These structures may represent cells or particles, commonly observed in microscopy. The image appears to have a relatively low density of these elements."
+58,"The image shows hands with noticeable clubbing of the fingers. Clubbing is characterized by the broadening and rounding of the fingertips and is often associated with various medical conditions, such as chronic lung or heart disease."
+59,"The image shows an electrocardiogram (ECG) tracing, which displays the electrical activity of the heart over time. It has multiple leads labeled as I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, and V6, each representing the heart's activity from different angles. The tracing includes characteristic waves such as P, QRS complexes, and T waves. The grid provides a reference for measuring the amplitude and duration of these electrical signals."
+60,"The biomedical image is a nomogram that represents plasma acetaminophen concentration versus time after ingestion. It is used to assess the risk of hepatotoxicity following acetaminophen overdose. The x-axis shows hours after acetaminophen ingestion, ranging from 0 to 28 hours. The y-axis shows plasma acetaminophen concentration in both micromoles per liter (µmol/L) and micrograms per milliliter (µg/mL), ranging from 0 to 3000 µmol/L or 0 to 500 µg/mL.
+
+There are three lines:
+
+1. A red solid line represents the lower limit for the high-risk group.
+2. A green dashed line represents the lower limit for the probable-risk group.
+3. A brown solid line represents the study nomogram line.
+
+These lines help clinicians determine whether acetaminophen levels fall into high, probable, or low risk of causing liver damage."
+61,"The image shows a skin lesion on what appears to be a lower limb. The lesion is ulcerated, with irregular borders and a mix of yellowish necrotic tissue and areas of redness, indicating possible infection or inflammation. Surrounding the ulcer, the skin is erythematous (red) and slightly swollen. There is also a healed scar or hyperpigmented area nearby. The overall appearance suggests a chronic wound or ulcer, possibly due to infection or another underlying condition."
+62,"The image shows skin with a noticeable rash characterized by multiple reddish-purple spots. The rash is present on the forearms, legs, and feet of an individual. The spots appear to be distributed across the skin and may indicate a systemic condition or reaction. The appearance could suggest purpura or similar dermatological conditions."
+63,The image shows two human palms with a widespread rash characterized by numerous red spots or lesions. The skin appears inflamed and the lesions are distributed across the entire area of the palms. This type of rash might be indicative of a viral or infectious disease.
+64,"This is a chest X-ray image. The image shows the thoracic cavity, including the ribs, lungs, and heart. There are medical devices visible, such as tubes or lines, which suggest a hospitalized patient. The lungs appear dark, indicating air-filled spaces, while the bones and heart appear lighter."
+65,"The image is an electrocardiogram (ECG or EKG), which is a test that records the electrical activity of the heart over a period of time using electrodes placed on the skin. This particular ECG strip shows multiple heartbeats across several leads, which are labeled (e.g., I, II, III, aVR, aVL, aVF, V1-V6). Each lead captures the heart's electrical activity from different angles, allowing for a comprehensive assessment of cardiac function."
+66,"The image is a chest X-ray. It features two annotated areas: one with a red arrow indicating a metallic object likely representing some type of orthopedic hardware in the left shoulder area, and another with a yellow arrow pointing to a radiopaque area in the lower left lung zone, which might suggest a pathology such as pleural effusion or lung infiltration. The spine, ribs, and other standard anatomical structures of the chest are also visible."
+67,"The biomedical image shows a lab result table with various blood parameters:
+
+- **pH**: 7.48
+- **pCO₂**: 67 mmHg
+- **HCO₃**: 46 mEq/L
+- **Lactate**: Value in Hebrew (not transcribed)
+- **Glucose**: 120 mg/dL
+- **Na (Sodium)**: 141 mEq/L
+- **K (Potassium)**: 5.3 mEq/L
+- **Cl (Chloride)**: 89 mEq/L
+- **Albumin**: 3.8 g/dL"
+68,"The image displays two X-ray views of the chest. The left side shows a posterior-anterior (PA) view, which includes the rib cage and both lungs. The right side presents a lateral view. The X-rays reveal details about the lung fields, heart, and bony structures."
+69,The image is an electrocardiogram (ECG) showing multiple leads of heart tracings. Each lead demonstrates the voltage over time of the electrical activity of the heart. The ECG is used to assess the heart's rhythm and electrical conductivity.
+70,"The image contains a table with two rows and three columns, presenting biochemical data for serum and urine:
+
+- **Serum:**
+  - Osomolality: 265 mOsm/KgH
+  - Na (Sodium): 115 mEq/L
+
+- **Urine:**
+  - Osomolality: 80 mOsm/KgH
+  - Na (Sodium): 15 mEq/L"
+71,"The image is an X-ray of a human wrist. It shows the bones of the forearm, specifically the radius and ulna, and the carpal bones of the wrist. The alignment of the bones appears normal, with no visible fractures or dislocations. The carpal bones are arranged in two rows, forming the wrist joint with the distal ends of the radius and ulna."
+72,"The biomedical image shows red blood cells (erythrocytes) with a number of them appearing abnormally shaped. Some of the cells exhibit a crescent or sickle shape, which is characteristic of sickle cell anemia. The background is a typical view under a microscope for examining blood samples."
+73,"The image shows a hand with visible contractures affecting the fingers. The ring and little fingers are bent towards the palm, which is characteristic of Dupuytren's contracture."
+74,"The image shows a pair of hands exhibiting deformities and swelling, characterized by joint changes. This appearance is typical of conditions like rheumatoid arthritis, where the fingers may be deviated, and joints appear swollen and altered. The skin may also look slightly translucent or stretched."
+75,"The image shows numerous dark, raised spots on a patch of skin. These spots vary in size and appear clustered in certain areas. The skin around these spots exhibits hairs, indicating it is a typically hairy region of the body. The spots could represent dermatological lesions that warrant professional evaluation for accurate diagnosis."
+76,"This image is an electrocardiogram (ECG or EKG) showing multiple leads (I, II, III, aVR, aVL, aVF, V1-V6). The traces display heart activity through electrical impulses over time. The ECG is recorded on graph paper, with each small square typically representing 0.04 seconds in time horizontally and 0.1 mV in amplitude vertically. The rhythm appears to have a regular pattern throughout the leads presented."
+77,"The image is a CT scan of the abdomen showing various anatomical structures. In the upper right of the image, there is a large black area, which typically indicates gas, likely within the stomach or intestines. Surrounding this area are various soft tissue densities and organs, including parts of the liver, spleen, and possibly portions of the pancreas or intestines. The vertebral column is visible in the center bottom portion as a circular structure with high density. The image reflects a cross-sectional view typical of axial CT scans."
+78,"The image shows an electroencephalogram (EEG) recording, which depicts brain wave activity. The chart includes multiple waveforms with varying amplitudes and frequencies, which seem to indicate significant irregular activity typical of seizures or epilepsy. The background grid provides a scale for interpreting wave characteristics."
+79,"The image is a chest CT scan showing a cross-sectional view of the thorax. It displays both lungs, the trachea, and major bronchi. The heart and parts of the great vessels, such as the aorta and pulmonary artery, are visible in the center. The lung fields show various shades of gray indicative of different tissue densities. There is a symmetrical appearance of the lung structures, with markings consistent with pulmonary vasculature and possibly bronchial structures."
+80,"The biomedical image is an electrocardiogram (ECG/EKG) tracing. The ECG shows multiple leads: I, II, III, aVR, aVL, aVF, and precordial leads V1 through V6. The tracings appear to display the electrical activity of the heart over a period, allowing for assessment of heart rhythm, rate, and conduction abnormalities."
+81,"This image is an electrocardiogram (ECG/EKG). The ECG shows multiple leads with a regular, wide-complex tachycardia, which is suggestive of ventricular tachycardia. The rate appears rapid, and there are noticeable large QRS complexes."
+82,"This is a chest X-ray image showing the thoracic cavity. The image includes the ribs, spine, and outlines of the lungs and heart. The diaphragm is visible, and there is an 'R' marker indicating the right side of the image. The lung fields appear clear, and the heart is visible centrally."
+83,"The biomedical image appears to be a histological section stained with hematoxylin and eosin (H&E). It shows several circular structures with a basophilic (blue-purple) outer layer, which suggests lymphoid follicles or nodules. These structures contain densely packed cells indicating the presence of lymphocytes. The surrounding area appears less dense, likely indicating connective tissue or the stroma. The overall appearance is consistent with a section of lymphoid tissue, such as a lymph node or tonsil."
+84,The image shows a close-up of a person's forearm with multiple reddish or purplish spots and small raised lesions scattered across the skin. These lesions appear to be slightly raised and are distributed over a significant portion of the skin visible in the image.
+85,"This biomedical image shows a blood smear with numerous large cells containing abundant cytoplasm and prominent nuclei stained purple, which are likely leukemic cells. These cells are irregular in shape and differ markedly from the smaller, rounder red blood cells also visible in the background. The characteristics of these large cells could be indicative of acute leukemia, potentially acute myeloid leukemia (AML), where myeloblasts with prominent nuclei are prevalent."
+86,"The image consists of three parts:
+
+A. A CT scan showing a cross-sectional view of the chest. The arrows point to structures in the lungs, likely indicating abnormalities or areas of interest such as nodules or masses.
+
+B. An angiogram displaying the blood vessels. The image highlights vascular structures, possibly indicating an area with a blockage, lesion, or other vascular condition.
+
+C. A photograph of a resected or extracted specimen with branching features. The scale suggests small size, and it appears to be a biological structure, possibly a tumor or piece of tissue.
+
+Each part contributes to a comprehensive diagnostic view, often used to assess conditions such as tumors or vascular diseases."
+87,"The image shows a close-up of a human palm with numerous small, red spots or petechiae scattered throughout the surface. The skin appears to have a normal texture except for these widespread spots. The pattern suggests possible bleeding under the skin. The hand is resting on a white fabric or towel."
+88,The image is a CT scan of the chest showing bilateral ground-glass opacities predominantly in the lower lobes. These opacities appear as hazy areas that do not obscure the underlying structures of the lungs. The pattern is suggestive of a diffuse interstitial or alveolar process.
+89,"The image is an electrocardiogram (ECG or EKG) showing the electrical activity of the heart. It displays the typical 12-lead configuration, including leads I, II, III, aVR, aVL, aVF, and V1 through V6. The ECG tracks the heart's rhythm and electrical conduction, and the trace indicates the P wave, QRS complex, and T wave for each lead. It also includes information on the paper speed (25 mm/s) and sensitivity (10 mm/mV)."
+90,"The image contains two parts: 
+
+1. **Chest X-ray**: The upper section is a frontal chest X-ray showing the structures in the thorax. The lungs are visible, and there might be indications of abnormalities based on the presentation of the heart and lung fields. The image shows the mediastinum and diaphragm.
+
+2. **ECG (Electrocardiogram)**: The lower section displays an ECG tracing. It consists of multiple leads showing various cardiac electrophysiological activities. Abnormal wave patterns or intervals might be present, suggesting potential cardiac issues.
+
+Both sections of the image are used for diagnosing or evaluating cardiac and pulmonary conditions."
+91,"The image shows a spirometry and flow-volume test result. It includes graphs and a table with parameters, units, predicted values, pre-medication values, and post-medication values.
+
+### Parameters:
+- **FVCex** (Forced Vital Capacity)
+- **FEV1** (Forced Expiratory Volume in 1 second)
+- **FEV1/FVC** ratio
+- **MEF25-75** (Mean Expiratory Flow)
+- **PEF** (Peak Expiratory Flow)
+- **MEF50** and **MEF25**
+- **PIF** (Peak Inspiratory Flow)
+- **MIF50**
+
+### Times and Medications:
+- Initial test at 11:21
+- Second test at 12:17 after taking Ventolin
+
+### Results:
+- The table compares pre- and post-bronchodilator values.
+- Most parameters show improvement post-medication.
+
+### Graphs:
+- Two graphs display flow-volume and volume-time curves. They show pre- and post-bronchodilator performance, highlighted in different colors.
+
+This data aids in assessing lung function, often used in diagnosing conditions like asthma or COPD."
+92,"The image is an electrocardiogram (ECG) tracing. It shows multiple leads (I, II, III, aVR, aVL, aVF, V1-V6), each recording the electrical activity of the heart. The ECG grid allows for analysis of the heart rate, rhythm, and any abnormalities. The tracings display the characteristic P waves, QRS complexes, and T waves."
+93,"The image shows a microscopic view of cells, likely a cytology or histology sample. The cells are stained, with distinct purple nuclei and lighter cytoplasm. There are multiple cells with prominent, round nuclei, varying in size. The background appears granular, suggesting a tissue sample or biological smear preparation. It might represent a pathological or diagnostic sample, such as a blood cell or tissue analysis."
+94,"The image is an ultrasound scan, showing a typical echocardiogram view of the heart. The grayscale image represents different tissues and structures based on their echogenicity. The top portion of the image typically represents the probe location, and the structures get deeper as you move down the image. An electrocardiogram (ECG) trace is visible at the bottom, indicating heart rhythm synchronization during the scan. This scan is likely showing a cross-sectional view of the heart, used to assess cardiac structures and function."
+95,"The image shows a human palm with multiple red, raised spots or papules. The lesions appear scattered across the skin, suggesting a dermatological condition. The background shows areas of normal skin tone mixed with the affected spots. This type of presentation may be indicative of a condition affecting the skin of the palms."
+96,"The image appears to be an abdominal CT scan showing a cross-sectional view. You can see various abdominal structures, including the spine, vertebrae, kidneys, and some other organs. There's no clear indication of any abnormality in this single slice, but detailed clinical correlation and examination of multiple slices would be necessary for a comprehensive assessment."
+97,"The image appears to be a barium enema X-ray highlighting the large intestine. It shows a region with a distinct narrowing consistent with the ""string sign,"" which is often associated with a condition like Hirschsprung's disease. The barium contrast outlines the intestinal tract, revealing these abnormalities."
+98,"The image is a CT scan of the abdomen showing bilateral kidneys with multiple cysts of varying sizes, consistent with polycystic kidney disease. The spine is visible in the center for anatomical reference."
+99,"This image is a CT scan of the abdomen showing the liver. There are several dark, circular areas present, which could indicate the presence of gas or air within the bile ducts, suggesting pneumobilia. The liver appears enlarged, and there may be varying densities indicating different tissue compositions or pathologies. Other abdominal structures, such as the vertebra and part of the intestine, are visible as well."
+100,"This is a coronal CT (computed tomography) scan image showing the pelvis and lower abdominal area. The bony structures, including the iliac bones and acetabulums, are visible. Soft tissue structures and some of the internal organs in this region, such as parts of the intestines, can also be seen. The scan appears to be oriented to highlight these anatomical features."
+101,"The table summarizes the rate of positive or negative COVID-19 testing based on the presence or absence of gastrointestinal symptoms. It compares data between COVID-19 positive (N = 278) and COVID-19 negative (N = 238) individuals. The symptoms assessed include ""Any gastrointestinal symptoms,"" ""Diarrhea,"" and ""Nausea/vomiting."" For each symptom, the table lists the number of cases present and absent, along with corresponding percentages and p-values indicating statistical significance.
+
+- **Any gastrointestinal symptoms:** Present in 97 (61%) COVID-19 positive and 63 (39%) COVID-19 negative cases, with a p-value of 0.04.
+- **Diarrhea:** Present in 56 (61%) COVID-19 positive and 36 (39%) COVID-19 negative cases, with a p-value of 0.14.
+- **Nausea/vomiting:** Present in 63 (58%) COVID-19 positive and 46 (42%) COVID-19 negative cases, with a p-value of 0.36."
+102,"This image is a forest plot, which is typically used in meta-analyses to display the results of multiple studies. Here’s a description of the contents:
+
+- **Studies Listed:** The left-hand column lists the studies, with their years of publication, including Simon 1975, Kessler 1978, Cartwright 1981, etc.
+- **Odds Ratios and Confidence Intervals (CIs):** The middle column represents the odds ratios with 95% confidence intervals for each study. These are visualized with square boxes (point estimates) and horizontal lines (confidence intervals).
+- **Weights (%):** This column shows the weight each study contributes to the pooled analysis, with percentages ranging from 5.4% to 23.1%.
+- **Pooled Estimate:** The diamond at the bottom represents the pooled odds ratio and its confidence interval.
+- **Heterogeneity Statistics:** Includes tau-squared (\(\tau^2 = 0.027\)), P-value (P = 0.16), and I-squared (\(I^2 = 32\%\)), indicating the level of heterogeneity among the studies."
+103,"The image is a table containing data in Hebrew. It has three columns and three rows. 
+
+Column headers (from right to left):
+1. The first column seems to represent a general category (סה""כ).
+2. The second column appears to refer to healthy individuals (נבדק בריא).
+3. The third column seems to refer to cancer patients (חולה בסרטן קיבה).
+
+Row headers (from top to bottom):
+1. The first row refers to ""positive screening"" (בדיקת סקר חיובית).
+2. The second row mentions ""negative screening"" (בדיקת סקר שלילית).
+3. The third row is a total (סה""כ).
+
+The corresponding numbers in each cell of the table are as follows:
+
+- Positive screening: 
+  - Cancer patients: 490,000
+  - Healthy individuals: 2,660,000
+  - Total: 3,150,000
+
+- Negative screening: 
+  - Cancer patients: 210,000
+  - Healthy individuals: 10,640,000
+  - Total: 10,850,000
+
+- Total: 
+  - Cancer patients: 700,000
+  - Healthy individuals: 13,300,000
+  - Total: 14,000,000"
+104,"The image is a table containing biomedical data in Hebrew. It appears to present statistical information divided into three columns and three rows. The columns are labeled (from right to left):
+
+1. סה""כ (Total)
+2. נבדק בריא (Healthy)
+3. חולה בסרטן קיבה (Stomach Cancer)
+
+The rows are:
+
+1. בדיקת סקר חיובית (Positive Screening Test)
+2. בדיקת סקר שלילית (Negative Screening Test)
+3. סה""כ (Total)
+
+The values in the cells represent numerical data:
+
+1. Positive Screening Test: 
+   - סטטיסטית (Total): 3,150,000
+   - בריא (Healthy): 2,660,000
+   - סרטן קיבה (Stomach Cancer): 490,000
+
+2. Negative Screening Test: 
+   - סטטיסטית (Total): 10,850,000
+   - בריא (Healthy): 10,640,000
+   - סרטן קיבה (Stomach Cancer): 210,000
+
+3. Total:
+   - סה""כ (Total): 14,000,000
+   - בריא (Healthy): 13,300,000
+   - סרטן קיבה (Stomach Cancer): 700,000"
+105,"The image is a flowchart from a study conducted in Israel, assessing 2,454,693 individuals from 1967 to 2010. Here's a breakdown of the chart:
+
+1. **Excluded Participants (156,563 Total):**
+   - 64,186 were excluded due to missing BMI data.
+   - 92,377 were excluded as they were non-Jewish minorities unrepresentative of the minority population.
+
+2. **Included in the Analysis:**
+   - 2,298,130 individuals were included.
+
+3. **Deaths Recorded (36,118 Total between 1967 and 2011):**
+   - Of those, 3,991 died between 1967 and 1980.
+     - 803 had a missing cause of death.
+   - Another 32,127 died between 1981 and 2011.
+     - 1,497 had coronary heart disease.
+     - 528 had a stroke.
+     - 893 had sudden death.
+     - 1,662 had a missing cause of death.
+
+The chart provides details on exclusions and the mortality data of participants during the study period."
+106,"The image is a flowchart depicting a study analysis of 2,454,693 individuals assessed from 1967 through 2010. Here's a breakdown:
+
+- **Excluded:**
+  - A total of 156,563 people were excluded:
+    - 64,186 had missing BMI data.
+    - 92,377 were non-Jewish minorities, considered unrepresentative of the minority population.
+  
+- **Included in Analysis:**
+  - 2,298,130 individuals were included in the analysis.
+
+- **Deaths Recorded (1967-2011):**
+  - 36,118 deaths were recorded between 1967 and 2011.
+
+  - **Died between 1967 and 1980:**
+    - 3,991 deaths were recorded.
+    - 803 had a missing cause of death.
+
+  - **Died between 1981 and 2011:**
+    - 32,127 deaths occurred during this period.
+    - 1,497 had coronary heart disease (ICD-9 codes: 410–414; ICD-10 codes: 120–125).
+    - 528 had a stroke (ICD-9 codes: 430–434 and 436–438; ICD-10 codes: 160–169).
+    - 893 had sudden death (ICD-9 code: 798; ICD-10 code: R96).
+    - 1,662 had a missing cause of death."
+107,"The biomedical image consists of four line graphs illustrating major cardiovascular outcomes in patients with type 1 diabetes compared to matched controls in Israel from 1996 to 2014. Each graph shows changes in standardized incidence rates per 10,000 person-years over several time periods.
+
+**Panel A:** Displays ""Death from Any Cause"" for patients with type 1 diabetes and matched controls. Patients with type 1 diabetes have a higher incidence rate compared to controls, though the rate decreases over time.
+
+**Panel B:** Shows ""Death from Cardiovascular Disease,"" with patients with type 1 diabetes again experiencing higher rates than controls, but with a downward trend.
+
+**Panel C:** Depicts ""Death from Coronary Heart Disease,"" showing a higher incidence in patients with type 1 diabetes, which decreases over the years.
+
+**Panel D:** Illustrates ""Hospitalization for Cardiovascular Disease."" The incidence is higher in patients with type 1 diabetes, with a gradual decline over time.
+
+Overall, the graphs indicate that while patients with type 1 diabetes consistently have higher rates of these cardiovascular outcomes compared to controls, there is a general trend of decreasing incidence over the study period. The error bars represent 95% confidence intervals."
+108,"The image consists of four graphs comparing major cardiovascular outcomes between patients with type 1 diabetes and matched controls. Each graph displays the standardized incidence rate per 10,000 person-years over various time intervals from 1998 to 2014. The blue line represents patients with type 1 diabetes, and the red line represents matched controls. 
+
+Graph A: ""Death from Any Cause"" shows a higher incidence in type 1 diabetes patients than controls, though the rate decreases over time.
+
+Graph B: ""Death from Cardiovascular Disease"" reflects a similar pattern with a consistently higher rate in type 1 diabetes patients.
+
+Graph C: ""Death from Coronary Heart Disease"" also demonstrates higher rates in the diabetes group, decreasing over time.
+
+Graph D: ""Hospitalization for Cardiovascular Disease"" indicates higher hospitalization rates for patients with type 1 diabetes, which decline over the years.
+
+Controls were matched for age, sex, and county. The I bars represent 95% confidence intervals."
+109,"The image is a set of four graphs showing standardized incidence rates of cardiovascular outcomes for patients with type 1 diabetes compared to matched controls over several years. The graphs are labeled A to D:
+
+- **Graph A**: ""Death from Any Cause"" shows a higher incidence rate for patients with type 1 diabetes compared to controls, with a decreasing trend over the years.
+- **Graph B**: ""Death from Cardiovascular Disease"" indicates a similar pattern with higher rates in patients with type 1 diabetes, trending downwards.
+- **Graph C**: ""Death from Coronary Heart Disease"" also follows a higher incidence for type 1 diabetes patients with a downward trend.
+- **Graph D**: ""Hospitalization for Cardiovascular Disease"" reveals higher hospitalization rates for patients with type 1 diabetes, again decreasing over time.
+
+The graphs use 95% confidence intervals represented by error bars."
+110,"The image shows a table with data in Hebrew. It compares two groups: ""קבוצת ההערבות"" (intervention group) and ""קבוצת הביקורת"" (control group). The table includes the following rows:
+
+1. ""N"" - Sample size: 337 for the intervention group and 330 for the control group.
+2. ""ממוצע"" - Mean: 15 for the intervention group and 16.5 for the control group.
+3. ""סטיית תקן"" - Standard deviation: 2 for both groups."
+111,"The table is written in Hebrew and seems to relate to birth weight and maternal smoking during pregnancy.
+
+- The first row is the header with two columns labeled “כן” (yes) and “לא” (no), possibly indicating whether the baby had low birth weight.
+- The second header in the left column is “האם בהריון עישון” (smoking during pregnancy).
+  
+The data:
+- For those who smoked (""כן""), 26 had a low birth weight, and 42 did not.
+- For those who did not smoke (""לא""), 211 had a low birth weight, and 721 did not."
+112,"The image is a table displaying statistical data related to a population split by gender across different age groups or categories in Hebrew. The table includes the following columns:
+
+1. **האחרונות מספר אשפוזים ב-5 השנים**: Number of hospitalizations in the last 5 years.
+2. **שכיחות נשים (F)**: Frequency for females.
+3. **שכיחות גברים (M)**: Frequency for males.
+
+There are eight rows of data showing various counts for each category. The totals for both males and females are 100."
+113,"The image is a table displaying demographic data from Israel, likely related to health or population statistics, segmented by age groups. 
+
+The columns indicate:
+1. Age groups (e.g., 0-14, 15-40, 41-64, 65-74, 75-84, 85+).
+2. Total numbers and percentages of some population or condition.
+
+The sections are divided into:
+- ""נפח חיפה"" (Haifa volume) with ""מספר"" (number) and ""אחוז"" (percent).
+- ""נפח אחרות"" (other volume) with ""מספר"" (number) and ""אחוז"" (percent).
+
+Each row provides specific data for an age group in terms of both absolute numbers and percentages."
+114,"The image shows a table with data on bone density related to age groups in Israel. It includes six age categories: 0-14, 15-40, 41-64, 65-74, 75-84, and 85+. Each category lists numerical values for two columns: ""Number"" and ""Percentage"" in both total bone mass and bone loss. The columns are marked in Hebrew, with values given both as numbers and percentages."
+115,"The image is a table written in Hebrew, containing four columns and three rows. It presents data for two different countries (labeled as ""מדינה א'"" and ""מדינה ב'"") and involves different categories relating to gender (גברים for males and נשים for females). The columns represent:
+
+1. גולמי גברים: Male incidence rate
+2. גולמי נשים: Female incidence rate
+3. מחוקן לגיל גברים: Age-standardized rate for males
+4. מחוקן לגיל נשים: Age-standardized rate for females
+
+For מדינה א' (Country A):
+- Males: 20.5 (incidence rate), 16.4 (age-standardized)
+- Females: 22.4 (incidence rate), 18.2 (age-standardized)
+
+For מדינה ב' (Country B):
+- Males: 14.2 (incidence rate), 16 (age-standardized)
+- Females: 16.8 (incidence rate), 17.8 (age-standardized)"
+116,"The image is a table in Hebrew showing data related to B-NHL (B-cell Non-Hodgkin Lymphoma) patients. The table includes columns with the following information:
+
+1. **Age Categories**:
+   - Up to 55 years
+   - Over 55 years
+
+2. **Columns for Each Age Group**:
+   - Number of HCV-positive patients
+   - Number of HCV-negative patients
+
+3. **Data**:
+   - For patients up to 55:
+     - 6 HCV-positive
+     - 231 HCV-negative
+   - For patients over 55:
+     - 16 HCV-positive
+     - 165 HCV-negative
+
+The total number of cases and records for each category is provided."
+117,"The image is a table written in Hebrew. It represents data related to B-NHL (B-cell Non-Hodgkin Lymphoma) cases and control groups, divided by age and HCV (Hepatitis C Virus) status.
+
+The table consists of four main columns:
+
+1. **Age (גיל) in Years (שנים):**
+   - עד 55 (up to 55)
+   - מעל 55 (over 55)
+
+2. **B-NHL Cases (מקרים):**
+   - Number HCV-negative (מספר שליליים ל- HCV)
+     - עד 55: 163
+     - מעל 55: 237
+   - Number HCV-positive (מספר חיוביים ל- HCV)
+     - עד 55: 18
+     - מעל 55: 52
+   
+3. **Controls (ביקורות):**
+   - Number HCV-negative (מספר שליליים ל- HCV)
+     - עד 55: 231
+     - מעל 55: 165
+   - Number HCV-positive (מספר חיוביים ל- HCV)
+     - עד 55: 6
+     - מעל 55: 16"
+118,"The biomedical image is a table from a study related to B-NHL (B-Cell Non-Hodgkin Lymphoma) involving HCV (Hepatitis C Virus). It is written in Hebrew and is divided into multiple columns and rows with the following details:
+
+- Columns: Age (in years), Number with HCV, Number without HCV.
+- Rows represent different age categories (up to 55 years and over 55 years).
+- Data includes counts of individuals with or without HCV among people with or without B-NHL. 
+
+Here's a brief breakdown of the data:
+
+- Age up to 55 years:
+  - Number with HCV: 18
+  - Number without HCV: 163
+- Age over 55 years:
+  - Number with HCV: 52
+  - Number without HCV: 237
+
+The control data for those without B-NHL is also provided for both age groups."
+119,"The image is a table presenting demographic data. It includes three columns:
+
+1. **Age Group (גיל):**
+   - 0-20
+   - 21-44
+   - 45-64
+   - 65 and older
+
+2. **Mortality Rate per 10,000 (שיעור תמותה סגולי ל-10,000 בעייר):**
+   - 2 for ages 0-20
+   - 10 for ages 21-44
+   - 30 for ages 45-64
+   - 70 for ages 65 and older
+
+3. **Standard Population (אוכלוסיית התקן N):**
+   - 35,000 for ages 0-20
+   - 20,000 for ages 21-44
+   - 15,000 for ages 45-64
+   - 5,000 for ages 65 and older
+
+The total standard population is 75,000."
+120,"The table contains Hebrew text and numerical data. Here's a summary:
+
+- The table compares two groups: ""בריאים"" (Healthy) and ""חולים"" (Patients).
+- Under ""בריאים"" (Healthy):
+  - ""ללא גידול"" (Without tumor) is 302.
+  - ""עם גידול"" (With tumor) is unspecified in the label.
+  
+- Under ""חולים"" (Patients):
+  - ""גידול בבלוטות הזרע"" (Tumor in seminal vesicles) is 147.
+  - ""פחות מחמש שנות שימוש בסלולרי"" (Less than five years of cell phone use) is 389.
+
+The rows contain data categorized by duration of cellular use:
+- ""יותר מחמש שנות שימוש בסלולרי"" (More than five years of cell phone use): 147 for ""חולים"" and 302 for ""בריאים"".
+- ""פחות מחמש שנות שימוש בסלולרי"" (Less than five years of cell phone use): 138 for ""חולים"" and 389 for ""בריאים""."
+121,"The graph illustrates thyroid cancer incidence and related mortality in South Korea from 1993 to 2011. It shows the rate per 100,000 population for thyroid-cancer incidence, incidence of papillary thyroid cancer, and thyroid-cancer mortality.
+
+Key points:
+- There is a marked increase in thyroid cancer incidence and the incidence of papillary thyroid cancer over the years.
+- Thyroid cancer mortality remains relatively stable and low throughout the period.
+- The data are age-adjusted to the South Korean standard population."
+122,"The image is a graph showing ""Thyroid-Cancer Incidence and Related Mortality in South Korea, 1993–2011."" It plots the rate per 100,000 population on the y-axis against time from 1993 to 2011 on the x-axis. 
+
+The graph includes three lines:
+
+1. **Thyroid-cancer incidence**, which shows a significant increase over time, particularly after the early 2000s.
+2. **Incidence of papillary thyroid cancer**, which follows a similar upward trend as the overall incidence line.
+3. **Thyroid-cancer mortality**, which remains relatively stable and low throughout the period.
+
+The data are sourced from the Cancer Incidence Database, Korean Central Cancer Registry, and the Cause of Death Database, Statistics Korea. All data are age-adjusted to the South Korean standard population."
+123,"The image is a graph showing thyroid cancer incidence and mortality in South Korea from 1993 to 2011. 
+
+- The x-axis represents the years from 1993 to 2011.
+- The y-axis represents the rate per 100,000 population.
+- There are two lines on the graph:
+  - A solid orange line indicating the incidence of thyroid cancer, which shows a sharp increase, especially after the early 2000s.
+  - A dashed orange line indicating the incidence of papillary thyroid cancer, which follows a similar trend to the overall thyroid cancer incidence.
+  - A dotted blue line at the bottom indicating thyroid cancer mortality, showing little to no increase over the years. 
+
+The data is sourced from the Cancer Incidence Database and Cause of Death Database in South Korea, and rates are age-adjusted to South Korean standard population."
+124,"The image is a table written in Hebrew, comparing two radiologists (Radiologist 1 and Radiologist 2) and their evaluations of some sort of measurements or values related to ""צל לב תקין"" (normal heart shadow) and ""צל לב מוגדל"" (enlarged heart shadow), with values indicated in units labeled ""סה""כ"" (total).
+
+- Radiologist 1:
+  - Normal Heart Shadow: 300, 200, 500
+  - Enlarged Heart Shadow: 100, 400, 500
+  - Totals: 400, 600, 1000
+
+- Radiologist 2:
+  - Normal Heart Shadow: 400
+  - Enlarged Heart Shadow: 600
+  - Total: 1000
+
+The table seems to be comparing the evaluations of the two radiologists in terms of heart size assessments and their corresponding totals."
+125,"The image is a table written in Hebrew, containing two main sections for two radiologists. It includes measurements (possibly in units) organized into rows and columns. Here is a breakdown:
+
+- **Columns:**
+  - For Radiologist 1: ""צל לב תקין"" (Shadow of the normal heart), ""צל לב מוגדל"" (Shadow of the enlarged heart).
+  - For Radiologist 2: Similar headings for ""צל לב תקין"" and ""צל לב מוגדל.""
+
+- **Rows:**
+  - The leftmost column has measurements: 400, 600, 1000.
+  - Corresponding values are listed under each condition for both radiologists.
+
+The data might represent comparative analysis or measurements of heart shadows in diagnostic imaging."
+126,"The image is a forest plot from a meta-analysis examining the incidence of breast cancer in patients with versus without diabetes mellitus (DM). It shows the log(hazard ratio), standard error, weight (%) of each study, hazard ratio, and 95% confidence intervals for several studies. Each study is represented by a square, and the size of the square indicates the weight of the study in the meta-analysis. The horizontal lines represent confidence intervals.
+
+Key points:
+- The hazard ratios are plotted, with values greater than 1 indicating an increased risk in patients with DM.
+- Confidence intervals cross the line of no effect (hazard ratio of 1) for some studies.
+- The diamond at the bottom represents the overall hazard ratio and confidence interval.
+- The overall effect shows a hazard ratio of 1.23 [1.12, 1.34], indicating a statistically significant increased risk of breast cancer in patients with DM.
+- Heterogeneity is low (I² = 0%).
+
+The plot is from Fig. 2 of a study relating to breast cancer incidence and diabetes mellitus."
+127,"The image is a forest plot from a meta-analysis examining the breast cancer incidence for patients with versus without diabetes mellitus (DM). The plot includes six studies, each represented by a square and horizontal line indicating the hazard ratio and the 95% confidence interval. The square size reflects the weight of each study. The overall effect is summarized by a diamond at the bottom, which spans the confidence interval. 
+
+Key elements include:
+- Hazard ratios for individual studies range around 1.07 to 1.35, indicating varied increased risk.
+- The overall hazard ratio is 1.23 (95% CI: 1.12, 1.34), shown by the diamond, suggesting a statistically significant increased risk of breast cancer in patients with DM.
+- The plot indicates low heterogeneity among studies (I² = 0%).
+
+The figure caption explains that an inverse variance random-effects model was used for this analysis."
+128,"The image is a forest plot from a meta-analysis examining the incidence of breast cancer in patients with versus without diabetes mellitus (DM). It includes:
+
+- Six studies listed with corresponding log(hazard ratio), standard error (s.e.), weight (%), and hazard ratio.
+- Hazard ratios (HRs) with 95% confidence intervals are depicted.
+- A diamond at the bottom represents the overall effect size with a hazard ratio of 1.23 (1.12, 1.34), indicating increased risk in DM.
+- Measures of heterogeneity (I² = 0%) indicate no observed heterogeneity.
+- A test for overall effect (Z = 4.50, P < 0.001) suggests statistical significance.
+
+The plot indicates that patients with diabetes have a higher incidence of breast cancer."
+129,"The image is a line graph showing the trend of four different data groups over the years 2000 to 2011. Each group is represented by a different colored line:
+
+1. **Green Line (▲)**: Representing the age group 21-27. The numbers range from 489 in 2000, fluctuate slightly, and drop to 385 in 2011.
+   
+2. **Brown Line (■)**: Representing the age group 28-32. It starts at 46 in 2000 and reduces gradually to 40 in 2011.
+
+3. **Light Green Line (▲)**: Representing the age group 33-36. The numbers begin at 5.9 in 2000 and show a slight decline, reaching 7.8 in 2011.
+
+4. **Red Line (●)**: Representing the age group 37-42. This data starts at 2.3 in 2000 and remains mostly stable, ending at 1.4 in 2011.
+
+The y-axis is labeled with logarithmic scale numbers, while the x-axis shows the years. This graph likely represents demographic data or a similar statistical measure across these age groups."
+130,"The biomedical image is a line graph showing the trends over time for four different age groups between the years 2000 and 2011. The age groups are represented by different colored lines:
+
+1. **21-27 years** (green): This group starts at 489 in 2000, decreases to 403 by 2007, and slightly increases to 385 by 2011.
+2. **28-32 years** (brown): This group starts at 46 in 2000, fluctuates slightly, and ends at 40 in 2011.
+3. **33-36 years** (light green): This group starts at 5.9 in 2000, fluctuates throughout, and ends at 7.8 in 2011.
+4. **37-42 years** (red): This group starts at 2.3 in 2000, decreases slightly, and ends at 1.4 in 2011.
+
+Overall, the graph depicts trends across these age groups over the specified time period."
+131,"The image is an epidemiological bar graph depicting the number of cases over time, possibly in a context related to foodborne illness. The x-axis represents dates from October 2nd to October 6th, and the y-axis shows the number of cases, ranging from 0 to 35.
+
+- Black bars represent cases associated with eating at 2:00 AM.
+- White bars represent cases associated with eating at 10:00 PM.
+
+Key observations:
+
+- A peak in cases occurs on October 4th, with the highest number linked to the 2:00 AM eating time.
+- The time of exposure is indicated by an arrow on October 2nd.
+- Cases decrease after the peak, with fewer occurrences by October 6th."
+132,"The table displays data regarding food items and their association with illness rates. It includes columns for:
+
+1. **Food Items**: Meat, Rice, Restaurant-made sweets, Homemade sweets, Soft drinks, Coffee, and Tea.
+2. **Ate the Food Item**: 
+   - Ill/Total: Number of people who became ill out of those who consumed the item.
+   - Attack Rate: Percentage of people who became ill after eating the item.
+3. **Did Not Eat the Food Item**: 
+   - Ill/Total: Number of people who became ill among those who did not consume the item.
+   - Attack Rate: Percentage of people who became ill without eating the item.
+4. **Relative Risk**: Likelihood of illness after eating the food compared to not eating it.
+5. **95% CI (Confidence Interval)**: Statistical range indicating the reliability of the relative risk.
+
+The highest relative risk is associated with consuming meat (16.7), followed by rice (13.6), whereas tea and coffee have lower relative risks, indicating a protective effect. "
+133,"The image shows a microscopic view of a parasitic organism. The central feature appears to be a helminth egg, likely from a trematode or fluke, characterized by its oval shape and a distinct operculum. Surrounding the egg are various smaller, circular structures that could be cells or other debris."
+134,"The image shows a microscopic view of blood cells. The cells are primarily erythrocytes (red blood cells), which appear round and light purple. There are also a few cells with distinct darker spots, which are likely lymphocytes, a type of white blood cell. The image is likely a stained blood smear used for hematological analysis."
+135,"This image shows a bacterial culture on an agar plate demonstrating bacteriophage activity. The circular clear zones, or plaques, indicate areas where bacteriophages have lysed the bacterial cells. The image captures both the bacterial lawn and the areas of phage-induced clearing, illustrating the presence and effect of bacteriophages on bacterial growth."
+136,"This image appears to be a histological section showing connective tissue with a presence of parasitic structures. The red-stained areas are indicative of parasitic organisms, possibly nematodes, within the tissue. These structures are characteristic of the pathogen that causes Dracunculiasis, commonly known as Guinea worm disease. The image displays eosinophilic inflammation around the parasites, typical of an immune response in the host tissue."
+137,The image you provided is a microscopic view of blood cells. It features several red blood cells and a white blood cell known as an eosinophil. The eosinophil is characterized by its bilobed nucleus and the presence of bright pink cytoplasmic granules.
+138,"The image shows a high-magnification view of cells undergoing mitosis, specifically a mitotic cell in culture. The central structure appears to be a mitotic spindle with chromosomes aligned, suggesting metaphase. The surrounding area shows multiple small circular structures, which could be other cellular components or debris."
+139,"This biomedical image appears to show a microscopic view of pollen grains. The grains are spherical with distinctive spiky or rough surfaces, typical of pollen. The pink staining highlights the structures, making the spikes or textured surfaces prominent. There are also some thread-like structures visible, which may be fungal hyphae or plant filaments."
+140,"This image is a CT scan of the brain showing a significant abnormality. The right hemisphere exhibits a large, dark, crescent-shaped area adjacent to the skull, which is indicative of a subdural hematoma. There is also a midline shift, where the brain structures are pushed towards the left side. Additionally, there appears to be a hyperdense mass likely representing calcification or hemorrhage within the brain tissue on the right side. This scan suggests a significant traumatic brain injury or other pathological condition that requires medical attention."
+141,"This is a CT scan of the brain showing several hyperdense lesions, which are suggestive of calcifications. The calcifications are distributed in a pattern compatible with intracranial calcifications. They appear in the basal ganglia region, which may be associated with certain pathologies or conditions. The rest of the brain parenchyma does not show significant abnormal findings on this image."
+142,"The image is a CT scan of the brain showing bilateral subdural hematomas. There is a crescent-shaped area of increased density (hyperdensity) on both sides of the brain, indicating the presence of blood between the dura mater and the brain. The ventricles are slightly compressed, suggesting mass effect. The midline structures appear to be somewhat shifted."
+143,"The image shows two visual field plots:
+
+- The plot labeled ""A"" (OS) has a central cluster of black dots, indicating a scotoma or area of vision loss in the center of the left eye's visual field.
+- The plot labeled ""B"" (OD) has a cluster of black dots in the upper right quadrant, suggesting a scotoma or visual field defect in the superior temporal area of the right eye.
+
+These plots could indicate a specific pattern of visual impairment, possibly related to conditions like glaucoma or other optic nerve issues."
+144,"The biomedical image shows two MRI scans of a human brain. The left panel appears to be an axial (horizontal) view, showing a cross-section of the brain. The right panel depicts a coronal (frontal) view. Both images clearly show the ventricles and various brain structures, with the different shades indicating variations in tissue densities. These images are typically used for assessing brain anatomy and identifying any abnormalities."
+145,"The image shows three distinct waveforms. The top two waveforms consist of irregular, jagged patterns reminiscent of an electroencephalogram (EEG) or other neurological or cardiac tracings. The bottom waveform is a smooth, sinusoidal pattern that looks more regular and evenly spaced, typical of a sine wave."
+146,"The image contains three different waveforms. The top two waveforms are irregular and jagged, resembling noise or complex signals, while the bottom waveform is smooth and sinusoidal, indicating a more regular oscillation."
+147,"This image is an axial MRI scan of a human brain. The scan shows a cross-sectional view of the brain, including structures such as the eyes at the top of the image, the ventricles in the center, and various brain tissues and areas. The image appears to be taken using T2-weighted imaging, which makes fluid appear bright, enhancing the contrast of different components in the brain."
+148,"The image is a CT scan of a human brain. It shows an axial view with several features:
+
+- There is a prominent dark area likely representing a type of brain structure or fluid-filled space.
+- There appear to be variably dense areas consistent with different tissue types.
+- Some white spots could indicate calcifications or foreign objects.
+
+The image might be used to assess normal anatomy or possible abnormalities such as hemorrhaging, tumors, or other brain conditions."
+149,The image is a diagram of a brain slice highlighting Heschl's gyrus. It labels the specific region on the cerebral cortex associated with processing auditory information. The diagram indicates the location with a line pointing to the gyrus.
+150,"The biomedical image is an MRI of the brain. It shows a section of the brain with an area of abnormality indicated by a white arrow. This region appears as a bright spot on the scan, suggesting a potential lesion or abnormality in the brain tissue. The image slices through parts of both hemispheres, with the abnormality located in the left hemisphere from the viewer's perspective."
+151,"The image is an axial MRI scan of the brain. It shows a cross-sectional view of the lower part of the brain with clear visualization of the cerebellum, brainstem, and surrounding structures. The image has high contrast between different brain tissues, highlighting anatomical details such as the brainstem and cerebellar hemispheres."
+152,"The image is an axial MRI scan of the brain, depicting a section at the level of the brainstem. There is a highlighted area, indicated by an arrow, which appears to show a lesion or abnormality located in the region of the brainstem. The brain structures and differences in intensity are visible, which may suggest a differential diagnosis based on the appearance and location of the lesion."
+153,"The image is an MRI scan of the lumbar spine in a sagittal view. It shows several vertebrae and intervertebral discs. The spinal cord and surrounding tissues are visible. The alignment of the spine appears straight, and the vertebrae and discs can be seen in detail. This type of image is typically used to assess spinal structures for any abnormalities or pathologies."
+154,"The image is a CT scan of the brain, showing a hyperdense area consistent with a subdural hematoma. There is a crescent-shaped collection of blood on the left side of the brain, indicated by the arrow. This suggests bleeding between the dura mater and the brain tissue. The midline shift indicates possible raised intracranial pressure."
+155,"The image displays a diagram of a human face, highlighting the chin area with a gray shading. An arrow points to this shaded region, indicating a specific area of interest or focus on the chin."
+156,"The image shows a retinal fundus photograph. In the center, there is a yellow-colored lesion with well-defined borders, likely indicative of calcification or a tumor. It is surrounded by a halo of pigmentation, and there are visible blood vessels around the periphery."
+157,"The biomedical image consists of two parts:
+
+1. **Left Image**: This shows a cross-section of a cystic structure, possibly an echinococcal cyst. It appears encapsulated with a thick, pink-stained outer layer suggesting a fibrous capsule.
+
+2. **Right Image**: A high-power view of the histological section with numerous small, round cells with dark nuclei, possibly indicating lymphoid cells or a dense cellular infiltrate. The staining suggests the use of Hematoxylin and Eosin (H&E), a common histological stain for examining cellular detail."
+158,"This biomedical image appears to be a view of the peritoneal cavity. It shows multiple small, white, elevated lesions scattered throughout the tissue. These lesions may indicate the presence of peritoneal tubercles, which are associated with tuberculous peritonitis. The prominent blood vessels are visible against the background tissue."
+159,"The image appears to be a 3D rendering or reconstruction of a biological tissue sample, possibly demonstrating an internal structure with variations in density or composition. The colors range from pink to purple with some translucency, suggesting it might be a structural analysis of a tissue, perhaps bone or cartilage, through imaging techniques like MRI or CT. The image might be used to visualize and study anatomical features or pathologies within the sample."
+160,"The image appears to be a histological section of a blood vessel. It shows a cross-section with the following features:
+
+1. **Wall Structure**: The vessel wall has multiple layers, likely indicating an arterial structure. 
+2. **Adventitia**: This outermost layer is visible but not clearly demarcated due to the focus on the inner layers.
+3. **Media**: The middle layer consists of smooth muscle cells with some areas possibly filled with lipid deposits, which stain orange-red, suggesting the presence of atheromatous plaque.
+4. **Intima**: The innermost layer is thinner but distinct.
+5. **Lipid Deposition**: The red-orange staining in the media hints at lipid accumulation, characteristic of atherosclerosis.
+
+This image likely represents an arterial section showing early-stage atherosclerotic changes."
+161,"The image is a histological section showing a tissue sample stained with hematoxylin and eosin (H&E). It depicts a section of the gastrointestinal tract, likely the colon, based on the presence of characteristic glandular structures. The mucosa appears to have crypts with a darker staining due to cell nuclei, and there are several layers visible, including the submucosa and muscularis. The overall appearance suggests a normal colonic architecture without apparent abnormalities like dysplasia or inflammation."
+162,"The image shows the eyes of a person wearing blue glasses in two different scenarios. In both images, there are signs of strabismus (misalignment of the eyes). 
+
+- In the top image, the left eye is turned outward (exotropia).
+- In the bottom image, the right eye appears to be turned outward as well.
+
+These images demonstrate a possible case of alternating exotropia, where each eye drifts outward at different times."
+163,"The image shows a close-up of a child's eyes demonstrating strabismus, specifically exotropia, where one eye is turned outward while the other eye is directed straight ahead. This condition is a type of misalignment of the eyes."
+164,"The image shows two close-up photographs of a child's eyes. In the top image, the child appears to be looking into the distance, while in the bottom image, the child seems to be looking at something nearby, as suggested by the text next to the images in Hebrew, which likely indicate ""gaze into the distance"" and ""nearby gaze."" The eyes appear symmetric with normal positioning and no obvious abnormalities in the surrounding structures."
+165,"The biomedical image shows two fundus photographs of the retina, highlighting the optic disc area with branching blood vessels. These images are likely used to examine the structural health of the retina and optic nerve, often to assess or diagnose ocular conditions like glaucoma or optic neuropathy. The white area within each optic disc could be indicative of an abnormality or area of interest for further evaluation."
+166,"This image shows an eye with a slit-lamp examination. There is a distinctive line of light, characteristic of a slit-lamp view, across the cornea and iris. Notably, there is a central white opacity on the lens, indicative of a cataract. Additionally, the red reflex is present, which can often enhance visibility of opacities or abnormalities in the lens."
+167,"The image shows a child with multiple small, raised, dome-shaped lesions on the face. These lesions have a pearly appearance, typical of molluscum contagiosum. The lesions are primarily located on the forehead, around the eyes, and the cheek. The eyes are blacked out for privacy."
+168,"The image depicts a horizontal (axial) CT scan of the human head. It shows the bony and soft tissue structures of the skull, likely focusing on the nasal cavity and surrounding sinuses. The varying shades of gray indicate different tissue densities, with bone appearing white and air-filled spaces (such as the sinuses) appearing black. The symmetrical structures are the orbits (eye sockets) on either side. The nasal septum is visible in the midline, separating the two halves of the nasal cavity."
+169,"The biomedical image consists of two parts:
+
+1. **Left Image:** A close-up photograph of a person's eyes looking upward. The eyelids, eyebrows, and parts of the forehead are visible.
+
+2. **Right Image:** A coronal CT scan of the orbit and nasal region, showing the bone structures and soft tissues of the face. The eye sockets and nasal cavity are clearly visible. 
+
+These images are likely used to assess or investigate ocular or sinus conditions."
+170,"The images depict close-up views of a person's eyes. Both images show signs of redness in the sclera (the white part of the eyes) and prominent blood vessels. The person has blue irises. There are visible signs of aging around the eyes, such as wrinkles and sagging skin, and the eyelids appear slightly droopy. The images show a comparative view, possibly indicating a before-and-after scenario or highlighting different conditions."
+171,"The image shows an eyelid being everted, likely as part of a medical examination or procedure. The inner part of the upper eyelid, or conjunctiva, is visible, and appears pink and healthy. There is a surgical instrument (forceps) holding the eyelashes, which helps lift the eyelid. This is typically done to inspect the eye for foreign bodies or other abnormalities."
+172,"The biomedical image shows a close-up of an eye with an arrow pointing to the medial canthus, the corner where the upper and lower eyelids meet near the nose. This may indicate a focus on a specific feature or condition in that area, such as a skin lesion, tear duct abnormality, or other ocular conditions."
+173,"The biomedical image contains three distinct parts:
+
+1. The first part shows a pair of human eyes, likely focusing on the appearance of the eyelids and eye position.
+2. The middle image is a CT scan of the head, showing a coronal view of the orbits. This includes the eyes and surrounding structures.
+3. The third part is a histology image using hematoxylin and eosin (H&E) staining. It depicts a tissue sample with glandular structures, likely from a biopsy, showing cellular detail at the microscopic level."
+174,"The biomedical image shows a close-up of a human eye. The focus is on the inner corner, where there is redness and possible inflammation. The area pointed to by an arrow appears to indicate a lesion or growth on the lower eyelid near the inner canthus. This might suggest a blocked tear duct or a lesion that could be a chalazion or other similar condition."
+175,"The image shows an axial MRI scan of the brain. The scan reveals the ventricular system and surrounding brain structures. The ventricles appear to be of normal size and shape, with hyperintense (bright) and hypointense (dark) areas typical of T2-weighted imaging, which highlights fluid and white matter structures. There are no obvious abnormalities, such as masses or lesions, visible in this particular slice."
+176,"The image shows two visual field plots, likely representing perimetry test results, which are used to assess the field of vision in each eye. Each plot has a grid with data points mapped across it, indicating sensitivity levels. Darker or denser areas suggest regions of vision loss or defect, while lighter areas denote normal vision. The arrangement of these plots suggests a test often used for diagnosing glaucoma or other ocular conditions affecting the visual field."
+177,"The image shows a close-up of a person's eyes. There is noticeable swelling and redness of the upper eyelids, which may suggest an allergic reaction or inflammation such as periorbital edema."
+178,"The image shows a close-up of a person's eyes with notable swelling and drooping of the eyelids. This condition could be indicative of ptosis or possibly some form of eyelid edema. There is noticeable puffiness around the eyes, suggesting inflammation or another underlying condition affecting the eyelid area."
+179,"The image shows a microscopic view of an organism that appears to be a small invertebrate, likely a tardigrade due to its segmented body and claw-like structures. The scale bar indicates a size of approximately 0.1 mm. The creature's body is elongated with discernible segments and appendages at the rear."
+180,"The image shows an eye with an abnormal growth or lesion on the iris. There is a noticeable deposit or mass that appears as a light-colored, irregular patch, possibly indicative of a medical condition affecting the eye, such as a tumor or other lesion. The surrounding areas exhibit redness, which may suggest inflammation or irritation."
+181,"The biomedical image shows two colored photographs labeled A and B, depicting an eye condition. Image A appears to show the corneal surface with a darkened center and light edges, with numerous small, bright spots visible on the surface, which could indicate deposits or precipitates. Image B displays another view with a red-orange background, also showing many small bright spots uniformly distributed across the surface. This pattern could be associated with a particular eye condition involving corneal deposits."
+182,"The image appears to show an eye, specifically the iris and part of the corneal surface. On the right side, there are multiple white deposits or opacities on the cornea, which could suggest the presence of an infection or inflammation, such as corneal ulcers or keratitis. The left side shows a clear view of the iris with a central black pupil. The abnormalities visible indicate ocular pathology that may require medical evaluation."
+183,"The image appears to be of an eye, specifically focusing on the cornea. It shows a linear, transparent structure that looks like a worm or parasite within the corneal stroma. This could suggest a case of parasitic infection in the eye, possibly Loa Loa or another filarial worm. The surrounding area and lighting indicate it was likely taken through a slit lamp examination."
+184,"The image shows a close-up of the cornea with a diffuse pattern of grayish, dust-like deposits on the endothelial surface. This appearance is typical of corneal guttata, which can be associated with Fuchs' endothelial dystrophy."
+185,"The image is an optical coherence tomography (OCT) scan of the retina. It shows a cross-sectional view with noticeable features indicative of cystoid macular edema. The retina appears to have fluid-filled, cyst-like spaces in the macular region, causing a dome-shaped elevation. This can be associated with various retinal diseases."
+186,"The image depicts an eye with a close-up view of the iris and pupil. The eye is blue, and there are visible details of the corneal surface. Inside the pupil, there is a noticeable reflection, and strands that resemble synechiae or attachments of the iris to the lens are present, possibly indicative of an eye condition."
