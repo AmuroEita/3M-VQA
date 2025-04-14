@@ -1,5 +1,5 @@
-# M3-VQA
-M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA leverages translation for multilingual inputs, retrieval augmented generation (RAG) for knowledge grounding, and in-context learning (ICL) with Chain-of-Thought prompting for accurate reasoning. 
+# 3M-VQA
+3M-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA leverages translation for multilingual inputs, retrieval augmented generation (RAG) for knowledge grounding, and in-context learning (ICL) with Chain-of-Thought prompting for accurate reasoning. 
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ M3-VQA, a novel pipeline for multilingual and multimodal biomedical VQA. M3-VQA 
 1. Get a free API Key for Google Translate and configure locally, please refer to [https://cloud.google.com/translate/docs/reference/rest/](https://cloud.google.com/translate/docs/reference/rest/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/AmuroEita/M3-VQA.git && cd M3-VQA
+   git clone https://github.com/AmuroEita/3M-VQA.git && cd 3M-VQA
    ```
 3. Use git lfs fetch the faiss index files
    ```sh
